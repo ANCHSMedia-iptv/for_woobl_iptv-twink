@@ -11,7 +11,7 @@
 
 # Для Woobl IPTV
 # Автор: @acidraineasy0272mc (telegram)
-# Обновлено 17.01.2024
+# Обновлено 20.01.2024
 
 
 #EXTM3U
@@ -115,6 +115,9 @@ http://stream01.vnet.am/KXLTV/mono.m3u8
 # Всё что я нашёл ниже.
 
 
+#EXTINF:0,Первый канал 
+http://45.159.74.13/PerviyKanal/tracks-v1a1/mono.m3u8
+
 #EXTINF:0,National Geographic СНГ
 http://45.159.74.13:80/NationalGeographic/index.m3u8
 
@@ -160,6 +163,9 @@ http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
 #EXTINF:0,Домашний Int. 2
 http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
 
+#EXTINF:0,Домашний Int. 3
+http://45.159.74.13/Domashniy/index.m3u8
+
 #EXTINF:0,СТС Kids Int.
 http://45.159.74.13/DisneyChannel/tracks-v1a1/mono.m3u8
 
@@ -195,6 +201,42 @@ http://45.159.74.14:80/KXLTV/index.m3u8
 
 #EXTINF:0,Мир СНГ
 http://45.159.74.13:80/Mir/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Мир СНГ 2
+http://45.159.74.13/Mir/index.m3u8
+
+#EXTINF:0,Матч! Планета SD
+http://45.159.74.13/MatchPlaneta/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Дом Кино Премиум 
+http://45.159.74.13/THT/index.m3u8
+
+#EXTINF:0,Перец International.
+http://45.159.74.14/Perec/index.m3u8
+
+#EXTINF:0,Карусель 
+http://45.159.74.13/Karusel/index.m3u8
+
+#EXTINF:0,Tiji СНГ
+http://45.159.74.14/Tiji/index.m3u8
+
+#EXTINF:0,Телеканал История
+http://45.159.74.14/Istoria/index.m3u8
+
+#EXTINF:0,Телекафе
+http://45.159.74.14/Telekafe/index.m3u8
+
+#EXTINF:0,Кинокомедия
+http://45.159.74.14/Kinokomedia/index.m3u8
+
+#EXTINF:0,КВН ТВ
+http://45.159.74.14/Bober/index.m3u8
+
+#EXTINF:0,Звезда FHD
+http://45.159.74.14/Zvezda/index.m3u8
+
+#EXTINF:0,Пятница
+http://45.159.74.14/Pyatnica/index.m3u8
 
 
 # Всё что я нашёл :( Буду искать ещё.

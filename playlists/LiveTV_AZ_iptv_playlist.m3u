@@ -1,6 +1,5 @@
 
 
-
 # Потоки c сервера Hetzner Online GmbH в Хельсинки, Финляндия
 # Потоки принадлежат LifeTV из Азербайджана
 # Формат - в виде IP адреса.
@@ -12,7 +11,7 @@
 
 # Для Woobl IPTV
 # Автор: @acidraineasy0272mc (telegram)
-# Обновлено 19.01.2024
+# Обновлено 20.01.2024
 
 
 #EXTM3U
@@ -60,7 +59,7 @@ http://135.181.115.81/russia/pervyj_kanal/playlist.m3u8
 #EXTINF:0,Europa Plus TV
 http://135.181.115.81/russia/evropaplus/playlist.m3u8
 
-#EXTINF:0,Пятница
+#EXTINF:0,Пятница (МСК+0)
 http://135.181.115.81/russia/pyatnica/playlist.m3u8
 
 #EXTINF:0,Кто есть кто
@@ -110,6 +109,12 @@ http://135.181.115.81/russia/viasat_nature/playlist.m3u8
 
 #EXTINF:0,viju (Viasat) History
 http://135.181.115.81/russia/viasat_history/playlist.m3u8
+
+#EXTINF:0,Матч! Планета SD
+http://135.181.115.81/russia/match_planeta/playlist.m3u8
+
+#EXTINF:0,viju (Viasat) TV1000 Русское
+http://135.181.115.81/russia/tv1000_russkoe_kino/playlist.m3u8
 
 
 #EXTINF:0,Eurosport 1 HD СНГ
