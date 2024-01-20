@@ -1,0 +1,258 @@
+
+
+
+# Потоки от провайдера Raketa (Uplink Ltd.) из Иркутской области 0_0
+# Потоки интерактивного ТВ Телепорт
+# Тут затесались ещё и каналы которые ушли из России)
+# Формат - в виде IP адресов с портом или без.
+# Всё что я нашёл. Плейлист будет обновляться!
+# https://raw.githubusercontent.com/teleeasyiptv/for_woobl_iptv/main/TeleportIPTV_iptv_playlist.m3u
+# Альт. ссылка: https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/playlists/TeleportIPTV_iptv_playlist.m3u
+
+
+# Для Woobl IPTV
+# Автор: @acidraineasy0272mc (telegram)
+# Обновлено 17.01.2024
+
+
+#EXTM3U
+
+#EXTINF:0,Animal Planet HD СНГ 
+http://31.148.48.15:80/Animal_Planet_HD/index.m3u8
+
+#EXTINF:0,Россия 24
+http://31.148.48.15:80/Rossiya_24/index.m3u8
+
+#EXTINF:0,Россия 1
+http://31.148.48.15:80/Rossiya_1/index.m3u8
+
+#EXTINF:0,Россия Культура
+http://31.148.48.15:80/TDK/index.m3u8
+
+#EXTINF:0,Карусель
+http://31.148.48.15:80/Paramount_Comedy/index.m3u8
+
+#EXTINF:0,Nickelodeon Global СНГ
+http://31.148.48.15:80/Nickelodeon/index.m3u8
+
+#EXTINF:0,Cartoon Network
+# Поток который тут был - рабочий, но на нём заглушка «Этот канал сейчас недоступен».
+
+#EXTINF:0,Соловьёв Live
+http://31.148.48.15:80/EuroNews/index.m3u8
+
+#EXTINF:0,ТНТ4
+http://31.148.48.15:80/TNT4/index.m3u8
+
+#EXTINF:0,ТНТ
+http://31.148.48.15:80/TNT/index.m3u8
+
+#EXTINF:0,Amedia 1
+http://31.148.48.15:80/A1/index.m3u8
+
+#EXTINF:0,Amedia 2
+http://31.148.48.15/A2/index.m3u8
+
+#EXTINF:0,Дом Кино Премиум HD
+http://31.148.48.15:80/Dom_Kino_Premium_HD/index.m3u8
+
+#EXTINF:0,Дом Кино
+http://31.148.48.15:80/Dom_Kino/index.m3u8
+
+#EXTINF:0,Кинопоказ
+http://31.148.48.15:80/Kinopokaz/index.m3u8
+
+#EXTINF:0,СТС
+http://31.148.48.15:80/STS/index.m3u8
+
+#EXTINF:0,СТС Love
+http://31.148.48.15:80/STS_Love/index.m3u8
+
+#EXTINF:0,Ani
+http://31.148.48.15:80/Ani/index.m3u8
+
+#EXTINF:0,Bridge TV
+http://31.148.48.15:80/Bridge_TV/index.m3u8
+
+#EXTINF:0,HD Life
+http://31.148.48.15:80/HD_Life/index.m3u8
+
+#EXTINF:0,RTG
+http://31.148.48.15:80/RTG/index.m3u8
+
+#EXTINF:0,Матч! Боец
+http://31.148.48.15:80/Match_Boec/index.m3u8
+
+#EXTINF:0,Время
+http://31.148.48.15:80/Vremya/index.m3u8
+
+#EXTINF:0,Доктор
+http://31.148.48.15:80/Doktor/index.m3u8
+
+#EXTINF:0,Еврокино
+http://31.148.48.15:80/Evrokino/index.m3u8
+
+#EXTINF:0,Живая планета
+http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8
+
+#EXTINF:0,Зоо ТВ
+http://31.148.48.15:80/Zoo_TV/index.m3u8
+
+#EXTINF:0,Кино ТВ
+http://31.148.48.15:80/Kino_TV/index.m3u8
+
+#EXTINF:0,Мир
+http://31.148.48.15:80/Mir/index.m3u8
+
+#EXTINF:0,Мир 24
+http://31.148.48.15:80/Mir_24/index.m3u8
+
+#EXTINF:0,Мама
+http://31.148.48.15:80/Mama/index.m3u8
+
+#EXTINF:0,Моя Планета
+http://31.148.48.15:80/Moya_Planeta/index.m3u8
+
+#EXTINF:0,Музыка Первого
+http://31.148.48.15:80/Muzika_Pervogo/index.m3u8
+
+#EXTINF:0,Мульт
+http://31.148.48.15:80/Mult/index.m3u8
+
+#EXTINF:0,Мультиландия
+http://31.148.48.15:80/Multilandiya/index.m3u8
+
+#EXTINF:0,Наука 2.0
+http://31.148.48.15:80/Nauka_2.0/index.m3u8
+
+#EXTINF:0,Ностальгия 
+http://31.148.48.15:80/Nostalgiya/index.m3u8
+
+#EXTINF:0,Победа
+http://31.148.48.15:80/BBC_World_News/index.m3u8
+
+#EXTINF:0,Поехали!
+http://31.148.48.15:80/Poehali/index.m3u8
+
+#EXTINF:0,Поехали! 2
+http://31.148.48.15:80/MTV_Live_HD/index.m3u8
+
+#EXTINF:0,Телекафе
+http://31.148.48.15:80/Telekafe/index.m3u8
+
+#EXTINF:0,Телепутешествия
+http://31.148.48.15:80/Teleputeshestviya/index.m3u8
+
+#EXTINF:0,Уникум
+http://31.148.48.15:80/Detskiy/index.m3u8
+
+#EXTINF:0,Ю
+http://31.148.48.15:80/U/index.m3u8
+
+#EXTINF:0,Бокс ТВ
+http://31.148.48.15:80/Boks_TV/index.m3u8
+
+#EXTINF:0,Матч! Футбол 1
+http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8
+
+#EXTINF:0,Матч! Футбол 2
+http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8
+
+#EXTINF:0,Матч! Футбол 3
+http://31.148.48.15:80/Match_Futbol_3_HD/index.m3u8
+
+#EXTINF:0,KHL TV Prime HD
+http://31.148.48.15:80/KHL_TV_HD/index.m3u8
+
+#EXTINF:0,KHL TV HD
+http://31.148.48.15:80/KHL_TV/index.m3u8
+
+#EXTINF:0,Авто Плюс
+http://31.148.48.15/Avto_Plus/index.m3u8
+
+#EXTINF:0,Кино ТВ
+http://31.148.48.15:80/Kino_TV/index.m3u8
+
+#EXTINF:0,Родное Кино
+http://31.148.48.15:80/Rodnoe_kino/index.m3u8
+
+#EXTINF:0,Русский бестселлер
+http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8
+
+#EXTINF:0,Пятница
+http://31.148.48.15:80/Pyatnica/index.m3u8
+
+#EXTINF:0,Бобёр
+http://31.148.48.15:80/Bober/index.m3u8
+
+
+# Потоки без порта.
+
+
+#EXTINF:0,KHL TV
+http://31.148.48.15/KHL_TV/index.m3u8
+
+#EXTINF:0,Россия 1
+http://31.148.48.15/Rossiya_1/index.m3u8
+
+#EXTINF:0,Россия 24
+http://31.148.48.15/Rossiya_24/index.m3u8
+
+#EXTINF:0,Карусель
+http://31.148.48.15/Paramount_Comedy/index.m3u8
+
+#EXTINF:0,Animal Planet HD СНГ
+http://31.148.48.15/Animal_Planet_HD/index.m3u8
+
+#EXTINF:0,Nickelodeon Global СНГ
+http://31.148.48.15/Nickelodeon/index.m3u8
+
+#EXTINF:0,Поехали!
+http://31.148.48.15/MTV_Live_HD/index.m3u8
+
+#EXTINF:0,Соловьёв Live
+http://31.148.48.15/EuroNews/index.m3u8
+
+#EXTINF:0,ТНТ
+http://31.148.48.15/TNT/index.m3u8
+
+#EXTINF:0,Бобёр
+http://31.148.48.15/Bober/index.m3u8
+
+#EXTINF:0,Телекафе
+http://31.148.48.15/Telekafe/index.m3u8
+
+#EXTINF:0,Мульт
+http://31.148.48.15/Mult/index.m3u8
+
+#EXTINF:0,Пятница
+http://31.148.48.15/Pyatnica/index.m3u8
+
+#EXTINF:0,СТС
+http://31.148.48.15/STS/index.m3u8
+
+#EXTINF:0,СТС Love
+http://31.148.48.15/STS_Love/index.m3u8
+
+#EXTINF:0,Мир
+http://31.148.48.15/Mir/index.m3u8
+
+#EXTINF:0,Ю
+http://31.148.48.15/U/index.m3u8
+
+#EXTINF:0,ТНТ4
+http://31.148.48.15/TNT4/index.m3u8
+
+#EXTINF:0,Мир 24
+http://31.148.48.15/Mir_24/index.m3u8
+
+#EXTINF:0,Amedia 1
+http://31.148.48.15/A1/index.m3u8
+
+#EXTINF:0,Amedia 2
+http://31.148.48.15/A2/index.m3u8
+
+
+
+# Всё что я нашёл :( Буду искать ещё.
+

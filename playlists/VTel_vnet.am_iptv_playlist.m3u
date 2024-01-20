@@ -1,0 +1,282 @@
+
+
+# Потоки (stream01.vnet.am) от провайдера VTelecom из Армении
+# Разный формат - в виде адреса и IP адресов.
+# Всё что я нашёл. Плейлист будет обновляться!
+# https://raw.githubusercontent.com/teleeasyiptv/for_woobl_iptv/main/VTel_vnet.am_iptv_playlist.m3u
+# Альт. ссылка: https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/playlists/VTel_vnet.am_iptv_playlist.m3u
+# P.s. Нету геоблока!
+# Внимание! Немного нестабильные и "иногда" буферят (томозят)!
+
+
+# Для Woobl IPTV
+# Автор: @acidraineasy0272mc (telegram)
+# Обновлено 17.01.2024
+
+
+#EXTM3U
+
+#EXTINF:0,Animal Planet HD СНГ
+https://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
+
+#EXTINF:0,Animal Planet HD СНГ 2
+http://stream01.vnet.am/AnimalPlanet/mono.m3u8
+
+#EXTINF:0,.sci-fi Int.
+http://stream01.vnet.am/Kinoseriya/mono.m3u8
+
+#EXTINF:0,.black Int.
+https://stream01.vnet.am/Kinosemya/mono.m3u8
+
+#EXTINF:0,Discovery Channel HD СНГ
+https://stream01.vnet.am/DiscoveryChannel/mono.m3u8
+
+#EXTINF:0,ID СНГ
+https://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
+
+#EXTINF:0,TLC СНГ
+http://stream01.vnet.am/TLC/mono.m3u8
+
+#EXTINF:0,FightBox HD
+http://stream01.vnet.am/Fightbox/mono.m3u8
+
+#EXTINF:0,Fox СНГ
+https://stream01.vnet.am/Fox/mono.m3u8
+
+#EXTINF:0,Россия 24 Int.
+http://stream01.vnet.am/Rossia24/mono.m3u8
+
+#EXTINF:0,КВН Int.
+https://stream01.vnet.am/Bober/mono.m3u8
+
+#EXTINF:0,Бокс ТВ Int.
+http://stream01.vnet.am/BoksTv/mono.m3u8
+
+#EXTINF:0,Индия (Zee TV) СНГ
+https://stream01.vnet.am/ZeeTV/mono.m3u8
+
+#EXTINF:0,Пятница Int.
+https://stream01.vnet.am/Pyatnica/mono.m3u8
+
+#EXTINF:0,Рен ТВ Int.
+https://stream01.vnet.am/RenTv/mono.m3u8
+
+#EXTINF:0,Hollywood HD СНГ
+http://stream01.vnet.am/ParamountChannel/mono.m3u8
+
+#EXTINF:0,Amedia Premium Int.
+http://stream01.vnet.am/AmediaPremium/mono.m3u8
+
+#EXTINF:0,Nicktoons HD СНГ
+https://stream01.vnet.am/Boomerang/mono.m3u8
+
+#EXTINF:0,Детский мир HD Int.
+http://stream01.vnet.am/CartoonNetwork/mono.m3u8
+
+#EXTINF:0,Дом Кино Int.
+https://stream01.vnet.am/DomKino/mono.m3u8
+
+#EXTINF:0,МузТВ Int.
+http://stream01.vnet.am/MuzTv/mono.m3u8
+
+#EXTINF:0,Мульт Int.
+http://stream01.vnet.am/Mult/mono.m3u8
+
+#EXTINF:0,Наука 2.0 Int.
+http://stream01.vnet.am/Nauka/mono.m3u8
+
+#EXTINF:0,Первый космический Int.
+http://stream01.vnet.am/Evrika/mono.m3u8
+
+#EXTINF:0,Перец International.
+http://stream01.vnet.am/Perec/mono.m3u8
+
+#EXTINF:0,Пятница Int.
+https://stream01.vnet.am/Pyatnica/mono.m3u8
+
+#EXTINF:0,Телекафе Int.
+http://stream01.vnet.am/Telekafe/mono.m3u8
+
+#EXTINF:0,Eurosport 1 HD СНГ
+http://stream01.vnet.am/Eurosport/mono.m3u8
+
+#EXTINF:0,1 канал HD Армении
+http://stream01.vnet.am/CNN/mono.m3u8
+
+#EXTINF:0,Extreme Sports СНГ
+http://stream01.vnet.am/KXLTV/mono.m3u8
+
+
+# Всё что я нашёл :( Буду искать ещё.
+
+
+# Потоки в виде IP адресов.
+# Ниже потоки диапозона IP адресов 45.159.74.XX с портами 80, 8080 либо без.
+# Всё что я нашёл ниже.
+
+
+#EXTINF:0,National Geographic СНГ
+http://45.159.74.13:80/NationalGeographic/index.m3u8
+
+#EXTINF:0,National Geographic Wild СНГ
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,National Geographic СНГ 2
+http://45.159.74.13/NationalGeographic/index.m3u8
+
+#EXTINF:0,National Geographic Wild СНГ 2
+http://45.159.74.13/NatGeoWild/index.m3u8
+
+#EXTINF:0,National Geographic Wild СНГ 3
+http://45.159.74.13/NatGeoWild/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Animal Planet HD СНГ
+http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8
+
+#EXTINF:0,Ren TV Int.
+http://45.159.74.14:80/RenTv/index.m3u8
+
+#EXTINF:0,ID СНГ
+http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+
+#EXTINF:0,ID СНГ 2
+http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Кинопремьера HD Int.
+http://45.159.74.13:80/Kinopremera/index.m3u8
+
+#EXTINF:0,Fox СНГ
+http://45.159.74.14:80/Fox/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Discovery Channel СНГ 2
+http://45.159.74.14/DiscoveryChannel/index.m3u8
+
+#EXTINF:0,TLC СНГ 5
+http://45.159.74.14:80/TLC/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Россия 1 HD
+http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Домашний Int. 2
+http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,СТС Kids Int.
+http://45.159.74.13/DisneyChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,СТС Int. 2
+http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Animal Planet СНГ 2
+http://45.159.74.14:80/AnimalPlanet/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,viju+ (Viasat) Sport СНГ
+http://45.159.74.13/AutoPlus/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Детский мир HD Int.
+http://45.159.74.14:80/CartoonNetwork/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Nicktoons HD СНГ
+http://45.159.74.14:80/Boomerang/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,1 канал HD Армении
+http://45.159.74.14:80/CNN/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Индия (Zee TV) СНГ
+http://45.159.74.14:80/ZeeTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Eurosport 1 HD СНГ
+http://45.159.74.14:80/Eurosport/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,СТС Kids Int. 2
+http://45.159.74.13/DisneyChannel/index.m3u8
+
+#EXTINF:0,Extreme Sports СНГ
+http://45.159.74.14:80/KXLTV/index.m3u8
+
+#EXTINF:0,Мир СНГ
+http://45.159.74.13:80/Mir/tracks-v1a1/mono.m3u8
+
+
+# Всё что я нашёл :( Буду искать ещё.
+
+
+
+# Потоки с концом mpegts
+# Всё что я нашёл ниже.
+
+
+#EXTINF:0,Eurosport 1 HD СНГ 
+http://45.159.74.14/Eurosport/mpegts
+
+#EXTINF:0,Fox СНГ
+http://45.159.74.14/Fox/mpegts
+
+#EXTINF:0,TLC СНГ
+http://45.159.74.14/TLC/mpegts
+
+#EXTINF:0,Animal Planet HD СНГ
+http://45.159.74.14/AnimalPlanet/mpegts
+
+#EXTINF:0,Детский мир Int.
+http://45.159.74.14/CartoonNetwork/mpegts
+
+#EXTINF:0,ID СНГ
+http://45.159.74.14/InvestigationDiscovery/mpegts
+
+#EXTINF:0,Индия (Zee TV) СНГ
+http://45.159.74.14/ZeeTV/mpegts
+
+#EXTINF:0,Nicktoons HD СНГ
+http://45.159.74.14/Boomerang/mpegts
+
+#EXTINF:0,1 канал HD Армении
+http://45.159.74.14/CNN/mpegts
+
+#EXTINF:0,Nicktoons HD СНГ
+http://45.159.74.14/Boomerang/mpegts
+
+#EXTINF:0,КВН Int.
+http://45.159.74.14/Bober/mpegts
+
+#EXTINF:0,Пятница Int.
+http://45.159.74.14/Pyatnica/mpegts
+
+#EXTINF:0,Рен ТВ Int.
+http://45.159.74.14/RenTv/mpegts
+
+#EXTINF:0,МузТВ Int.
+http://45.159.74.14/MuzTv/mpegts
+
+#EXTINF:0,Телекафе Int.
+http://45.159.74.14/Telekafe/mpegts
+
+#EXTINF:0,Наука 2.0 HD Int.
+http://45.159.74.14/Nauka/mpegts
+
+#EXTINF:0,Дом Кино
+http://45.159.74.14/DomKino/mpegts
+
+#EXTINF:0,Перец International.
+http://45.159.74.14/Perec/mpegts
+
+#EXTINF:0,Fightbox HD
+http://45.159.74.14/Fightbox/mpegts
+
+#EXTINF:0,Первый космический HD Int.
+http://45.159.74.14/Evrika/mpegts
+
+#EXTINF:0,Мульт HD Int.
+http://45.159.74.14/Mult/mpegts
+
+#EXTINF:0,.black Int.
+http://45.159.74.14/Kinosemya/mpegts
+
+#EXTINF:0,Extreme Sports СНГ
+http://45.159.74.14/KXLTV/mpegts
+
+#EXTINF:0,.sci-fi Int.
+http://45.159.74.14/Kinoseriya/mpegts
+
+
+# Всё что я нашёл :( Буду искать ещё.
+

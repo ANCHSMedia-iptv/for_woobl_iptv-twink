@@ -1,0 +1,120 @@
+
+
+
+# Потоки c сервера Hetzner Online GmbH в Хельсинки, Финляндия
+# Потоки принадлежат LifeTV из Азербайджана
+# Формат - в виде IP адреса.
+# Всё что я нашёл. Плейлист будет обновляться!
+# https://raw.githubusercontent.com/teleeasyiptv/for_woobl_iptv/main/LiveTV_AZ_iptv_playlist.m3u
+# Альт. ссылка: https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/playlists/LiveTV_AZ_iptv_playlist.m3u
+# P.s. Нету геоблока!
+
+
+# Для Woobl IPTV
+# Автор: @acidraineasy0272mc (telegram)
+# Обновлено 19.01.2024
+
+
+#EXTM3U
+
+
+#EXTINF:0,Animal Planet HD СНГ 
+http://135.181.115.81/russia/animal_planet/playlist.m3u8
+
+#EXTINF:0,Eurosport 1 HD СНГ
+http://135.181.115.81/russia/eurosport1/playlist.m3u8
+
+#EXTINF:0,Nickelodeon Global СНГ
+http://135.181.115.81/russia/nickelodeon/playlist.m3u8
+
+#EXTINF:0,Сartoon Network СНГ
+http://135.181.115.81/russia/cartoon/playlist.m3u8
+
+#EXTINF:0,Cartoonito СНГ
+http://135.181.115.81/russia/boomerang/playlist.m3u8
+
+#EXTINF:0,Amedia 2
+http://135.181.115.81/russia/amedia2/playlist.m3u8
+
+#EXTINF:0,Tiji 
+http://135.181.115.81/russia/tiji/playlist.m3u8 
+
+#EXTINF:0,Gulli Girl
+http://135.181.115.81/russia/gulli_girl/playlist.m3u8
+
+#EXTINF:0,Наше Новое Кино HD
+http://135.181.115.81/russia/nashe_novoe_kino/playlist.m3u8
+
+#EXTINF:0,Рен ТВ
+http://135.181.115.81/russia/rentv/playlist.m3u8
+
+#EXTINF:0,Пятница
+http://135.181.115.81/russia/pyatnica/playlist.m3u8
+
+#EXTINF:0,5 канал
+http://135.181.115.81/russia/5kanal/playlist.m3u8
+
+#EXTINF:0,Первый канал
+http://135.181.115.81/russia/pervyj_kanal/playlist.m3u8
+
+#EXTINF:0,Europa Plus TV
+http://135.181.115.81/russia/evropaplus/playlist.m3u8
+
+#EXTINF:0,Пятница
+http://135.181.115.81/russia/pyatnica/playlist.m3u8
+
+#EXTINF:0,Кто есть кто
+http://135.181.115.81/russia/kto_est_kto/playlist.m3u8
+
+#EXTINF:0,Мосфильм. Золотая коллекция
+http://135.181.115.81/russia/mosfilm/playlist.m3u8
+
+#EXTINF:0,Мульт
+http://135.181.115.81/russia/mult/playlist.m3u8
+
+#EXTINF:0,Наше Новое Кино
+http://135.181.115.81/russia/nashe_novoe_kino/playlist.m3u8
+
+#EXTINF:0,National Geographic СНГ
+http://135.181.115.81/russia/nat_geo/chunks.m3u8
+
+#EXTINF:0,National Geographic СНГ 2
+http://135.181.115.81/russia/nat_geo/playlist.m3u8
+
+#EXTINF:0,National Geographic Wild СНГ
+http://135.181.115.81/russia/nat_geo_wild_hd/playlist.m3u8
+
+#EXTINF:0,Приключения
+http://135.181.115.81/russia/priklyucheniya/playlist.m3u8
+
+#EXTINF:0,Россия 1
+http://135.181.115.81/russia/rossiya_1/playlist.m3u8
+
+#EXTINF:0,Россия 24
+http://135.181.115.81/russia/rossiya24/playlist.m3u8
+
+#EXTINF:0,Шансон ТВ
+http://135.181.115.81/russia/shanson/playlist.m3u8
+
+#EXTINF:0,viju+ (Viasat) Sport
+http://135.181.115.81/russia/viasat_sport/playlist.m3u8
+
+#EXTINF:0,viju+ (Viasat) Premiere HD
+http://135.181.115.81/russia/vip_premiere/playlist.m3u8
+
+#EXTINF:0,viju+ (Viasat) Comedy HD
+http://135.181.115.81/russia/vip_comedy/playlist.m3u8
+
+#EXTINF:0,viju (Viasat) Nature
+http://135.181.115.81/russia/viasat_nature/playlist.m3u8
+
+#EXTINF:0,viju (Viasat) History
+http://135.181.115.81/russia/viasat_history/playlist.m3u8
+
+
+#EXTINF:0,Eurosport 1 HD СНГ
+http://135.181.115.81/russia/eurosport1/chunks.m3u8
+
+
+# Всё что я нашёл :( Буду искать ещё.
+

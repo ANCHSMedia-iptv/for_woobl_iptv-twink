@@ -1,0 +1,798 @@
+
+
+# Потоки beeTV из Казахстана
+# Разный формат в окончании потоков - в виде [название_канала.m3u8] 
+# и [название_канала_разрешение_XXXXKbps.m3u8]
+# Всё что я найден. Плейлист будет обновляться!
+# https://raw.githubusercontent.com/teleeasyiptv/for_woobl_iptv/main/beetv_btvswm_iptv_playlist.m3u
+# Альт ссылка: https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/playlists/beetv_btvswm_iptv_playlist.m3u
+# P.s. Нету геоблока! 
+# Внимание! Потоки HLS и могут быть нестабильны!
+
+
+# Для Woobl IPTV
+# Автор: @acidraineasy0272mc (telegram)
+# Обновлено 19.01.2024
+
+
+#EXTM3U
+
+# ------
+
+#EXTINF:0 Инфоканал BeeTV (Казахстан) START HD
+https://176.222.190.11/btv/SWM/naiza/naiza_1080p_5000kbps.m3u8
+
+# ------
+
+#EXTINF:0,History HD СНГ
+http://176.222.190.11/btv/SWM/HistoryHD/HistoryHD.m3u8
+
+#EXTINF:0,H2 HD СНГ
+http://176.222.190.11/btv/SWM/History2HD/History2HD.m3u8
+
+#EXTINF:0,Comedy Central СНГ
+http://176.222.190.11/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
+
+#EXTINF:0,МузТВ Int.
+http://176.222.190.11/btv/SWM/Muz_Tv/Muz_Tv.m3u8
+
+#EXTINF:0,DTX HD СНГ
+# Канал прекратил своё существование с 7 января этого года.
+
+#EXTINF:0,Discovery Science HD СНГ 
+# Пока что не найден поток.
+
+#EXTINF:0,Discovery Channel HD СНГ
+http://176.222.190.11/btv/SWM/discovery_hd/discovery_hd.m3u8
+
+#EXTINF:0,Discovery Channel СНГ
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело.
+
+#EXTINF:0,National Geographic СНГ
+http://176.222.190.11/btv/SWM/NatGeo_channel/NatGeo_channel.m3u8
+
+#EXTINF:0,National Geographic Wild HD СНГ
+http://176.222.190.11/btv/SWM/NatGeo_Wild/NatGeo_Wild.m3u8
+
+#EXTINF:0,Animal Planet СНГ
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело.
+
+#EXTINF:0,TLC HD СНГ
+http://176.222.190.11/btv/SWM/tlc_hd/tlc_hd.m3u8
+
+#EXTINF:0,Big Planet HD Int.
+http://176.222.190.11/btv/SWM/big_planet_hd/big_planet_hd.m3u8
+
+#EXTINF:0,Terra HD Int.
+http://176.222.190.11/btv/SWM/terra_hd/terra_hd.m3u8
+
+#EXTINF:0,Рыбалка и охота Int.
+http://176.222.190.11/btv/icon/Ohota_i_rybalka/Ohota_i_rybalka.m3u8
+
+#EXTINF:0,Охотник и рыболов HD Int.
+http://176.222.190.11/btv/SWM/Ohotnik_i_ribolov/Ohotnik_i_ribolov.m3u8
+
+#EXTINF:0,Оружие Int.
+http://176.222.190.11/btv/SWM/oruzhie/oruzhie.m3u8
+
+#EXTINF:0,Загородная жизнь HD Int.
+http://176.222.190.11/btv/SWM/Zagorodnaya_Zhizn/Zagorodnaya_Zhizn.m3u8
+
+#EXTINF:0,#Кто Куда Int.
+http://176.222.190.11/btv/SWM/mir_uvlecheniy/mir_uvlecheniy.m3u8
+
+#EXTINF:0,Авто 24 Int.
+http://176.222.190.11/btv/icon/Avto24/Avto24.m3u8
+
+#EXTINF:0,Q Спорт HD СНГ
+http://176.222.190.11/btv/SWM/Q/Q.m3u8
+
+#EXTINF:0,Q Спорт СНГ SD
+http://176.222.190.11/btv/SWM/Qsport_international/Qsport_international.m3u8
+
+#EXTINF:0,Eurosport 1 СНГ
+http://176.222.190.11/btv/SWM/Eurosport/Eurosport.m3u8
+
+#EXTINF:0,Eurosport 2 СНГ
+http://176.222.190.11/btv/SWM/Eurosport2/Eurosport2.m3u8
+
+#EXTINF:0,Еврокино Int.
+http://176.222.190.11/btv/SWM/Eurokino/Eurokino.m3u8
+
+#EXTINF:0,Amedia 1 HD Int.
+http://176.222.190.11/btv/SWM/A1/A1.m3u8
+
+#EXTINF:0,Amedia 2 HD Int.
+http://176.222.190.11/btv/SWM/A2/A2.m3u8
+
+#EXTINF:0,Amedia Hit HD Int.
+http://176.222.190.11/btv/SWM/AmediaHitHD/AmediaHitHD.m3u8
+
+#EXTINF:0,Amedia Premium HD Int.
+http://176.222.190.11/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD.m3u8
+
+#EXTINF:0,TV XXI Int.
+http://176.222.190.11/btv/SWM/tv21/tv21.m3u8
+
+#EXTINF:0,Cinema Int.
+http://176.222.190.11/btv/SWM/CINEMA/CINEMA.m3u8
+
+#EXTINF:0,Hollywood СНГ
+http://176.222.190.11/btv/SWM/Hollywood/Hollywood.m3u8
+
+#EXTINF:0,Bollywood HD Int.
+http://176.222.190.11/btv/SWM/Bollywood_HD/Bollywood_HD.m3u8
+
+#EXTINF:0,Иллюзион + Int.
+http://176.222.190.11/btv/SWM/Illuzion-Plus_SWM/Illuzion-Plus_SWM.m3u8
+
+#EXTINF:0,Мир сериала Int.
+http://176.222.190.11/btv/SWM/mir_seriala/mir_seriala.m3u8
+
+#EXTINF:0,Мужской Int.
+http://176.222.190.11/btv/SWM/Muzhskoy/Muzhskoy.m3u8
+
+#EXTINF:0,Дом Кино Int.
+http://176.222.190.11/btv/SWM/Dom_Kino/Dom_Kino.m3u8
+
+#EXTINF:0,Дом Кино Премиум HD Int.
+http://176.222.190.11/btv/SWM/Dom_kino_Prem/Dom_kino_Prem.m3u8
+
+#EXTINF:0,viju (Viasat) TV1000 HD СНГ
+http://176.222.190.11/btv/SWM/tv1000hd/tv1000hd.m3u8
+
+#EXTINF:0,viju (Viasat) TV1000 Action HD СНГ
+http://176.222.190.11/btv/SWM/tv1000actionhd/tv1000actionhd.m3u8
+
+#EXTINF:0,viju (Viasat) TV1000 Русское кино HD СНГ
+http://176.222.190.11/btv/SWM/tv1000rukinohd/tv1000rukinohd.m3u8
+
+#EXTINF:0,viju+ (Vip) Comedy HD СНГ
+http://176.222.190.11/btv/SWM/vip_comedy_hd/vip_comedy_hd.m3u8
+
+#EXTINF:0,viju+ (ViP) Megahit HD СНГ
+http://176.222.190.11/btv/SWM/vip_megahit_hd/vip_megahit_hd.m3u8
+
+#EXTINF:0,viju+ (ViP) Premiere HD СНГ
+http://176.222.190.11/btv/SWM/vip_premiere_hd/vip_premiere_hd.m3u8
+
+#EXTINF:0,viju+ (ViP) Serial HD СНГ
+http://176.222.190.11/btv/SWM/vip_serial_hd/vip_serial_hd.m3u8
+
+#EXTINF:0,Мосфильм. Золотая коллекция Int.
+http://176.222.190.11/btv/SWM/mosfilm/mosfilm.m3u8
+
+#EXTINF:0,Сапфир HD Int.
+http://176.222.190.11/btv/SWM/sapfir_hd/sapfir_hd.m3u8
+
+#EXTINF:0,Кинеко HD Int.
+http://176.222.190.11/btv/SWM/kineko_hd/kineko_hd.m3u8
+
+#EXTINF:0,Первый космический HD Int.
+http://176.222.190.11/btv/SWM/1_kosmo_HD/1_kosmo_HD.m3u8
+
+#EXTINF:0,Trash HD Int.
+http://176.222.190.11/btv/SWM/trash_hd/trash_hd.m3u8
+
+#EXTINF:0,.black Int.
+http://176.222.190.11/btv/SWM/Black/Black.m3u8
+
+#EXTINF:0,.red Int.
+http://176.222.190.11/btv/SWM/Red/Red.m3u8
+
+#EXTINF:0,.sci-Fi Int.
+http://176.222.190.11/btv/SWM/Sci-Fi/Sci-Fi.m3u8
+
+#EXTINF:0,Феникс+ Кино Int.
+http://176.222.190.11/btv/SWM/phoenix/phoenix.m3u8
+
+#EXTINF:0,Fox HD СНГ
+http://176.222.190.11/btv/SWM/FOX/FOX.m3u8
+
+#EXTINF:0,Fox Life HD СНГ
+http://176.222.190.11/btv/SWM/FoxLife/FoxLife.m3u8
+
+#EXTINF:0,START Air HD Int.
+http://176.222.190.11/btv/SWM/start_air_hd/start_air_hd.m3u8
+
+#EXTINF:0,START World HD Int.
+http://176.222.190.11/btv/SWM/start_world_hd/start_world_hd.m3u8
+
+#EXTINF:0,Дорама HD Int.
+http://176.222.190.11/btv/SWM/Dorama/Dorama.m3u8
+
+#EXTINF:0,Кинобоевик HD Int.
+http://176.222.190.11/btv/SWM/kinoboevik_hd/kinoboevik_hd.m3u8
+
+#EXTINF:0,Мировое Кино HD Int.
+http://176.222.190.11/btv/SWM/mirovoe_kino_hd/mirovoe_kino_hd.m3u8
+
+#EXTINF:0,Премиум Кино HD Int.
+http://176.222.190.11/btv/SWM/premium_kino_hd/premium_kino_hd.m3u8
+
+#EXTINF:0,Анекдот ТВ Int.
+http://176.222.190.11/btv/SWM/anekdot_tv/anekdot_tv.m3u8
+
+#EXTINF:0,Капитан Фантастика HD Int.
+http://176.222.190.11/btv/SWM/Fantastica_HD/Fantastica_HD.m3u8
+
+#EXTINF:0,Мульт Int.
+http://176.222.190.11/btv/SWM/SWM_Mult/SWM_Mult.m3u8
+
+#EXTINF:0,О! Int.
+http://176.222.190.11/btv/SWM/O/O.m3u8
+
+#EXTINF:0,Карусель Int.
+http://176.222.190.11/btv/SWM/Karusel/Karusel.m3u8
+
+#EXTINF:0,Рыжий Int.
+http://176.222.190.11/btv/SWM/Ryzhyi/Ryzhyi.m3u8
+
+#EXTINF:0,Gulli Girl СНГ
+http://176.222.190.11/btv/SWM/Guilli/Guilli.m3u8
+
+#EXTINF:0,Nickelodeon Global СНГ (RU)
+http://176.222.190.11/btv/SWM/Nikelodeon_RU/Nikelodeon_RU.m3u8
+
+#EXTINF:0,Nickelodeon Global СНГ (KZ)
+http://176.222.190.11/btv/SWM/Nikelodeon/Nikelodeon.m3u8
+
+#EXTINF:0,Nick Jr. Global (RU) СНГ
+http://176.222.190.11/btv/icon/Nick_Jr/Nick_Jr.m3u8
+
+#EXTINF:0,Cartoon Network СНГ
+http://176.222.190.11/btv/SWM/Cartoon-Network_SWM/Cartoon-Network_SWM.m3u8
+
+#EXTINF:0,Da Vinci СНГ
+http://176.222.190.11/btv/SWM/davinchi/davinchi.m3u8
+
+#EXTINF:0,СТС Kids Int.
+http://176.222.190.11/btv/icon/CTC_kids/CTC_kids.m3u8
+
+#EXTINF:0,Уникум Int.
+http://176.222.190.11/btv/SWM/Detsky_SWM/Detsky_SWM.m3u8
+
+#EXTINF:0,В гостях у сказки Int.
+http://176.222.190.11/btv/SWM/U_Skazki/U_Skazki.m3u8
+
+#EXTINF:0,Мир 24 СНГ
+http://176.222.190.11/btv/SWM/SWM_MIR24/SWM_MIR24.m3u8
+
+#EXTINF:0,Мир СНГ
+http://176.222.190.11/btv/SWM/SWM_MIR/SWM_MIR.m3u8
+
+#EXTINF:0,НТВ-Мир СНГ
+http://176.222.190.11/btv/SWM/SWM_NTV-MIR/SWM_NTV-MIR.m3u8
+
+#EXTINF:0,НТВ Право 
+http://176.222.190.11/btv/SWM/ntv_pravo/ntv_pravo.m3u8
+
+#EXTINF:0,НТВ Сериал
+http://176.222.190.11/btv/SWM/ntv_serial/ntv_serial.m3u8
+
+#EXTINF:0,НТВ Стиль
+http://176.222.190.11/btv/SWM/ntv_style/ntv_style.m3u8
+
+#EXTINF:0,5 канал Int.
+http://176.222.190.11/btv/SWM/SWM_5kanal/SWM_5kanal.m3u8
+
+#EXTINF:0,Перец International. HD
+http://176.222.190.11/btv/SWM/Perec/Perec.m3u8
+
+#EXTINF:0,Пятница Int.
+http://176.222.190.11/btv/SWM/Pyatnica_KZ/Pyatnica_KZ.m3u8
+
+#EXTINF:0,Пятница Int. 
+# Поток который тут был «падает» в ошибку 404. Возможно, поток устарел.
+
+#EXTINF:0,ТВ3 Int.
+http://176.222.190.11/btv/SWM/TB_3_International/TB_3_International.m3u8
+
+#EXTINF:0,Телекафе Int.
+http://176.222.190.11/btv/icon/Telecafe/Telecafe.m3u8
+
+#EXTINF:0,Рен ТВ Int.
+http://176.222.190.11/btv/SWM/RenTV/RenTV.m3u8
+
+#EXTINF:0,СТС Int.
+http://176.222.190.11/btv/icon/CTC_International/CTC_International.m3u8
+
+#EXTINF:0,ТВЦ Int.
+http://176.222.190.11/btv/SWM/TVCentr/TVCentr.m3u8
+
+#EXTINF:0,ЦТВ Int.
+http://176.222.190.11/btv/SWM/tsentralnoetv/tsentralnoetv.m3u8
+
+#EXTINF:0,Домашний Int.
+http://176.222.190.11/btv/SWM/Domashniy_int/Domashniy_int.m3u8
+
+#EXTINF:0,КТК
+http://176.222.190.11/btv/SWM/SWM_KTK/SWM_KTK.m3u8
+
+#EXTINF:0,Ключ HD
+http://176.222.190.11/btv/SWM/klyuch_hd/klyuch_hd.m3u8
+
+#EXTINF:0,Первый канал Евразия (Казахстан)
+http://176.222.190.11/btv/SWM/SWM_PervyEuraz/SWM_PervyEuraz.m3u8
+
+#EXTINF:0,Первый канал СНГ
+http://176.222.190.11/btv/SWM/SWM_PervSNG/SWM_PervSNG.m3u8
+
+#EXTINF:0,Победа Int. 
+http://176.222.190.11/btv/SWM/Pobeda/Pobeda.m3u8
+
+#EXTINF:0,Наше Новое кино Int.
+# Поток который тут был «падает» в ошибку 404. Возможно, поток устарел.
+
+#EXTINF:0,Cinema Int.
+http://176.222.190.11/btv/SWM/CINEMA/CINEMA.m3u8
+
+#EXTINF:0,Ностальгия Int.
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело или/и поток устарел.
+
+#EXTINF:0,НСТ Int.
+http://176.222.190.11/btv/SWM/HCT/HCT.m3u8
+
+#EXTINF:0,Вопросы и ответы Int.
+http://176.222.190.11/btv/SWM/Voprosy-Otvety_SWM/Voprosy-Otvety_SWM.m3u8
+
+#EXTINF:0,Глазами туриста HD Int.
+http://176.222.190.11/btv/SWM/Glazamy_Turista_HD/Glazamy_Turista_HD.m3u8
+
+#EXTINF:0,Дикая охота HD Int.
+http://176.222.190.11/btv/SWM/dikaya_ohota_hd/dikaya_ohota_hd.m3u8
+
+#EXTINF:0,Дикая рыбалка HD Int.
+http://176.222.190.11/btv/SWM/dikaya_rybalka_hd/dikaya_rybalka_hd.m3u8
+
+#EXTINF:0,Домашние Животные Int.
+http://176.222.190.11/btv/SWM/Dom_Jivotnye_SWM/Dom_Jivotnye_SWM.m3u8
+
+#EXTINF:0,Живая природа HD Int.
+http://176.222.190.11/btv/SWM/Zhivaya_priroda_HD/Zhivaya_priroda_HD.m3u8
+
+#EXTINF:0,Приключения HD Int.
+http://176.222.190.11/btv/SWM/Teleputeshestviya_HD/Teleputeshestviya_HD.m3u8
+
+#EXTINF:0,31 Канал Казахстан
+http://176.222.190.11/btv/icon/31kanal/31kanal.m3u8
+
+#EXTINF:0,7 канал Казахстан
+http://176.222.190.11/btv/SWM/SWM_7/SWM_7.m3u8
+
+#EXTINF:0,Поехали! Int.
+http://176.222.190.11/btv/SWM/Poehali/Poehali.m3u8
+
+#EXTINF:0,Охотник и рыболов HD Int.
+http://176.222.190.11/btv/SWM/Ohotnik_i_ribolov/Ohotnik_i_ribolov.m3u8
+
+
+# ---------------
+# Потоки в виде [название_канала_разрешение_XXXXKbps.m3u8]
+
+
+#EXTINF:0,Шансон ТВ Int. SD
+http://176.222.190.11/btv/SWM/Shanson_TV/Shanson_TV_576p_2000kbps.m3u8
+
+#EXTINF:0,Nickelodeon Global СНГ (SD 576p)
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело или/и поток устарел.
+
+#EXTINF:0,Nickelodeon Global СНГ (SD 384p)
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело или/и поток устарел.
+
+#EXTINF:0,Nicktoons HD Global СНГ
+https://176.222.190.11/btv/SWM/nicktoons/nicktoons_720p_3500kbps.m3u8
+
+#EXTINF:0,Nicktoons FHD Global СНГ
+https://176.222.190.11/btv/SWM/nicktoons/nicktoons_1080p_5000kbps.m3u8
+
+#EXTINF:0,MTV Live FHD [Global СНГ] (EN)
+https://176.222.190.11/btv/SWM/mtv_live_hd/mtv_live_hd_1080p_5000kbps.m3u8
+
+#EXTINF:0,MTV Global (EN)
+# Пока что не найден поток.
+
+#EXTINF:0,Discovery Channel SD СНГ
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело.
+
+#EXTINF:0,Discovery Channel HD СНГ
+http://176.222.190.11/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
+
+#EXTINF:0,Discovery Channel FHD СНГ
+http://176.222.190.11/btv/SWM/discovery_hd/discovery_hd_1080p_5000kbps.m3u8
+
+#EXTINF:0,Animal Planet FHD СНГ
+http://176.222.190.11/btv/SWM/animal_hd/animal_hd_1080p_5000kbps.m3u8
+
+#EXTINF:0,Animal Planet (SD 270p) СНГ
+http://176.222.190.11/btv/SWM/animal_hd/animal_hd_270p_1200kbps.m3u8 
+
+#EXTINF:0,Animal Planet (SD 576p) СНГ 
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело.
+
+#EXTINF:0,Animal Planet HD СНГ
+http://176.222.190.11/btv/SWM/animal_hd/animal_hd_720p_3500kbps.m3u8 
+
+#EXTINF:0,TLC SD СНГ
+# Поток который тут был «падает» в ошибку 404. Возможно, поток устарел.
+
+#EXTINF:0,TLC HD СНГ
+http://176.222.190.11/btv/SWM/tlc_hd/tlc_hd_720p_3500kbps.m3u8
+
+#EXTINF:0,TLC FHD СНГ
+http://176.222.190.11/btv/SWM/tlc_hd/tlc_hd_1080p_5000kbps.m3u8
+
+#EXTINF:0,MCM Top SD Int.
+https://176.222.190.11/btv/SWM/MCM/MCM_576p_2000kbps.m3u8
+
+#EXTINF:0,MTV 90s [Global?] (EN)
+# Пока что не найден поток.
+
+#EXTINF:0,MTV 80s [Global?] (EN)
+# Пока что не найден поток.
+
+#EXTINF:0,MTV 00s (SD 576p) [Global СНГ]
+https://176.222.190.11/btv/SWM/mtv_00/mtv_00_576p_2000kbps.m3u8
+
+#EXTINF:0,Comedy Central (SD 576p) СНГ
+http://176.222.190.11/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
+
+#EXTINF:0,Comedy Central (SD 384p) СНГ
+http://176.222.190.11/btv/SWM/Paramount_Comedy/Paramount_Comedy_384p_1000kbps.m3u8
+
+#EXTINF:0,Cartoonito (SD 576p) СНГ
+https://176.222.190.11/btv/SWM/Boomerang/Boomerang_576p_2000kbps.m3u8
+
+#EXTINF:0,Cartoonito (SD 384p) СНГ
+http://176.222.190.11/btv/SWM/Boomerang/Boomerang_384p_1000kbps.m3u8
+
+#EXTINF:0,ТНТ Int. FHD (KZ)
+https://176.222.190.11/btv/SWM/TNT_HD/TNT_HD_1080p_5000kbps.m3u8
+
+#EXTINF:0,ТНТ Int. FHD (RU)
+https://176.222.190.11/btv/SWM/TNT_HD_RUS/TNT_HD_RUS_1080p_5000kbps.m3u8
+
+#EXTINF:0,Setanta Sport FHD СНГ
+https://176.222.190.11/btv/SWM/SetantaSport_HD/SetantaSport_HD_1080p_5000kbps.m3u8
+
+#EXTINF:0,National Geographic FHD СНГ
+https://176.222.190.11/btv/SWM/NatGeo_channel/NatGeo_channel_1080p_5000kbps.m3u8
+
+#EXTINF:0,National Geographic HD СНГ
+http://176.222.190.11/btv/SWM/NatGeo_channel/NatGeo_channel_720p_3500kbps.m3u8
+
+#EXTINF:0,National Geographic Wild FHD СНГ
+http://176.222.190.11/btv/SWM/NatGeo_Wild/NatGeo_Wild_1080p_5000kbps.m3u8
+
+#EXTINF:0,National Geographic Wild HD СНГ
+http://176.222.190.11/btv/SWM/NatGeo_Wild/NatGeo_Wild_720p_3500kbps.m3u8
+
+#EXTINF:0,History FHD СНГ
+http://176.222.190.11/btv/SWM/HistoryHD/HistoryHD_1080p_5000kbps.m3u8
+
+#EXTINF:0,History HD СНГ
+http://176.222.190.11/btv/SWM/HistoryHD/HistoryHD_720p_3500kbps.m3u8
+
+#EXTINF:0,H2 FHD СНГ
+http://176.222.190.11/btv/SWM/History2HD/History2HD_1080p_5000kbps.m3u8
+
+#EXTINF:0,H2 HD СНГ
+http://176.222.190.11/btv/SWM/History2HD/History2HD_720p_3500kbps.m3u8
+
+#EXTINF:0,НТК FHD
+https://176.222.190.11/btv/SWM/SWM_NTK/SWM_NTK_1080p_5000kbps.m3u8
+
+#EXTINF:0,Q Спорт Extra HD СНГ
+http://176.222.190.11/btv/SWM/Q/Q_720p_3500kbps.m3u8
+
+#EXTINF:0,Q Спорт Extra SD СНГ
+http://176.222.190.11/btv/SWM/Q/Q_270p_1200kbps.m3u8
+
+#EXTINF:0,Новое Телевидение FHD 
+https://176.222.190.11/btv/SWM/New_TV/New_TV_1080p_5000kbps.m3u8
+
+#EXTINF:0,ТНТ4 Int. (SD 576p) 
+http://176.222.190.11/btv/SWM/TNT4/TNT4_576p_2000kbps.m3u8
+
+#EXTINF:0,Пятница! Int. (SD 384p)
+# Поток который тут был «падает» в ошибку 404. Возможно, поток устарел.
+
+#EXTINF:0,Пятница! Int. (SD 576p)
+# Поток который тут был «падает» в ошибку 404. Возможно, поток устарел.
+
+#EXTINF:0,Рен ТВ Int. (SD 576p)
+https://176.222.190.11/btv/SWM/RenTV/RenTV_576p_2000kbps.m3u8
+
+#EXTINF:0,ТВЦ Int. (SD 576p) 
+http://176.222.190.11/btv/SWM/TVCentr/TVCentr_576p_2000kbps.m3u8
+
+#EXTINF:0,ТВЦ Int. (SD 384p) 
+http://176.222.190.11/btv/SWM/TVCentr/TVCentr_384p_1000kbps.m3u8
+
+#EXTINF:0,Перец International. SD 
+http://176.222.190.11/btv/SWM/Perec/Perec_576p_2000kbps.m3u8
+
+#EXTINF:0,BBC World News HD Int.
+# Канал больше наверное не вещает в СНГ, поток который тут был «падает» в ошибку 404.
+# Канал будет скоро убран.
+
+#EXTINF:0,CNN International SD
+http://176.222.190.11/btv/SWM/CNN/CNN_384p_1000kbps.m3u8
+
+
+#EXTINF:0,Eurosport 1 SD СНГ
+# Поток который тут был «падает» в ошибку 404. Возможно, поток устарел.
+
+#EXTINF:0,Eurosport 2 SD СНГ
+# Поток который тут был «падает» в ошибку 404. Возможно, поток устарел.
+
+#EXTINF:0,Время SD Int.
+http://176.222.190.11/btv/SWM/Vremya/Vremya_576p_2000kbps.m3u8
+
+#EXTINF:0,Поехали! Int. SD
+http://176.222.190.11/btv/SWM/Poehali/Poehali_576p_2000kbps.m3u8
+
+#EXTINF:0,Бобёр Int. SD
+http://176.222.190.11/btv/SWM/Bober/Bober_576p_2000kbps.m3u8
+
+#EXTINF:0,HD Life SD (HDL)
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело или/и поток устарел.
+
+#EXTINF:0,HD Life HD (HDL)
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело или/и поток устарел.
+
+#EXTINF:0,HD Life FHD (HDL)
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело или/и поток устарел.
+
+#EXTINF:0,Ностальгия Int. (SD 576p)
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело или/и поток устарел.
+
+#EXTINF:0,Ностальгия Int. (SD 384p)
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело или/и поток устарел.
+
+#EXTINF:0,Мужской Int. SD
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело или/и поток устарел.
+
+#EXTINF:0,Дорама Int. SD
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело или/и поток устарел.
+
+#EXTINF:0,Дорама Int. HD
+http://176.222.190.11/btv/SWM/Dorama/Dorama_720p_3500kbps.m3u8
+
+#EXTINF:0,Amedia 1 Int. SD
+# Поток который тут был «падает» в ошибку 404. Возможно, поток устарел.
+
+#EXTINF:0,Amedia 1 Int. HD
+http://176.222.190.11/btv/SWM/A1/A1_720p_3500kbps.m3u8
+
+#EXTINF:0,Amedia 1 Int. FHD
+https://176.222.190.11/btv/SWM/A1/A1_1080p_5000kbps.m3u8
+
+#EXTINF:0,Amedia 2 Int. SD
+# Поток который тут был «падает» в ошибку 404. Возможно, поток устарел.
+
+#EXTINF:0,Amedia Hit FHD Int. 
+http://176.222.190.11/btv/SWM/AmediaHitHD/AmediaHitHD_1080p_5000kbps.m3u8
+
+#EXTINF:0,Amedia Hit HD Int.
+http://176.222.190.11/btv/SWM/AmediaHitHD/AmediaHitHD_720p_3500kbps.m3u8
+
+#EXTINF:0,Дом кино Int. SD
+http://176.222.190.11/btv/SWM/Dom_Kino/Dom_Kino_576p_2000kbps.m3u8
+
+#EXTINF:0,Hollywood SD СНГ
+http://176.222.190.11/btv/SWM/Hollywood/Hollywood_576p_2000kbps.m3u8
+
+#EXTINF:0,Bollywood FHD Int.
+http://176.222.190.11/btv/SWM/Bollywood_HD/Bollywood_HD_1080p_5000kbps.m3u8
+
+#EXTINF:0,Еврокино Int. SD
+https://176.222.190.11/btv/SWM/Eurokino/Eurokino_576p_2000kbps.m3u8
+
+#EXTINF:0,НСТ Int. (SD 576p)
+http://176.222.190.11/btv/SWM/HCT/HCT_576p_2000kbps.m3u8
+
+#EXTINF:0,НСТ Int. (SD 384p)
+http://176.222.190.11/btv/SWM/HCT/HCT_384p_1000kbps.m3u8
+
+#EXTINF:0,viju (Viasat) TV1000 Action СНГ SD
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело или/и поток устарел.
+
+#EXTINF:0,Загородная жизнь Int. FHD
+http://176.222.190.11/btv/SWM/Zagorodnaya_Zhizn/Zagorodnaya_Zhizn_1080p_5000kbps.m3u8
+
+#EXTINF:0,Загородная жизнь Int. SD 
+http://176.222.190.11/btv/SWM/Zagorodnaya_Zhizn/Zagorodnaya_Zhizn_270p_1200kbps.m3u8
+
+#EXTINF:0,Загородная жизнь Int. HD
+http://176.222.190.11/btv/SWM/Zagorodnaya_Zhizn/Zagorodnaya_Zhizn_720p_3500kbps.m3u8
+
+#EXTINF:0,Моя Планета FHD Int.
+http://176.222.190.11/btv/SWM/PlanetaHD/PlanetaHD_1080p_5000kbps.m3u8
+
+#EXTINF:0,.black SD Int.
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело или/и поток устарел.
+
+#EXTINF:0,Fox Life СНГ SD
+http://176.222.190.11/btv/SWM/FoxLife/FoxLife_270p_1200kbps.m3u8
+
+#EXTINF:0,Fox Life HD СНГ
+http://176.222.190.11/btv/SWM/FoxLife/FoxLife_720p_3500kbps.m3u8
+
+#EXTINF:0,Fox СНГ FHD
+https://176.222.190.11/btv/SWM/FOX/FOX_1080p_5000kbps.m3u8
+
+#EXTINF:0,Fox СНГ SD 
+http://176.222.190.11/btv/SWM/FOX/FOX_270p_1200kbps.m3u8
+
+#EXTINF:0,Наше Новое Кино FHD Int.
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело или/и поток устарел.
+ 
+#EXTINF:0,Наше Новое Кино HD Int.
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело или/и поток устарел.
+
+#EXTINF:0,Cinema Int. (SD 576p)
+http://176.222.190.11/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
+
+#EXTINF:0,Cinema Int. (SD 384p)
+http://176.222.190.11/btv/SWM/CINEMA/CINEMA_384p_1000kbps.m3u8
+
+#EXTINF:0,Наше Любимое Кино Int. SD
+http://176.222.190.11/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbps.m3u8
+
+#EXTINF:0,Дом Кино Int. SD
+http://176.222.190.11/btv/SWM/Dom_Kino/Dom_Kino_576p_2000kbps.m3u8
+
+#EXTINF:0,Кинохит SD (KZ)
+http://176.222.190.11/btv/SWM/KinoHit/KinoHit_576p_2000kbps.m3u8
+
+#EXTINF:0,Киноалем SD (KZ)
+http://176.222.190.11/btv/SWM/KinoAlem/KinoAlem_576p_2000kbps.m3u8
+
+#EXTINF:0,Дом Кино Премиум SD Int.
+http://176.222.190.11/btv/SWM/Dom_kino_Prem/Dom_kino_Prem_270p_1200kbps.m3u8
+
+#EXTINF:0,Дом Кино Премиум FHD Int.
+http://176.222.190.11/btv/SWM/Dom_kino_Prem/Dom_kino_Prem_1080p_5000kbps.m3u8
+
+#EXTINF:0,Победа Int. SD
+http://176.222.190.11/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8
+
+#EXTINF:0,НТВ Стиль Int. SD
+http://176.222.190.11/btv/SWM/ntv_style/ntv_style_576p_2000kbps.m3u8
+
+#EXTINF:0,НТВ Сериал Int. SD
+http://176.222.190.11/btv/SWM/ntv_serial/ntv_serial_576p_2000kbps.m3u8
+
+#EXTINF:0,Дикая охота HD Int.
+http://176.222.190.11/btv/SWM/dikaya_ohota_hd/dikaya_ohota_hd_720p_3500kbps.m3u8
+
+#EXTINF:0,Дикая рыбалка HD Int.
+http://176.222.190.11/btv/SWM/dikaya_rybalka_hd/dikaya_rybalka_hd_720p_3500kbps.m3u8
+
+#EXTINF:0,Музыка Первого Int. SD
+http://176.222.190.11/btv/SWM/Muzyka_Pervogo/Muzyka_Pervogo_576p_2000kbps.m3u8
+
+#EXTINF:0,ТНТ Music Int. SD
+http://176.222.190.11/btv/SWM/Tnt_music/Tnt_music_576p_2000kbps.m3u8
+
+
+# Всё что я найден :( Буду искать ещё.
+# Тут некоторые каналы удалены т.к. их потоки «падают» в ошибку 404 и возможно устарели.
+
+
+# ---------------
+
+
+#EXTINF:0,ТНТ4 Int. SD
+http://176.222.190.11/btv/SWM/TNT4/TNT4.m3u8
+
+#EXTINF:0,Россия 24 Int. SD
+http://176.222.190.11/btv/icon/R24/R24.m3u8
+
+#EXTINF:0,Россия Культура Int. SD
+http://176.222.190.11/btv/icon/RussiaK/RussiaK.m3u8
+
+#EXTINF:0,РТР-Планета Азия HD (Россия-РТР СНГ HD)
+http://176.222.190.11/btv/SWM/SWM_RTR/SWM_RTR.m3u8
+
+#EXTINF:0,viju (Viasat) Explore HD СНГ
+http://176.222.190.11/btv/SWM/viasatexplorerhd/viasatexplorerhd.m3u8
+
+#EXTINF:0,viju (Viasat) History HD СНГ
+http://176.222.190.11/btv/SWM/viasathistoryhd/viasathistoryhd.m3u8
+
+#EXTINF:0,viju (Viasat) Nature HD СНГ [+ viju (Viasat) Planet]
+http://176.222.190.11/btv/SWM/viasatnaturehd/viasatnaturehd.m3u8
+
+#EXTINF:0,Qazsport HD (Казахстан)
+http://176.222.190.11/btv/SWM/Qazsport_HD/Qazsport_HD.m3u8
+
+#EXTINF:0,Удар HD Int.
+http://176.222.190.11/btv/SWM/udar_hd/udar_hd.m3u8
+
+#EXTINF:0,Setanta Qazaqstan HD (Казахстан)
+http://176.222.190.11/btv/SWM/Sentanta_Kaz/Sentanta_Kaz.m3u8
+
+#EXTINF:0,Setanta Qazaqstan HD (KZ) [Казахстан]
+http://176.222.190.11/btv/SWM/SetantaKZ_HD/SetantaKZ_HD.m3u8
+
+#EXTINF:0,Setanta Sports 1 HD
+http://176.222.190.11/btv/SWM/SetantaSport_HD/SetantaSport_HD.m3u8
+
+#EXTINF:0,Setanta Sports 1 HD (KZ) [Казахстан]
+http://176.222.190.11/btv/SWM/setantasports1hdkz/setantasports1hdkz.m3u8
+
+#EXTINF:0,Setanta Sports 2 HD
+http://176.222.190.11/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
+
+#EXTINF:0,Setanta Sports 2 HD (KZ) [Казахстан]
+http://176.222.190.11/btv/SWM/setantasports2hdkz/setantasports2hdkz.m3u8
+
+#EXTINF:0,Hit TV Казахстан
+http://176.222.190.11/btv/SWM/SWM_HitTV/SWM_HitTV.m3u8
+
+#EXTINF:0,1HD Music TV СНГ
+http://176.222.190.11/btv/SWM/1HD_Music_Television/1HD_Music_Television.m3u8
+
+#EXTINF:0,Zooпарк Int.
+http://176.222.190.11/btv/SWM/Zoopark_SWM/Zoopark_SWM.m3u8
+
+#EXTINF:0,Galaxy HD Int.
+http://176.222.190.11/btv/SWM/tayni_galaktiki_hd/tayni_galaktiki_hd.m3u8
+
+#EXTINF:0,Euronews HD СНГ EN
+http://176.222.190.11/btv/SWM/EuroNews_English_HD/EuroNews_English_HD.m3u8
+
+#EXTINF:0,Евроновости (Euronews HD СНГ RU)
+http://176.222.190.11/btv/SWM/SWM_Euronews_alt/SWM_Euronews_alt.m3u8
+
+#EXTINF:0,8 канал Int.
+http://176.222.190.11/btv/SWM/SWM_8/SWM_8.m3u8
+
+#EXTINF:0,Atameken Business (Казахстан)
+http://176.222.190.11/btv/SWM/Atameken/Atameken.m3u8
+
+#EXTINF:0,Хабар HD (Казахстан)
+http://176.222.190.11/btv/SWM/Khabar_HD/Khabar_HD.m3u8
+
+#EXTINF:0,Хабар 24 HD (Казахстан)
+http://176.222.190.11/btv/SWM/Khabar_24_HD/Khabar_24_HD.m3u8
+
+#EXTINF:0,5 канал Int.
+http://176.222.190.11/btv/SWM/SWM_5kanal/SWM_5kanal.m3u8
+
+#EXTINF:0,ТВ3 Int.
+http://176.222.190.11/btv/SWM/TB_3_International/TB_3_International.m3u8
+
+#EXTINF:0,Домашний Int.
+http://176.222.190.11/btv/SWM/Domashniy_int/Domashniy_int.m3u8
+
+#EXTINF:0,Спас Int.
+http://176.222.190.11/btv/SWM/Spas/Spas.m3u8
+
+#EXTINF:0,РБК Int.
+http://176.222.190.11/btv/SWM/RBK_TV/RBK_TV.m3u8
+
+#EXTINF:0,Беларусь 24 Int.
+http://176.222.190.11/btv/SWM/Belarus/Belarus.m3u8
+
+#EXTINF:0,RTVi СНГ
+http://176.222.190.11/btv/SWM/RTVi/RTVi.m3u8
+
+#EXTINF:0,Бобёр Int.
+http://176.222.190.11/btv/SWM/Bober/Bober.m3u8
+
+#EXTINF:0,Техно 24 Int.
+http://176.222.190.11/btv/SWM/SWM_Techno24_test/SWM_Techno24.m3u8
+
+#EXTINF:0,Точка отрыва Int.
+http://176.222.190.11/btv/SWM/Tochka_Otriva/Tochka_Otriva.m3u8
+
+#EXTINF:0,Психология 21 Int.
+http://176.222.190.11/btv/SWM/Psychology21_SWM/Psychology21_SWM.m3u8
+
+
+
+# Всё что я найден :( Буду искать ещё.
+

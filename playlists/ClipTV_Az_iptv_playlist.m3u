@@ -1,0 +1,112 @@
+
+
+
+# Потоки от провайдера CASPEL LLC из Азербайджана
+# Потоки некого ClipTV
+# Провайдер ретранслирует российские каналы напрямую, т.е. не International версии каналов.
+# Всё что я нашёл. Плейлист будет обновляться!
+# https://raw.githubusercontent.com/teleeasyiptv/for_woobl_iptv/main/ClipTV_Az_iptv_playlist.m3u
+# Альт. ссылка: https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/playlists/ClipTV_Az_iptv_playlist.m3u
+# P.s. Нету геоблока!
+# Внимание! Потоки могут тормозить! Формат потоков .mpd - могут долго грузить!
+
+
+# Для Woobl IPTV
+# Автор: @acidraineasy0272mc (telegram)
+# Обновлено 17.01.2024
+
+
+#EXTM3U
+
+#EXTINF:0,Animal Planet HD СНГ
+http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
+
+#EXTINF:0,Мужское Кино SD
+http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
+
+#EXTINF:0,National Geographic Wild HD СНГ
+http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
+
+#EXTINF:0,Cinema SD
+http://mfe01.cliptv.az/dash/Cinema_SDjhjhjh56.ism/playlist.mpd
+
+#EXTINF:0,Hollywood SD
+http://mfe01.cliptv.az/dash/Hollywood_SDkhg357.ism/playlist.mpd
+
+#EXTINF:0,.sci-Fi SD
+http://mfe01.cliptv.az/dash/Sony_Sci_Fi_SDifz36n.ism/playlist.mpd
+
+#EXTINF:0,viju+ (ViP) Comedy HD
+http://mfe02.cliptv.az/dash/VIP_Comedy_HD_PIVqwcvrtui79.ism/playlist.mpd
+
+#EXTINF:0,viju+ (ViP) Megahit HD
+http://mfe01.cliptv.az/dash/VIP_Megahit_HD_PIVuyhjmn45.ism/playlist.mpd
+
+#EXTINF:0,Дикий Охота и Рыбалка SD
+http://mfe01.cliptv.az/dash/Oxota_i_Ribalka_SDkjk467.ism/playlist.mpd
+
+#EXTINF:0,Индийское кино SD
+http://mfe01.cliptv.az/dash/Indiyskoe_Kino_SDfdghj4.ism/playlist.mpd
+
+#EXTINF:0,Кинокомедия SD
+http://mfe02.cliptv.az/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
+
+#EXTINF:0,Киномикс SD
+http://mfe02.cliptv.az/dash/Kinomix_SDvbbvbv3.ism/playlist.mpd
+
+#EXTINF:0,Кинопремьера HD
+http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
+
+#EXTINF:0,Киносвидание SD
+http://mfe02.cliptv.az/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
+
+#EXTINF:0,Любимое кино SD
+http://mfe02.cliptv.az/dash/Lyubimoe_Kino_SDtytghfgs.ism/playlist.mpd
+
+#EXTINF:0,Кинохит SD
+http://mfe01.cliptv.az/dash/Kinohit_SDqwecvrt672.ism/playlist.mpd
+
+#EXTINF:0,Комедия SD
+http://mfe02.cliptv.az/dash/Paramount_Comedy_SDfghsk.ism/playlist.mpd
+
+#EXTINF:0,Мир Сериала SD
+http://mfe01.cliptv.az/dash/Mir_seriala_SD12sdsdsd.ism/playlist.mpd
+
+#EXTINF:0,Пятница SD
+http://mfe02.cliptv.az/dash/Pyatnica_SDqdhk68w3.ism/playlist.mpd
+
+#EXTINF:0,Рен ТВ SD
+http://mfe01.cliptv.az/dash/Ren_SD0204opts.ism/playlist.mpd
+
+#EXTINF:0,СТС Love SD
+http://mfe02.cliptv.az/dash/STS_Love_SDgggdd45.ism/playlist.mpd
+
+#EXTINF:0,TV XXI SD
+http://mfe01.cliptv.az/dash/TV_XXI_SDghtydf56.ism/playlist.mpd
+
+#EXTINF:0,ТНТ HD
+http://mfe02.cliptv.az/dash/TNT_HDkjh654.ism/playlist.mpd
+
+#EXTINF:0,Кино ТВ HD
+http://mfe01.cliptv.az/dash/Kino_TV_HDwnwnh67.ism/playlist.mpd
+
+#EXTINF:0,Первый канал HD
+http://mfe02.cliptv.az/dash/Perviy_Kanal_HDhshd6637.ism/playlist.mpd
+
+#EXTINF:0,RTG TV HD
+http://mfe02.cliptv.az/dash/RTG_HDkfy734.ism/playlist.mpd
+
+#EXTINF:0,Авто плюс SD
+http://mfe02.cliptv.az/dash/Avto_Plus_SDngbg23480d.ism/playlist.mpd
+
+#EXTINF:0,Еврокино SD
+http://mfe01.cliptv.az/dash/Evrokino_SDas67gh.ism/playlist.mpd
+
+#EXTINF:0,ID HD СНГ
+http://mfe01.cliptv.az/dash/HD_lifefkpz375.ism/playlist.mpd
+
+
+# Всё что я нашёл :( Буду искать ещё.
+
+
+

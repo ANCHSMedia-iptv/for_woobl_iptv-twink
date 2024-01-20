@@ -1,0 +1,100 @@
+
+
+# Потоки от провайдера ТТК из Казахстана
+# Разный формат в окончании потоков - в виде [названиеканала/video.m3u8],
+# [названиеканала/tracks-v1a1/mono.m3u8] и [названиеканала/tracks-v1a2/mono.m3u8]
+# Всё что я нашёл. Плейлист будет обновляться!
+# https://raw.githubusercontent.com/teleeasyiptv/for_woobl_iptv/main/TTKLLP_KZ_iptv_playlist.m3u
+# Альт. ссылка: https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/playlists/TTKLLP_KZ_iptv_playlist.m3u
+# P.s. Нету геоблока!
+
+
+# Для Woobl IPTV
+# Автор: @acidraineasy0272mc (telegram)
+# Обновлено 17.01.2024
+
+
+#EXTM3U
+
+
+#EXTINF:0,ID СНГ
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело или/и поток устарел.
+
+#EXTINF:0,Мир СНГ
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело или/и поток устарел.
+
+#EXTINF:0,National Geographic СНГ 
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело или/и поток устарел.
+
+#EXTINF:0,National Geographic Wild СНГ 
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело или/и поток устарел.
+
+#EXTINF:0,Nickelodeon Global СНГ
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело или/и поток устарел.
+
+#EXTINF:0,Победа Int.
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело или/и поток устарел.
+
+#EXTINF:0,Пятница Int.
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело или/и поток устарел.
+
+#EXTINF:0,Ren TV Int.
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело или/и поток устарел.
+
+#EXTINF:0,СТС Int.
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело или/и поток устарел.
+
+#EXTINF:0,ТВ3 Int.
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело или/и поток устарел.
+
+#EXTINF:0,ТВЦ Int.
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело или/и поток устарел.
+
+#EXTINF:0,Домашний Int.
+# Поток который тут был «падает» в ошибку 404. Возможно, название канала в m3u8 файле устарело или/и поток устарел.
+
+#EXTINF:0,TLC HD СНГ 4
+http://45.132.87.92:8080/tlc/tracks-v1a2/mono.m3u8
+
+#EXTINF:0,TLC HD СНГ
+http://45.132.87.92:8080/tlc/video.m3u8
+
+#EXTINF:0,TLC HD СНГ 2
+http://45.132.87.92:8080/tlc/index.m3u8
+
+#EXTINF:0,TLC HD СНГ 3
+http://45.132.87.92:8080/tlc/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Discovery Channel СНГ 2
+http://45.132.87.92:8080/discovery/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Discovery Channel СНГ 3
+http://45.132.87.92:8080/discovery/tracks-v1a2/mono.m3u8
+
+#EXTINF:0,Fox Life СНГ 3
+http://45.132.87.69:8080/foxlife/tracks-v1a1/index.m3u8
+
+#EXTINF:0,Fox Life СНГ 2
+http://45.132.87.92:8080/test/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Fox Life СНГ 5
+http://45.132.87.92:8080/test/tracks-v1a2/mono.m3u8
+
+#EXTINF:0,Fox Life СНГ 
+http://45.132.87.92:8080/test/video.m3u8
+
+#EXTINF:0,Fox Life СНГ 4
+http://45.132.87.92:8080/test/index.m3u8
+
+#EXTINF:0,Discovery Channel СНГ 
+http://45.132.87.92:8080/discovery/video.m3u8
+
+#EXTINF:0,Discovery Channel СНГ 4
+http://45.132.87.92:8080/discovery/index.m3u8
+
+#EXTINF:0,Eurosport 1 HD СНГ
+http://45.132.87.69:8080/eurosport1/tracks-v1a1/index.m3u8
+
+
+# Всё что я нашёл :( Буду искать ещё.
+

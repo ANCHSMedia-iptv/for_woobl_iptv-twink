@@ -1,0 +1,180 @@
+
+
+# Потоки от провайдера AzEuroTel из Азербайджана
+# Разный формат - в виде IP адреса.
+# Всё что я нашёл. Плейлист будет обновляться!
+# Провайдер ретранслирует некоторые российские каналы напрямую, т.е. не International версии этих каналов.
+# https://raw.githubusercontent.com/teleeasyiptv/for_woobl_iptv/main/AzEuroTel_213.172.73.XXX_iptv_playlist.m3u
+# Альт. ссылка: https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/playlists/AzEuroTel_213.172.73.XXX_iptv_playlist.m3u
+# P.s. Нету геоблока!
+# Внимание! Потоки нестабильны и немного тормозят!
+
+
+# Для Woobl IPTV
+# Автор: @acidraineasy0272mc (telegram)
+# Обновлено 17.01.2024
+
+
+#EXTM3U 
+
+#EXTINF:0,Первый Канал HD 
+http://213.172.73.171:8081/nimble_live/1185__Perviy_Kanal_HD/playlist.m3u8
+
+#EXTINF:0,Россия 1
+http://213.172.73.170:8081/nimble_live/1043__Rossiya_1/playlist.m3u8
+
+#EXTINF:0,Россия 24
+http://213.172.73.170:8081/nimble_live/1071__Rossiya_24/playlist.m3u8
+
+#EXTINF:0,Звезда
+http://213.172.73.170:8081/nimble_live/1076__Zvezda/playlist.m3u8
+
+#EXTINF:0,5 канал
+http://213.172.73.170:8081/nimble_live/1034__5_kanal/playlist.m3u8
+
+#EXTINF:0,viju (Viasat) TV1000
+http://213.172.73.170:8081/nimble_live/1073__Tv_1000/playlist.m3u8
+
+#EXTINF:0,viju (Viasat) TV1000 Action
+http://213.172.73.170:8081/nimble_live/1072__Tv_1000_Action/playlist.m3u8
+
+#EXTINF:0,Amedia 2
+http://213.172.73.170:8081/nimble_live/1137__AMEDIA2/playlist.m3u8
+
+#EXTINF:0,Bolt
+http://213.172.73.170:8081/nimble_live/1128__MTV_Hits/playlist.m3u8
+
+#EXTINF:0,Hollywood HD
+http://213.172.73.171:8081/nimble_live/1179__MGM_HD/playlist.m3u8
+
+#EXTINF:0,TV XXI
+http://213.172.73.171:8081/nimble_live/1169__TV_21M/playlist.m3u8
+
+#EXTINF:0,Дом Кино
+http://213.172.73.170:8081/nimble_live/1127__Dom_Kino/playlist.m3u8
+
+#EXTINF:0,Русский Бестселлер
+http://213.172.73.170:8081/nimble_live/1062__Russkiy_Bestseller/playlist.m3u8
+
+#EXTINF:0,Иллюзион+
+http://213.172.73.170:8081/nimble_live/1138__Illyuzion_Plus/playlist.m3u8
+
+#EXTINF:0,Русский Иллюзион
+http://213.172.73.170:8081/nimble_live/1141__Russkiy_Illyuzion/playlist.m3u8
+
+#EXTINF:0,Cinema
+http://213.172.73.170:8081/nimble_live/1142__Sinema/playlist.m3u8
+
+#EXTINF:0,ТВ3
+http://213.172.73.170:8081/nimble_live/1060__TV3/playlist.m3u8
+
+#EXTINF:0,Наука 2.0
+http://213.172.73.170:8081/nimble_live/1134__Nauka_2_0/playlist.m3u8
+
+#EXTINF:0,Galaxy TV
+http://213.172.73.170:8081/nimble_live/1145__GalaxyTV/playlist.m3u8
+
+#EXTINF:0,Пятница
+# Поток который тут был «падает» в ошибку 404.
+
+#EXTINF:0,Домашний
+http://213.172.73.170:8081/nimble_live/1021__Domashniy/playlist.m3u8
+
+#EXTINF:0,ТВЦ
+# Поток который тут был «падает» в ошибку 404.
+
+#EXTINF:0,Рен ТВ
+http://213.172.73.170:8081/nimble_live/1108__РЕНТВ/playlist.m3u8
+
+#EXTINF:0,ТНТ
+http://213.172.73.170:8081/nimble_live/1069__TNT/playlist.m3u8
+
+#EXTINF:0,ТНТ4
+http://213.172.73.170:8081/nimble_live/1031__TNT4/playlist.m3u8
+
+#EXTINF:0,СТС
+http://213.172.73.170:8081/nimble_live/1087__STS/playlist.m3u8
+
+#EXTINF:0,Че!
+http://213.172.73.170:8081/nimble_live/1022__4e/playlist.m3u8
+
+#EXTINF:0,Ю
+http://213.172.73.171:8081/nimble_live/1172__U_Tv/playlist.m3u8
+
+#EXTINF:0,Техно 24
+http://213.172.73.170:8081/nimble_live/1056__24_Texno/playlist.m3u8
+
+#EXTINF:0,Охота и Рыбалка
+http://213.172.73.170:8081/nimble_live/1040__Oxota_i_Ribalka/playlist.m3u8
+
+#EXTINF:0,Матч! Футбол 1
+http://213.172.73.170:8081/nimble_live/1111__Mat4_Futbol_1/playlist.m3u8
+
+#EXTINF:0,Матч! Футбол 3
+http://213.172.73.171:8081/nimble_live/1159__Mat4_Futbol_3/playlist.m3u8
+
+#EXTINF:0,Родное Кино
+http://213.172.73.170:8081/nimble_live/1110__Rodnoye_kino/playlist.m3u8
+
+#EXTINF:0,Остросюжетное HD
+http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
+
+#EXTINF:0,Премиальное HD 
+http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
+
+#EXTINF:0,Совершенно Секретно 
+http://213.172.73.170:8081/nimble_live/1016__Sovershenno_Sekretno/playlist.m3u8
+
+#EXTINF:0,Еврокино
+http://213.172.73.170:8081/nimble_live/1139__EvroKino/playlist.m3u8
+
+#EXTINF:0,Кинохит HD
+http://213.172.73.170:8081/nimble_live/1083__Kinoxit/playlist.m3u8
+
+#EXTINF:0,Киномикс HD
+http://213.172.73.170:8081/nimble_live/1112__Kinomiks/playlist.m3u8
+
+#EXTINF:0,Киносвидание HD
+http://213.172.73.170:8081/nimble_live/1032__Kinosvidaniye/playlist.m3u8
+
+#EXTINF:0,Киносемья HD
+http://213.172.73.170:8081/nimble_live/1098__Kinosemya/playlist.m3u8
+
+#EXTINF:0,Киносерия
+http://213.172.73.170:8081/nimble_live/1090__Kinoseriya/playlist.m3u8
+
+#EXTINF:0,Кинокомедия 
+http://213.172.73.170:8081/nimble_live/1122__Kinokomediya/playlist.m3u8
+
+#EXTINF:0,Мужское кино
+http://213.172.73.170:8081/nimble_live/1085__Mujskoye_Kino/playlist.m3u8
+
+#EXTINF:0,Настоящее Страшное Телевидение
+http://213.172.73.170:8081/nimble_live/1051__NST/playlist.m3u8
+
+#EXTINF:0,Наше новое кино HD
+http://213.172.73.170:8081/nimble_live/1048__Nashe_Novoye_Kino/playlist.m3u8
+
+#EXTINF:0,Кинокомедия
+http://213.172.73.170:8081/nimble_live/1122__Kinokomediya/playlist.m3u8
+
+#EXTINF:0,History СНГ
+http://213.172.73.170:8081/nimble_live/1028__History/playlist.m3u8
+
+#EXTINF:0,ID СНГ
+http://213.172.73.170:8081/nimble_live/1050__ID_Xtra/playlist.m3u8
+
+#EXTINF:0,НСТ
+http://213.172.73.170:8081/nimble_live/1051__NST/playlist.m3u8
+
+#EXTINF:0,Animal Planet HD СНГ
+http://213.172.73.170:8081/nimble_live/1089__Animal_Planet/playlist.m3u8
+
+#EXTINF:0,TLC СНГ
+http://213.172.73.170:8081/nimble_live/1063__TLC/playlist.m3u8
+
+#EXTINF:0,Наше любимое кино
+http://213.172.73.170:8081/nimble_live/1049__Lyubimoye_Kino/playlist.m3u8
+
+
+# Всё что я нашёл :( Буду искать ещё.
