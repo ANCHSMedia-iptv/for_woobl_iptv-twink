@@ -1,0 +1,35 @@
+# Местные каналы и радио Республики Башкортостан с платформы РТРС.Плюс
+# Powered by RTRS.Plus (plus.rtrs.ru)
+# Неофициальный IPTV плейлист
+# Обновлено 19.01.2024
+# Из EPG который привязан не удалось найти EPG радиостанций. :(
+# Автор: @acidraineasy0272mc (telegram)
+
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+
+#EXTINF:0 tvg-id="" group-title="Инфо" tvg-logo="",=Обновлено 19.01.2024=
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+
+#EXTINF:0 tvg-id="bst" tvg-shift="+1" tvg=logo="https://rtrn-api.teletarget.ru/media/upload/image/1/CHANN_BST_clr.png" group-titile="Местное ТВ",БСТ
+https://bstrtrs.mediacdn.ru/rtrs/hdbst/dash/manifest.mpd
+
+#EXTINF:0 tvg-id="tamyr" tvg-shift="+1" tvg=logo="https://rtrn-api.teletarget.ru/media/upload/image/17/CHANN_Tamyr_clr.png" group-titile="Местное ТВ",Тамыр
+https://edge-ekat1.teletarget.ru/stream/msk/tamyr/index.mpd
+
+#EXTINF:0 tvg-id="kuraj" tvg-shift="+1" tvg=logo="https://rtrn-api.teletarget.ru/media/upload/image/1/CHANN_KurayTV_clr.png" group-titile="Местное ТВ",Курай
+https://bstrtrs.mediacdn.ru/rtrs/kurai/dash/manifest.mpd
+
+#EXTINF:0 tvg-id="salam" tvg-shift="+1" tvg=logo="https://rtrn-api.teletarget.ru/media/upload/image/17/CHANN_Salyam_clr.png" group-titile="Местное ТВ",Салям
+https://edge-ekat1.teletarget.ru/stream/msk/salyam/index.mpd
+
+
+#EXTINF:0 tvg-id="" group-title="Радио (местное)" tvg-logo="https://rtrn-api.teletarget.ru/media/upload/image/1/R_logo_ASHKAZAR_lAlHgx2.png",Ашказар
+https://edge-ekat1.teletarget.ru/stream/msk/ashkadar/index.mpd
+
+#EXTINF:0 tvg-id="" group-title="Радио (местное)" tvg-logo="https://rtrn-api.teletarget.ru/media/upload/image/1/R_logo_SPUTNIK_fm.png",Спутник FM
+https://edge-ekat1.teletarget.ru/stream/msk/sputnik_fm/index.mpd
+
+#EXTINF:0 tvg-id="" group-title="Радио (местное)" tvg-logo="https://rtrn-api.teletarget.ru/media/upload/image/1/R_logo_Yuldashplus.png",Юлдаш+
+https://edge-ekat1.teletarget.ru/stream/msk/uldash/index.mpd
+
+

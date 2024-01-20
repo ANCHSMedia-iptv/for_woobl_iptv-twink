@@ -1,0 +1,27 @@
+# Местные каналы и радио Красноярского края с платформы РТРС.Плюс
+# Powered by RTRS.Plus (plus.rtrs.ru)
+# Неофициальный IPTV плейлист
+# Обновлено 19.01.2024
+# Автор: @acidraineasy0272mc (telegram)
+
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+
+#EXTINF:0 tvg-id="" group-title="Инфо" tvg-logo="",=Обновлено 19.01.2024=
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+
+#EXTINF:0 tvg-id="prima" tvg-shift="+4" group-title="Местное ТВ" tvg-logo="https://rtrn-api.teletarget.ru/media/upload/image/16/CHANN_PRIMA_clr.png",Прима ТВ
+https://edge-ekat1.teletarget.ru/stream/msk/prima/index.mpd
+
+#EXTINF:0 tvg-id="7kanal-krasnoyarsk" tvg-shift="+4" group-title="Местное ТВ" tvg-logo="",7 канал
+https://edge-ekat1.teletarget.ru/stream/msk/trk7/index.mpd
+
+#EXTINF:0 tvg-id="" group-title="Радио (местное)" tvg-logo="https://rtrn-api.teletarget.ru/media/upload/image/16/RADIO_KrK_Glavn300px_sjwQaO1.png",Красноярск Главный
+https://edge-ekat1.teletarget.ru/watch/kryaglav/s/016be6e18d220ed21a8077e84637d75819623f7990b1b48a1b99ea64de4cef87/index.mpd
+
+# Коммент к радиостанции Красноярск Главный - радиостанция на 19.01.24 не вещает на платформе РТРС.Плюс. :(
+# Добавлен поток этой радиостанции с оф сайта.
+
+#EXTINF:0 tvg-id="" group-title="Радио (местное)" tvg-logo="https://rtrn-api.teletarget.ru/media/upload/image/16/RADIO_KrK_Glavn300px_sjwQaO1.png",Красноярск Главный (сайт)
+https://streamer01.1028.fm:8443/arstream
+
+

@@ -1,0 +1,13 @@
+# Местные каналы и радио Ямало-Ненецкий АО с платформы РТРС.Плюс
+# Powered by RTRS.Plus (plus.rtrs.ru)
+# Неофициальный IPTV плейлист
+# Обновлено 19.01.2024
+# Автор: @acidraineasy0272mc (telegram)
+
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+
+#EXTINF:0 tvg-id="" group-title="Инфо" tvg-logo="",=Обновлено 19.01.2024=
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+
+#EXTINF:0 tvg-id="yamal-region" tvg-shift="+2" group-title="Местное ТВ" tvg-logo="https://rtrn-api.teletarget.ru/media/upload/image/16/CHANN_YamalM_clr.png",Ямал Медиа
+https://edge-ekat1.teletarget.ru/watch/yamal-media/s/016be6e18d21425d54ae9f8e56a0a34bc9bc07ad2bebd9a42e42868d5812d4c3/index.mpd

@@ -1,0 +1,13 @@
+# Местные каналы и радио Новосибирской области с платформы РТРС.Плюс
+# Powered by RTRS.Plus (plus.rtrs.ru)
+# Неофициальный IPTV плейлист
+# Обновлено 19.01.2024
+# Автор: @acidraineasy0272mc (telegram)
+
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+
+#EXTINF:0 tvg-id="" group-title="Инфо" tvg-logo="",=Обновлено 19.01.2024=
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+
+#EXTINF:0 tvg-id="ots" tvg-shift="+4" group-title=""Местное ТВ" tvg-logo="https://rtrn-api.teletarget.ru/media/upload/image/1/CHANN_OTC_clr.png",ОТС
+https://edge-ekat1.teletarget.ru/watch/otc/s/016be6e18d220991c03c93532446e8d19888b41d98f8c3d928956d33ec65739d/index.mpd
