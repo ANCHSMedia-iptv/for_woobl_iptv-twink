@@ -1,48 +1,48 @@
-# Местные каналы и радио Свердловской области с платформы РТРС.Плюс
+# пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ.пїЅпїЅпїЅпїЅ
 # Powered by RTRS.Plus (plus.rtrs.ru)
-# Неофициальный IPTV плейлист
-# Обновлено 19.01.2024
-# Из EPG который привязан не удалось найти EPG некоторых каналов и радиостанций. :(
-# Автор: @acidraineasy0272mc (telegram)
+# пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ IPTV пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+# пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ 19.01.2024
+# пїЅпїЅ EPG пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ EPG пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ. :(
+# пїЅпїЅпїЅпїЅпїЅ: @acidraineasy0272mc (telegram)
 
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 
-#EXTINF:0 tvg-id="" group-title="Инфо" tvg-logo="",=Обновлено 19.01.2024=
+#EXTINF:0 tvg-id="" group-title="пїЅпїЅпїЅпїЅ" tvg-logo="",=пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ 19.01.2024=
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
-#EXTINF:0 tvg-id="4kanal-piatnica" tvg-shift="+2" group-title="Местное ТВ" tvg-logo="https://rtrn-static-ekt.teletarget.ru/media/upload/image/16/4chan_c.png",4 канал 
+#EXTINF:0 tvg-id="4kanal-piatnica" tvg-shift="+2" group-title="пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ" tvg-logo="https://rtrn-static-ekt.teletarget.ru/media/upload/image/16/4chan_c.png",4 пїЅпїЅпїЅпїЅпїЅ 
 https://edge-ekat1.teletarget.ru/watch/4channel/s/016be6e18d214d7834b7608a5881f688222ba21a3372652fa2a8e31802d30e63/index.mpd
 
-#EXTINF:0 tvg-id="360-news" tvg-shift="+2" group-title="Местное ТВ" tvg-logo="https://rtrn-static-ekt.teletarget.ru/media/upload/image/1/360Serov_Clr.png",Канал-C 360 Новости (Серов)
+#EXTINF:0 tvg-id="360-news" tvg-shift="+2" group-title="пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ" tvg-logo="https://rtrn-static-ekt.teletarget.ru/media/upload/image/1/360Serov_Clr.png",пїЅпїЅпїЅпїЅпїЅ-C 360 пїЅпїЅпїЅпїЅпїЅпїЅпїЅ (пїЅпїЅпїЅпїЅпїЅ)
 https://edge-ekat1.teletarget.ru/watch/kanalc/s/016be6e18d214d7834b7608a5881f688222ba21a3372652fa2a8e31802d30e63/index.mpd
 
-#EXTINF:0 tvg-id="otv-eburg" tvg-shift="+2" group-title="Местное ТВ" tvg-logo="https://rtrn-static-ekt.teletarget.ru/media/upload/image/17/OTV_mod_bw_2_yJCfMM4.png",ОТВ HD 
+#EXTINF:0 tvg-id="otv-eburg" tvg-shift="+2" group-title="пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ" tvg-logo="https://rtrn-static-ekt.teletarget.ru/media/upload/image/17/OTV_mod_bw_2_yJCfMM4.png",пїЅпїЅпїЅ HD 
 https://edge-ekat1.teletarget.ru/watch/otv/s/016be6e18d214a08635945bb809e4525cdba3ce384d9e71127aadeba44609b76/index.mpd
 
-#EXTINF:0 tvg-id="" group-title="Местное ТВ" tvg-logo="https://rtrn-static-ekt.teletarget.ru/media/upload/image/1/Bogdanovich_Clr.png",1 Телевидение Богдановича (Богданович)
+#EXTINF:0 tvg-id="" group-title="пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ" tvg-logo="https://rtrn-static-ekt.teletarget.ru/media/upload/image/1/Bogdanovich_Clr.png",1 пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ (пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ)
 https://edge-ekat1.teletarget.ru/watch/bogdanovich/s/016be6e18d214d7834b7608a5881f688222ba21a3372652fa2a8e31802d30e63/index.mpd
 
-#EXTINF:0 tvg-id="" group-title="Местное ТВ" tvg-logo="https://rtrn-static-ekt.teletarget.ru/media/upload/image/1/ITV_colored.png",Инком ТВ
+#EXTINF:0 tvg-id="" group-title="пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ" tvg-logo="https://rtrn-static-ekt.teletarget.ru/media/upload/image/1/ITV_colored.png",пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ
 https://edge-ekat1.teletarget.ru/watch/inkom/s/016be6e18d214d7834b7608a5881f688222ba21a3372652fa2a8e31802d30e63/index.mpd
 
-#EXTINF:0 tvg-id="" group-title="Местное ТВ" tvg-logo="https://rtrn-static-ekt.teletarget.ru/media/upload/image/1/kompas_2022_c.png",Компас ТВ
+#EXTINF:0 tvg-id="" group-title="пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ" tvg-logo="https://rtrn-static-ekt.teletarget.ru/media/upload/image/1/kompas_2022_c.png",пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ
 https://edge-ekat1.teletarget.ru/watch/kompastv/s/016be6e18d214d7834b7608a5881f688222ba21a3372652fa2a8e31802d30e63/index.mpd
 
-#EXTINF:0 tvg-id="nts-irbit" tvg-shift="+2" group-title="Местное ТВ" tvg-logo="https://rtrn-static-ekt.teletarget.ru/media/upload/image/1/CHANAL_HTC_colored.png",НТС HD (Ирбит)
+#EXTINF:0 tvg-id="nts-irbit" tvg-shift="+2" group-title="пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ" tvg-logo="https://rtrn-static-ekt.teletarget.ru/media/upload/image/1/CHANAL_HTC_colored.png",пїЅпїЅпїЅ HD (пїЅпїЅпїЅпїЅпїЅ)
 https://edge-ekat1.teletarget.ru/watch/nts-irbit/s/016be6e18d214d7834b7608a5881f688222ba21a3372652fa2a8e31802d30e63/index.mpd
 
-#EXTINF:0 tvg-id="" group-title="Местное ТВ" tvg-logo="https://rtrn-static-ekt.teletarget.ru/media/upload/image/17/CHANAL_PTV_Clr.png",ПТВ
+#EXTINF:0 tvg-id="" group-title="пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ" tvg-logo="https://rtrn-static-ekt.teletarget.ru/media/upload/image/17/CHANAL_PTV_Clr.png",пїЅпїЅпїЅ
 https://edge-ekat1.teletarget.ru/watch/ptv/s/016be6e18d214d7834b7608a5881f688222ba21a3372652fa2a8e31802d30e63/index.mpd
 
-#EXTINF:0 tvg-id="tagil-tv-24" tvg-shift="+2" group-title="Местное ТВ" tvg-logo="https://rtrn-static-ekt.teletarget.ru/media/upload/image/6/tagil-tv_alfa-mod_colored_wKCJUya.png",Тагил ТВ (Нижний Тагил)
+#EXTINF:0 tvg-id="tagil-tv-24" tvg-shift="+2" group-title="пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ" tvg-logo="https://rtrn-static-ekt.teletarget.ru/media/upload/image/6/tagil-tv_alfa-mod_colored_wKCJUya.png",пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ (пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ)
 https://edge-ekat1.teletarget.ru/watch/tagil/s/016be6e18d214d7834b7608a5881f688222ba21a3372652fa2a8e31802d30e63/index.mpd
 
-#EXTINF:0 tvg-id="telekon24-nt" tvg-shift="+2" group-title="Местное ТВ" tvg-logo="https://rtrn-static-ekt.teletarget.ru/media/upload/image/1/CHANAL_TELECON_colored.png",Телекон ТВ (Нижний Тагил)
+#EXTINF:0 tvg-id="telekon24-nt" tvg-shift="+2" group-title="пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ" tvg-logo="https://rtrn-static-ekt.teletarget.ru/media/upload/image/1/CHANAL_TELECON_colored.png",пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ (пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ)
 https://edge-ekat1.teletarget.ru/watch/telekon/s/016be6e18d214d7834b7608a5881f688222ba21a3372652fa2a8e31802d30e63/index.mpd
 
 
-#EXTINF:0 tvg-id="" group-title="Радио (местное)" tvg-logo="https://rtrn-static-ekt.teletarget.ru/media/upload/image/1/RADIO_HBK_jvoYH0I.png",НВК (Новоуральск)
+#EXTINF:0 tvg-id="" group-title="пїЅпїЅпїЅпїЅпїЅ (пїЅпїЅпїЅпїЅпїЅпїЅпїЅ)" tvg-logo="https://rtrn-static-ekt.teletarget.ru/media/upload/image/1/RADIO_HBK_jvoYH0I.png",пїЅпїЅпїЅ (пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ)
 https://edge-ekat1.teletarget.ru/watch/nvkfm/s/016be6e18d214d7834b7608a5881f688222ba21a3372652fa2a8e31802d30e63/index.mpd
 
-#EXTINF:0 tvg-id="" group-title="Радио (местное)" tvg-logo="https://rtrn-static-ekt.teletarget.ru/media/upload/image/1/R_logo_Radio-SI_.png",Радио Си
+#EXTINF:0 tvg-id="" group-title="пїЅпїЅпїЅпїЅпїЅ (пїЅпїЅпїЅпїЅпїЅпїЅпїЅ)" tvg-logo="https://rtrn-static-ekt.teletarget.ru/media/upload/image/1/R_logo_Radio-SI_.png",пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ
 https://edge-ekat1.teletarget.ru/watch/radioc/s/016be6e18d214d7834b7608a5881f688222ba21a3372652fa2a8e31802d30e63/index.mpd
