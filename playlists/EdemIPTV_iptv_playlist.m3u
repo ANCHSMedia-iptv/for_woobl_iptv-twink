@@ -1,4 +1,6 @@
 
+# К сожалению, прекращена поддержка с 21.01.2024. 
+# Причина: геоблок возможный был включён. (403 ошибка)
 
 
 # Потоки Edem IPTV (Test)
@@ -18,152 +20,9 @@
 
 #EXTM3U
 
-#EXTINF:0,Первый канал SD
-http://data.homeiptv.org:8090/Perviy_Kanal/video.m3u8
-
-#EXTINF:0,Первый канал HD
-http://data.homeiptv.org:8090/Perviy_Kanal_HD/video.m3u8
-
-#EXTINF:0,Россия 1
-http://data.homeiptv.org:8090/Rossiya_1/video.m3u8
-
-#EXTINF:0,Россия 24
-http://data.homeiptv.org:8090/Rossiya_24/video.m3u8
-
-#EXTINF:0,Discovery Channel HD СНГ
-http://data.homeiptv.org:8090/Discovery_Channel/video.m3u8
-
-#EXTINF:0,Animal Planet HD СНГ
-http://data.homeiptv.org:8090/Animal_Planet/video.m3u8
-
-#EXTINF:0,Eurosport 1 HD СНГ
-http://data.homeiptv.org:8090/Eurosport_1/video.m3u8
-
-#EXTINF:0,Eurosport 2 HD СНГ
-http://data.homeiptv.org:8090/Eurosport_2/video.m3u8
-
-#EXTINF:0,Kion Хит HD
-http://data.homeiptv.org:8090/KION_HIT_HD/video.m3u8
-
-#EXTINF:0,Кинохит HD 
-http://data.homeiptv.org:8090/Kinoxit_HD/video.m3u8
-
-#EXTINF:0,Киносемья HD
-http://data.homeiptv.org:8090/Kinosemya_HD/video.m3u8
-
-#EXTINF:0,Киномикс HD
-http://data.homeiptv.org:8090/Kinomix_HD/video.m3u8
-
-#EXTINF:0,Киносвидание HD
-http://data.homeiptv.org:8090/KinosvidanieHD/video.m3u8
-
-#EXTINF:0,Киносерия HD
-http://data.homeiptv.org:8090/Kinoseriya_HD/video.m3u8
-
-#EXTINF:0,FilmBox Россия
-http://lb.homeiptv.org/lb0/FilmBox/video.m3u8
-
-#EXTINF:0,Bolt 
-http://lb.homeiptv.org/lb0/Bolt/video.m3u8
-
-#EXTINF:0,National Geographic Wild HD СНГ
-http://lb.homeiptv.org/lb0/Nat_Geo_Wild_HD/video.m3u8
-
-#EXTINF:0,National Geographic HD СНГ
-http://lb.homeiptv.org/lb0/National_Geographic_Channel/video.m3u8
-
-#EXTINF:0,Travel Channel HD (Europe,Европа)
-http://lb.homeiptv.org/lb0/Travel_Channel_HD/video.m3u8
-
-# Коммент к потоку Travel Channel: ретранслируется не СНГ версия, а Европейская (т.е. с приставкой Europe) XD
-
-#EXTINF:0,Da Vinci
-http://lb.homeiptv.org/lb0/Da_Vinci_Learning/video.m3u8
-
-#EXTINF:0,Телеканал История
-http://lb.homeiptv.org/lb0/Istoriya/video.m3u8
-
-#EXTINF:0,Мульт
-http://lb.homeiptv.org/lb0/Mult/video.m3u8
-
-#EXTINF:0,Уникум
-http://lb.homeiptv.org/lb0/Unikum/video.m3u8
-
-#EXTINF:0,Nickelodeon Global HD СНГ
-http://data.homeiptv.org:8090/Nickelodeon/video.m3u8
-
-#EXTINF:0,Cartoon Network HD СНГ
-http://data.homeiptv.org:8090/cartoonnetwork/video.m3u8
-
-#EXTINF:0,Nick Jr Global HD СНГ
-http://data.homeiptv.org:8090/Nick_Jr/video.m3u8
-
-#EXTINF:0,Nicktoons Global HD СНГ
-http://data.homeiptv.org:8090/NickToons/video.m3u8
-
-#EXTINF:0,Nicktoons Global HD СНГ 2
-http://lb.homeiptv.org/lb0/NickToons/video.m3u8
-
-#EXTINF:0,MTV Live HD Global (EN)
-http://data.homeiptv.org:8090/MTV_Live_HD/video.m3u8
-
-#EXTINF:0 audio-track="rus",Cartoonito СНГ
-http://data.homeiptv.org:8090/Cartoonito/video.m3u8
-
-#EXTINF:0,Евроновости (Euronews Россия HD СНГ)
-http://data.homeiptv.org:8090/Euronews/video.m3u8
-
-#EXTINF:0,ТНТ
-http://data.homeiptv.org:8090/TNT/video.m3u8
-
-#EXTINF:0,Gagsnetwork
-http://data.homeiptv.org:8090/Gagsnetwork/video.m3u8
-
-#EXTINF:0,Бобёр
-http://data.homeiptv.org:8090/Bober/video.m3u8
-
-#EXTINF:0,Мульт HD
-http://data.homeiptv.org:8090/Mult/video.m3u8
-
-#EXTINF:0,Дорама
-http://data.homeiptv.org:8090/Dorama/video.m3u8
-
-#EXTINF:0,Кинопремьера HD
-http://data.homeiptv.org:8090/Kinopremera/video.m3u8
-
-#EXTINF:0,Кинохит
-http://data.homeiptv.org:8090/Kinoxit/video.m3u8
-
-#EXTINF:0,СТС
-http://data.homeiptv.org:8090/STS/video.m3u8
-
-#EXTINF:0,СТС Kids
-http://data.homeiptv.org:8090/STS_Kids/video.m3u8
-
-#EXTINF:0,ТНТ4
-http://data.homeiptv.org:8090/TNT4/video.m3u8
-
-#EXTINF:0,Киносемья
-http://data.homeiptv.org:8090/Kinosemya/video.m3u8
-
-#EXTINF:0,KHL TV
-http://data.homeiptv.org:8090/KHL_TV/video.m3u8
-
-#EXTINF:0,Мир 24
-http://data.homeiptv.org:8090/Mir_24/video.m3u8
-
-#EXTINF:0,СТС Love
-http://data.homeiptv.org:8090/STS_Love/video.m3u8
-
-#EXTINF:0,Мосфильм. Золотая коллекция
-http://lb.homeiptv.org/lb0/Mosfilm/video.m3u8
-
-#EXTINF:0,Комедийное HD
-http://data.homeiptv.org:8090/Komediynoe_HD/video.m3u8
-
-#EXTINF:0,Страшное HD
-http://lb.homeiptv.org/lb0/strashnoehd/video.m3u8
+#EXTINF:0, Прекращена поддержка с 21.01.2024.
+# так получилось.
 
 
-# Всё что я нашёл :( Буду искать ещё.
+
 
