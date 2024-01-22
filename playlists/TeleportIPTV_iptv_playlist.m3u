@@ -34,7 +34,7 @@ http://31.148.48.15:80/Paramount_Comedy/index.m3u8
 #EXTINF:0,Nickelodeon Global СНГ
 http://31.148.48.15:80/Nickelodeon/index.m3u8
 
-#EXTINF:0,Cartoon Network
+#EXTINF:0,Cartoon Network СНГ
 # Поток который тут был - рабочий, но на нём заглушка «Этот канал сейчас недоступен».
 
 #EXTINF:0,Соловьёв Live
