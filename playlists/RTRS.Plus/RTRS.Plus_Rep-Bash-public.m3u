@@ -8,7 +8,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 
 #EXTINF:0 tvg-id="" group-title="Инфо" tvg-logo="",=Обновлено 19.01.2024=
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8 
 
 #EXTINF:0 tvg-id="bst" tvg-shift="+1" tvg=logo="https://rtrn-api.teletarget.ru/media/upload/image/1/CHANN_BST_clr.png" group-titile="Местное ТВ",БСТ
 https://bstrtrs.mediacdn.ru/rtrs/hdbst/dash/manifest.mpd
