@@ -7,7 +7,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 
 #EXTINF:0 tvg-id="" group-title="Инфо" tvg-logo="",=Обновлено 19.01.2024=
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8 
 
 #EXTINF:0 tvg-id="prima" tvg-shift="+4" group-title="Местное ТВ" tvg-logo="https://rtrn-api.teletarget.ru/media/upload/image/16/CHANN_PRIMA_clr.png",Прима ТВ
 https://edge-ekat1.teletarget.ru/stream/msk/prima/index.mpd
