@@ -1,7 +1,7 @@
 
 
 # Потоки от провайдера AzEuroTel из Азербайджана
-# Разный формат - в виде IP адреса.
+# Формат - в виде IP адреса.
 # Всё что я нашёл. Плейлист будет обновляться!
 # Провайдер ретранслирует некоторые российские каналы напрямую, т.е. не International версии этих каналов.
 # https://raw.githubusercontent.com/teleeasyiptv/for_woobl_iptv/main/AzEuroTel_213.172.73.XXX_iptv_playlist.m3u
@@ -12,7 +12,7 @@
 
 # Для Woobl IPTV
 # Автор: @acidraineasy0272mc (telegram)
-# Обновлено 19.01.2024
+# Обновлено 22.01.2024
 
 
 #EXTM3U 
