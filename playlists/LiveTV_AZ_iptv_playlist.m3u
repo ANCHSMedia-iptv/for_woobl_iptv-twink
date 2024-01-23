@@ -11,7 +11,7 @@
 
 # Для Woobl IPTV
 # Автор: @acidraineasy0272mc (telegram)
-# Обновлено 20.01.2024
+# Обновлено 23.01.2024
 
 
 #EXTM3U
@@ -32,7 +32,7 @@ http://135.181.115.81/russia/cartoon/playlist.m3u8
 #EXTINF:0,Cartoonito СНГ
 http://135.181.115.81/russia/boomerang/playlist.m3u8
 
-#EXTINF:0,Amedia 2
+#EXTINF:0,Amedia 2 HD
 http://135.181.115.81/russia/amedia2/playlist.m3u8
 
 #EXTINF:0,Tiji 
