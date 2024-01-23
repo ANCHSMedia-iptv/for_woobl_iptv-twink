@@ -12,7 +12,7 @@
 
 # Для Woobl IPTV
 # Автор: @acidraineasy0272mc (telegram)
-# Обновлено 19.01.2024
+# Обновлено 23.01.2024
 
 
 #EXTM3U
@@ -37,10 +37,10 @@ http://176.222.190.11/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
 http://176.222.190.11/btv/SWM/Muz_Tv/Muz_Tv.m3u8
 
 #EXTINF:0,DTX HD СНГ
-# Канал прекратил своё существование с 7 января этого года.
+# Канал прекратил своё существование и вещание в СНГ с 7 января этого года.
 
 #EXTINF:0,Discovery Science HD СНГ 
-# Пока что не найден поток.
+# Канал прекратил своё существование и вещание в СНГ c начала месяца этого года.
 
 #EXTINF:0,Discovery Channel HD СНГ
 http://176.222.190.11/btv/SWM/discovery_hd/discovery_hd.m3u8
