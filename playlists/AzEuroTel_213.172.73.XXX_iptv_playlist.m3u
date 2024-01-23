@@ -12,7 +12,7 @@
 
 # Для Woobl IPTV
 # Автор: @acidraineasy0272mc (telegram)
-# Обновлено 22.01.2024
+# Обновлено 23.01.2024
 
 
 #EXTM3U 
@@ -125,7 +125,7 @@ http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m
 #EXTINF:0,Совершенно Секретно 
 http://213.172.73.170:8081/nimble_live/1016__Sovershenno_Sekretno/playlist.m3u8
 
-#EXTINF:0,Еврокино
+#EXTINF:0,Еврокино 
 http://213.172.73.170:8081/nimble_live/1139__EvroKino/playlist.m3u8
 
 #EXTINF:0,Кинохит HD
@@ -140,10 +140,10 @@ http://213.172.73.170:8081/nimble_live/1032__Kinosvidaniye/playlist.m3u8
 #EXTINF:0,Киносемья HD
 http://213.172.73.170:8081/nimble_live/1098__Kinosemya/playlist.m3u8
 
-#EXTINF:0,Киносерия
+#EXTINF:0,Киносерия HD
 http://213.172.73.170:8081/nimble_live/1090__Kinoseriya/playlist.m3u8
 
-#EXTINF:0,Кинокомедия 
+#EXTINF:0,Кинокомедия HD
 http://213.172.73.170:8081/nimble_live/1122__Kinokomediya/playlist.m3u8
 
 #EXTINF:0,Мужское кино
@@ -154,10 +154,7 @@ http://213.172.73.170:8081/nimble_live/1051__NST/playlist.m3u8
 
 #EXTINF:0,Наше новое кино HD
 http://213.172.73.170:8081/nimble_live/1048__Nashe_Novoye_Kino/playlist.m3u8
-
-#EXTINF:0,Кинокомедия
-http://213.172.73.170:8081/nimble_live/1122__Kinokomediya/playlist.m3u8
-
+
 #EXTINF:0,History СНГ
 http://213.172.73.170:8081/nimble_live/1028__History/playlist.m3u8
 
