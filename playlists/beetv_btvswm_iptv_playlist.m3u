@@ -643,10 +643,10 @@ http://176.222.190.11/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbp
 #EXTINF:0,Дом Кино Int. SD
 http://176.222.190.11/btv/SWM/Dom_Kino/Dom_Kino_576p_2000kbps.m3u8
 
-#EXTINF:0,Кинохит SD (KZ)
+#EXTINF:0,Кинохит SD (KZ,Казахстан)
 http://176.222.190.11/btv/SWM/KinoHit/KinoHit_576p_2000kbps.m3u8
 
-#EXTINF:0,Киноалем SD (KZ)
+#EXTINF:0,Киноалем SD (KZ,Казахстан)
 http://176.222.190.11/btv/SWM/KinoAlem/KinoAlem_576p_2000kbps.m3u8
 
 #EXTINF:0,Дом Кино Премиум SD Int.
@@ -678,7 +678,7 @@ http://176.222.190.11/btv/SWM/Tnt_music/Tnt_music_576p_2000kbps.m3u8
 
 
 # Всё что я нашёл :( Буду искать ещё.
-# Тут некоторые каналы удалены т.к. их потоки «падают» в ошибку 404 и возможно устарели.
+# Тут некоторые каналы удалены т.к. их потоки «падают» в ошибку 404 и/или возможно устарели.
 
 
 # ---------------
@@ -702,7 +702,7 @@ http://176.222.190.11/btv/SWM/viasatexplorerhd/viasatexplorerhd.m3u8
 #EXTINF:0,viju (Viasat) History HD СНГ
 http://176.222.190.11/btv/SWM/viasathistoryhd/viasathistoryhd.m3u8
 
-#EXTINF:0,viju (Viasat) Nature HD СНГ [+ viju (Viasat) Planet]
+#EXTINF:0,viju (Viasat) Nature HD СНГ
 http://176.222.190.11/btv/SWM/viasatnaturehd/viasatnaturehd.m3u8
 
 #EXTINF:0,Qazsport HD (Казахстан)
