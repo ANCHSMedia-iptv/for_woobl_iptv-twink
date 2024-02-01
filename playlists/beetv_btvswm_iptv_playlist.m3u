@@ -12,7 +12,7 @@
 
 # Для Woobl IPTV
 # Автор: @acidraineasy0272mc (telegram)
-# Обновлено 23.01.2024
+# Обновлено 1.02.2024
 
 
 #EXTM3U
@@ -513,8 +513,7 @@ http://176.222.190.11/btv/SWM/TVCentr/TVCentr_384p_1000kbps.m3u8
 http://176.222.190.11/btv/SWM/Perec/Perec_576p_2000kbps.m3u8
 
 #EXTINF:0,BBC World News HD Int.
-# Канал больше наверное не вещает в СНГ, поток который тут был «падает» в ошибку 404.
-# Канал будет скоро убран.
+http://176.222.190.11/btv/SWM/BBC_World/BBC_World.m3u8
 
 #EXTINF:0,CNN International SD
 http://176.222.190.11/btv/SWM/CNN/CNN_384p_1000kbps.m3u8
