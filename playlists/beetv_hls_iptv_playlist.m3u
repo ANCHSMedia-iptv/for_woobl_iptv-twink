@@ -8,12 +8,11 @@
 # Альт. ссылка: https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/playlists/beetv_hls_iptv_playlist.m3u
 # P.s. Нету геоблока! 
 
-# Плейлист не полный. Завтра (1.02) будет обновлено.
 
 
 # Для Woobl IPTV
 # Автор: @acidraineasy0272mc (telegram)
-# Обновлено 31.01.2024
+# Обновлено 1.02.2024
 
 
 #EXTM3U
@@ -198,7 +197,7 @@ https://ucdn.beetv.kz/btv/live/hls/000000520.m3u8
 #EXTINF:0,.sci-fi Int.
 https://ucdn.beetv.kz/btv/live/hls/000000134.m3u8
 
-#EXTINF:0,Первый канал СНГ
+#EXTINF:0,Первый канал HD СНГ
 https://ucdn.beetv.kz/btv/live/hls/000001227.m3u8
 
 #EXTINF:0,Россия 24 Int.
@@ -318,6 +317,23 @@ https://ucdn.beetv.kz/btv/live/hls/000008490.m3u8
 #EXTINF:0,Мировое Кино Int.
 https://ucdn.beetv.kz/btv/live/hls/000008488.m3u8
 
+#EXTINF:0,Шансон ТВ Int.
+https://ucdn.beetv.kz/btv/live/hls/000000210.m3u8
+
+#EXTINF:0,MCM Top Int.
+https://ucdn.beetv.kz/btv/live/hls/000000327.m3u8
+
+#EXTINF:0,Первый канал Евразия
+https://ucdn.beetv.kz/btv/live/hls/000001020.m3u8
+
+#EXTINF:0,Mezzo
+https://ucdn.beetv.kz/btv/live/hls/000000030.m3u8
+
+#EXTINF:0,Eurosport 1 HD СНГ
+https://ucdn.beetv.kz/btv/live/hls/000002478.m3u8
+
+#EXTINF:0,Eurosport 2 HD СНГ
+https://ucdn.beetv.kz/btv/live/hls/000002479.m3u8
 
 
 
@@ -335,5 +351,5 @@ https://ucdn.beetv.kz/btv/live/hls/000000939.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000003028.m3u8
 
 
-# Плейлист не полный. Завтра (1.02) будет обновлено.
+# Всё что нашёл :( 
 
