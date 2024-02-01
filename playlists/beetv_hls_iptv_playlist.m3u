@@ -272,6 +272,9 @@ https://ucdn.beetv.kz/btv/live/hls/000000031.m3u8
 #EXTINF:0,MTV Live HD [EN] (Global)
 https://ucdn.beetv.kz/btv/live/hls/000000447.m3u8
 
+#EXTINF:0,MTV 00s [EN] (Global)
+https://ucdn.beetv.kz/btv/live/hls/000000264.m3u8
+
 #EXTINF:0,Россия РТР СНГ HD
 http://ucdn.beetv.kz/btv/live/hls/000000812.m3u8
 
@@ -334,6 +337,12 @@ https://ucdn.beetv.kz/btv/live/hls/000002478.m3u8
 
 #EXTINF:0,Eurosport 2 HD СНГ
 https://ucdn.beetv.kz/btv/live/hls/000002479.m3u8
+
+#EXTINF:0,Mz Muzzone (?)
+https://ucdn.beetv.kz/btv/live/hls/000000783.m3u8
+
+#EXTINF:0,Viasat Sport HD СНГ
+https://ucdn.beetv.kz/btv/live/hls/000000135.m3u8
 
 
 
