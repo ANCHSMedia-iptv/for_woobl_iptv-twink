@@ -12,352 +12,350 @@
 
 # Для Woobl IPTV
 # Автор: @acidraineasy0272mc (telegram)
-# Обновлено 1.02.2024
+# Обновлено 3.02.2024
 
 
 #EXTM3U
 
 #EXTINF:0,Анекдот ТВ Int.
-https://ucdn.beetv.kz/btv/live/hls/000001921.m3u8
+https://bkm.beetv.kz/btv/live/hls/000001921.m3u8
 
 #EXTINF:0,Bollywood Int.
-http://ucdn.beetv.kz/btv/live/hls/000001419.m3u8
+http://bkm.beetv.kz/btv/live/hls/000001419.m3u8
 
 #EXTINF:0,Домашние Животные Int.
-https://ucdn.beetv.kz/btv/live/hls/000000146.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000146.m3u8
 
 #EXTINF:0,Еда Премиум Int. 
-https://ucdn.beetv.kz/btv/live/hls/000000588.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000588.m3u8
 
 #EXTINF:0,FlixSnip (?)
-https://ucdn.beetv.kz/btv/live/hls/000004466.m3u8
+https://bkm.beetv.kz/btv/live/hls/000004466.m3u8
 
 #EXTINF:0,Глазами Туриста HD
-https://ucdn.beetv.kz/btv/live/hls/000001414.m3u8
+https://bkm.beetv.kz/btv/live/hls/000001414.m3u8
 
 #EXTINF:0,Капитан Фантастика Int.
-https://ucdn.beetv.kz/btv/live/hls/000001474.m3u8
+https://bkm.beetv.kz/btv/live/hls/000001474.m3u8
 
 #EXTINF:0,Мужской Int.
-https://ucdn.beetv.kz/btv/live/hls/000000286.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000286.m3u8
 
 #EXTINF:0,Наше Любимое Кино Int.
-https://ucdn.beetv.kz/btv/live/hls/000000283.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000283.m3u8
 
 #EXTINF:0,Nickelodeon Global СНГ
-https://ucdn.beetv.kz/btv/live/hls/000000499.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000499.m3u8
 
 #EXTINF:0,Nick Jr Global СНГ
-https://ucdn.beetv.kz/btv/live/hls/000000449.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000449.m3u8
 
 #EXTINF:0,НСТ Int.
-https://ucdn.beetv.kz/btv/live/hls/000000078.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000078.m3u8
 
 #EXTINF:0,О! Int.
-https://ucdn.beetv.kz/btv/live/hls/000002928.m3u8
+https://bkm.beetv.kz/btv/live/hls/000002928.m3u8
 
 #EXTINF:0,RTVi СНГ
-https://ucdn.beetv.kz/btv/live/hls/000000039.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000039.m3u8
 
 #EXTINF:0,Setanta Sports 1 HD СНГ
-https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
+https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
 
 #EXTINF:0,Setanta Sports 2 HD СНГ
-https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
+https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
 
 #EXTINF:0,TV XXI Int.
-https://ucdn.beetv.kz/btv/live/hls/000000006.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000006.m3u8
 
 #EXTINF:0,Вопросы и Ответы Int.
-https://ucdn.beetv.kz/btv/live/hls/000000195.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000195.m3u8
 
 #EXTINF:0,Время Int.
-https://ucdn.beetv.kz/btv/live/hls/000000205.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000205.m3u8
 
 #EXTINF:0,Здоровое ТВ Int.
-https://ucdn.beetv.kz/btv/live/hls/000000057.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000057.m3u8
 
 #EXTINF:0,Живая Природа Int.
-https://ucdn.beetv.kz/btv/live/hls/000001187.m3u8
+https://bkm.beetv.kz/btv/live/hls/000001187.m3u8
 
 #EXTINF:0,Астана ТВ (Казахстан) [KZ/RU]
-https://ucdn.beetv.kz/btv/live/hls/000000666.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000666.m3u8
 
 #EXTINF:0,Discovery Channel HD СНГ
-https://ucdn.beetv.kz/btv/live/hls/000001496.m3u8
+https://bkm.beetv.kz/btv/live/hls/000001496.m3u8
 
 #EXTINF:0,Nat Geo Wild HD СНГ
-https://ucdn.beetv.kz/btv/live/hls/000004474.m3u8
+https://bkm.beetv.kz/btv/live/hls/000004474.m3u8
 
 #EXTINF:0,Nat Geo HD СНГ
-https://ucdn.beetv.kz/btv/live/hls/000000034.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000034.m3u8
 
 #EXTINF:0,Animal Planet HD СНГ
-https://ucdn.beetv.kz/btv/live/hls/000000216.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000216.m3u8
 
 #EXTINF:0,Беларусь 24 HD Int.
-https://ucdn.beetv.kz/btv/live/hls/000000360.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000360.m3u8
 
 #EXTINF:0,Моя Планета HD Int.
-https://ucdn.beetv.kz/btv/live/hls/000001049.m3u8
+https://bkm.beetv.kz/btv/live/hls/000001049.m3u8
 
 #EXTINF:0,Любимое кино Int.
-https://ucdn.beetv.kz/btv/live/hls/000000283.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000283.m3u8
 
 #EXTINF:0,Дом Кино Int.
-https://ucdn.beetv.kz/btv/live/hls/000000050.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000050.m3u8
 
 #EXTINF:0,Дом Кино Премиум HD Int.
-https://ucdn.beetv.kz/btv/live/hls/000002943.m3u8
+https://bkm.beetv.kz/btv/live/hls/000002943.m3u8
 
 #EXTINF:0,Cinema Int.
-https://ucdn.beetv.kz/btv/live/hls/000000239.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000239.m3u8
 
 #EXTINF:0,Феникс+ Кино Int.
-https://ucdn.beetv.kz/btv/live/hls/000000125.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000125.m3u8
 
 #EXTINF:0,Уникум Int.
-https://ucdn.beetv.kz/btv/live/hls/000000048.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000048.m3u8
 
 #EXTINF:0,Детский Мир Int.
-https://ucdn.beetv.kz/btv/live/hls/000000049.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000049.m3u8
 
 #EXTINF:0,Galaxy TV Int.
-https://ucdn.beetv.kz/btv/live/hls/000000332.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000332.m3u8
 
 #EXTINF:0,Загородная жизнь Int. 
-https://ucdn.beetv.kz/btv/live/hls/000000289.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000289.m3u8
 
 #EXTINF:0,Бобёр Int.
-https://ucdn.beetv.kz/btv/live/hls/000001478.m3u8
+https://bkm.beetv.kz/btv/live/hls/000001478.m3u8
 
 #EXTINF:0,Техно 24 Int.
-https://ucdn.beetv.kz/btv/live/hls/000000008.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000008.m3u8
 
 #EXTINF:0,Перец International.
-https://ucdn.beetv.kz/btv/live/hls/000001248.m3u8
+https://bkm.beetv.kz/btv/live/hls/000001248.m3u8
 
 #EXTINF:0,Мульт Int.
-https://ucdn.beetv.kz/btv/live/hls/000001207.m3u8
+https://bkm.beetv.kz/btv/live/hls/000001207.m3u8
 
 #EXTINF:0,Zoopark HD Int.
-https://ucdn.beetv.kz/btv/live/hls/000000260.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000260.m3u8
 
 #EXTINF:0,Big Planet Int.
-http://ucdn.beetv.kz/btv/live/hls/000008052.m3u8
+http://bkm.beetv.kz/btv/live/hls/000008052.m3u8
 
 #EXTINF:0,Da Vinci СНГ
-https://ucdn.beetv.kz/btv/live/hls/000000333.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000333.m3u8
 
 #EXTINF:0,Первый Космический HD Int.
-https://ucdn.beetv.kz/btv/live/hls/000001220.m3u8
+https://bkm.beetv.kz/btv/live/hls/000001220.m3u8
 
 #EXTINF:0,History HD СНГ
-https://ucdn.beetv.kz/btv/live/hls/000001000.m3u8
+https://bkm.beetv.kz/btv/live/hls/000001000.m3u8
 
 #EXTINF:0,H2 HD СНГ
-https://ucdn.beetv.kz/btv/live/hls/000002722.m3u8
+https://bkm.beetv.kz/btv/live/hls/000002722.m3u8
 
 #EXTINF:0,Поехали! Int.
-https://ucdn.beetv.kz/btv/live/hls/000002991.m3u8
+https://bkm.beetv.kz/btv/live/hls/000002991.m3u8
 
 #EXTINF:0,Приключения HD Int.
-https://ucdn.beetv.kz/btv/live/hls/000000277.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000277.m3u8
 
 #EXTINF:0,Comedy Central СНГ
-http://ucdn.beetv.kz/btv/live/hls/000000452.m3u8
+http://bkm.beetv.kz/btv/live/hls/000000452.m3u8
 
 #EXTINF:0,TLC СНГ
-https://ucdn.beetv.kz/btv/live/hls/000001498.m3u8
+https://bkm.beetv.kz/btv/live/hls/000001498.m3u8
 
 #EXTINF:0,Рыбалка и Охота Int.
-https://ucdn.beetv.kz/btv/live/hls/000002510.m3u8
+https://bkm.beetv.kz/btv/live/hls/000002510.m3u8
 
 #EXTINF:0,Еда Премиум Int. HD
-https://ucdn.beetv.kz/btv/live/hls/000000588.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000588.m3u8
 
 #EXTINF:0,Setanta Sports Qazaqstan (Казахстан)
-https://ucdn.beetv.kz/btv/live/hls/000002649.m3u8
+https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
 
 #EXTINF:0,Авто 24 Int.
-https://ucdn.beetv.kz/btv/live/hls/000000815.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000815.m3u8
 
 #EXTINF:0,Муз ТВ Int.
-https://ucdn.beetv.kz/btv/live/hls/000000073.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000073.m3u8
 
 #EXTINF:0,СТС Int.
-https://ucdn.beetv.kz/btv/live/hls/000000428.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000428.m3u8
 
 #EXTINF:0,.red Int.
-https://ucdn.beetv.kz/btv/live/hls/000000213.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000213.m3u8
 
 #EXTINF:0,.black Int.
-https://ucdn.beetv.kz/btv/live/hls/000000520.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000520.m3u8
 
 #EXTINF:0,.sci-fi Int.
-https://ucdn.beetv.kz/btv/live/hls/000000134.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000134.m3u8
 
 #EXTINF:0,Первый канал HD СНГ
-https://ucdn.beetv.kz/btv/live/hls/000001227.m3u8
+https://bkm.beetv.kz/btv/live/hls/000001227.m3u8
 
 #EXTINF:0,Россия 24 Int.
-https://ucdn.beetv.kz/btv/live/hls/000000198.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000198.m3u8
 
 #EXTINF:0,Россия Kультура Int.
-https://ucdn.beetv.kz/btv/live/hls/000000066.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000066.m3u8
 
 #EXTINF:0,TiJi СНГ
-https://ucdn.beetv.kz/btv/live/hls/000000174.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000174.m3u8
 
 #EXTINF:0,Guili Girl СНГ
-https://ucdn.beetv.kz/btv/live/hls/000000284.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000284.m3u8
 
 #EXTINF:0,Музыка Первого Int.
-https://ucdn.beetv.kz/btv/live/hls/000000204.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000204.m3u8
 
 #EXTINF:0,Психология 21 Int.
-https://ucdn.beetv.kz/btv/live/hls/000000147.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000147.m3u8
 
 #EXTINF:0,Еврокино Int.
-https://ucdn.beetv.kz/btv/live/hls/000000152.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000152.m3u8
 
 #EXTINF:0,Телекафе Int.
-https://ucdn.beetv.kz/btv/live/hls/000000206.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000206.m3u8
 
 #EXTINF:0,В гостях у сказки Int.
-https://ucdn.beetv.kz/btv/live/hls/000002762.m3u8
+https://bkm.beetv.kz/btv/live/hls/000002762.m3u8
 
 #EXTINF:0,Карусель Int.
-https://ucdn.beetv.kz/btv/live/hls/000000781.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000781.m3u8
 
 #EXTINF:0,Рен ТВ Int.
-https://ucdn.beetv.kz/btv/live/hls/000002472.m3u8
+https://bkm.beetv.kz/btv/live/hls/000002472.m3u8
 
 #EXTINF:0,РБК Int.
-https://ucdn.beetv.kz/btv/live/hls/000000091.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000091.m3u8
 
 #EXTINF:0,НТВ Сериал Int.
-https://ucdn.beetv.kz/btv/live/hls/000002760.m3u8
+https://bkm.beetv.kz/btv/live/hls/000002760.m3u8
 
 #EXTINF:0,НТВ Право Int.
-https://ucdn.beetv.kz/btv/live/hls/000002759.m3u8
+https://bkm.beetv.kz/btv/live/hls/000002759.m3u8
 
 #EXTINF:0,НТВ Стиль Int.
-https://ucdn.beetv.kz/btv/live/hls/000002761.m3u8
+https://bkm.beetv.kz/btv/live/hls/000002761.m3u8
 
 #EXTINF:0,THT Int. #ГПМНЕБАНЬ!
-https://ucdn.beetv.kz/btv/live/hls/000001480.m3u8
+https://bkm.beetv.kz/btv/live/hls/000001480.m3u8
 
 #EXTINF:0,THT4 Int. #ГПМНЕБАНЬ!
-https://ucdn.beetv.kz/btv/live/hls/000002926.m3u8
+https://bkm.beetv.kz/btv/live/hls/000002926.m3u8
 
 #EXTINF:0,THT Music Int. #ГПМНЕБАНЬ!
-https://ucdn.beetv.kz/btv/live/hls/000000013.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000013.m3u8
 
 #EXTINF:0,Cartoon Network СНГ
-https://ucdn.beetv.kz/btv/live/hls/000000015.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000015.m3u8
 
 #EXTINF:0,Cartoonito СНГ
-https://ucdn.beetv.kz/btv/live/hls/000000160.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000160.m3u8
 
 #EXTINF:0,FX СНГ
-https://ucdn.beetv.kz/btv/live/hls/000004472.m3u8
+https://bkm.beetv.kz/btv/live/hls/000004472.m3u8
 
 #EXTINF:0,FX Life HD СНГ
-https://ucdn.beetv.kz/btv/live/hls/000004471.m3u8
+https://bkm.beetv.kz/btv/live/hls/000004471.m3u8
 
 #EXTINF:0,Hollywood СНГ
-https://ucdn.beetv.kz/btv/live/hls/000000031.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000031.m3u8
 
 #EXTINF:0,MTV Live HD [EN] (Global)
-https://ucdn.beetv.kz/btv/live/hls/000000447.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000447.m3u8
 
 #EXTINF:0,MTV 00s [EN] (Global)
-https://ucdn.beetv.kz/btv/live/hls/000000264.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000264.m3u8
 
 #EXTINF:0,Россия РТР СНГ HD
-http://ucdn.beetv.kz/btv/live/hls/000000812.m3u8
+http://bkm.beetv.kz/btv/live/hls/000000812.m3u8
 
 #EXTINF:0,Terra HD Int.
-https://ucdn.beetv.kz/btv/live/hls/000008142.m3u8
+https://bkm.beetv.kz/btv/live/hls/000008142.m3u8
 
 #EXTINF:0,Оружие Int.
-https://ucdn.beetv.kz/btv/live/hls/000000308.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000308.m3u8
 
 #EXTINF:0,ТНВ-Планета Int.
-https://ucdn.beetv.kz/btv/live/hls/000000418.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000418.m3u8
 
 #EXTINF:0,Первый Вегетарианский Int.
-https://ucdn.beetv.kz/btv/live/hls/000002927.m3u8
+https://bkm.beetv.kz/btv/live/hls/000002927.m3u8
 
 #EXTINF:0,31 канал Казахстан
-https://ucdn.beetv.kz/btv/live/hls/000000663.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000663.m3u8
 
 #EXTINF:0,8 канал Int.
-https://ucdn.beetv.kz/btv/live/hls/000001564.m3u8
+https://bkm.beetv.kz/btv/live/hls/000001564.m3u8
 
 #EXTINF:0,E TV Int.
-https://ucdn.beetv.kz/btv/live/hls/000002721.m3u8
+https://bkm.beetv.kz/btv/live/hls/000002721.m3u8
 
 #EXTINF:0,5 канал (Караганда,КЗ)
-https://ucdn.beetv.kz/btv/live/hls/000000950.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000950.m3u8
 
 #EXTINF:0,TBK 6 (Семей,КЗ)
-https://ucdn.beetv.kz/btv/live/hls/000001516.m3u8
+https://bkm.beetv.kz/btv/live/hls/000001516.m3u8
 
 #EXTINF:0,viju+ (ViP) Comedy СНГ
-https://ucdn.beetv.kz/btv/live/hls/000000870.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000870.m3u8
 
 #EXTINF:0,viju+ (ViP) Megahit СНГ
-https://ucdn.beetv.kz/btv/live/hls/000000869.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000869.m3u8
 
 #EXTINF:0,viju+ (ViP) Premiere СНГ
-https://ucdn.beetv.kz/btv/live/hls/000000868.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000868.m3u8
 
 #EXTINF:0,Кино Боевик Int.
-https://ucdn.beetv.kz/btv/live/hls/000008490.m3u8
+https://bkm.beetv.kz/btv/live/hls/000008490.m3u8
 
 #EXTINF:0,Мировое Кино Int.
-https://ucdn.beetv.kz/btv/live/hls/000008488.m3u8
+https://bkm.beetv.kz/btv/live/hls/000008488.m3u8
 
 #EXTINF:0,Шансон ТВ Int.
-https://ucdn.beetv.kz/btv/live/hls/000000210.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000210.m3u8
 
 #EXTINF:0,MCM Top Int.
-https://ucdn.beetv.kz/btv/live/hls/000000327.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000327.m3u8
 
 #EXTINF:0,Первый канал Евразия
-https://ucdn.beetv.kz/btv/live/hls/000001020.m3u8
+https://bkm.beetv.kz/btv/live/hls/000001020.m3u8
 
 #EXTINF:0,Mezzo
-https://ucdn.beetv.kz/btv/live/hls/000000030.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000030.m3u8
 
 #EXTINF:0,Eurosport 1 HD СНГ
-https://ucdn.beetv.kz/btv/live/hls/000002478.m3u8
+https://bkm.beetv.kz/btv/live/hls/000002478.m3u8
 
 #EXTINF:0,Eurosport 2 HD СНГ
-https://ucdn.beetv.kz/btv/live/hls/000002479.m3u8
+https://bkm.beetv.kz/btv/live/hls/000002479.m3u8
 
 #EXTINF:0,Mz Muzzone (?)
-https://ucdn.beetv.kz/btv/live/hls/000000783.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000783.m3u8
 
 #EXTINF:0,Viasat Sport HD СНГ
-https://ucdn.beetv.kz/btv/live/hls/000000135.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
 
 
 
-#EXTINF:0,Неизвестно
-https://ucdn.beetv.kz/btv/live/hls/000003038.m3u8
 
-#EXTINF:0,Неизвестно
-https://ucdn.beetv.kz/btv/live/hls/000000781.m3u8
+#EXTINF:0,Карусель Int.
+https://bkm.beetv.kz/btv/live/hls/000000781.m3u8
 
-#EXTINF:0,Неизвестно
-https://ucdn.beetv.kz/btv/live/hls/000000939.m3u8
+#EXTINF:0,TV1 (?)
+https://bkm.beetv.kz/btv/live/hls/000000939.m3u8
 
 
 #EXTINF:0,FilmUA Drama (Int.)
-https://ucdn.beetv.kz/btv/live/hls/000003028.m3u8
+https://bkm.beetv.kz/btv/live/hls/000003028.m3u8
 
 
 # Всё что нашёл :( 
