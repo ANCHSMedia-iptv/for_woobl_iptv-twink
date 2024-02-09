@@ -1,11 +1,13 @@
 
+# К сожалению, прекращена поддержка с 9.02.2024. 
+# Причина: Геоблок
+# Работают потоки HLS - https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/playlists/beetv_btvswm_iptv_playlist.m3u
 
 # Потоки beeTV из Казахстана
 # Разный формат в окончании потоков - в виде [название_канала.m3u8] 
 # и [название_канала_разрешение_XXXXKbps.m3u8]
 
-# https:// raw.githubusercontent.com/teleeasyiptv/for_woobl_iptv/main/beetv_btvswm_iptv_playlist.m3u
-# Альт. ссылка: https:// raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/playlists/beetv_btvswm_iptv_playlist.m3u
+
 
 
 
@@ -14,16 +16,13 @@
 # Автор: @acidraineasy0272mc (telegram)
 # Обновлено 9.02.2024
 
-# Поддержка пркеращена с 9.02.2024
-# Причина: Геоблок
-# Работают потоки HLS - https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/playlists/beetv_btvswm_iptv_playlist.m3u
 
 #EXTM3U
 
 # ------
 
 #EXTINF:0,Поддержка прекращена с 9.02.2024
-http://так-получилось
+# Так получилось.
 
 
 # ------
