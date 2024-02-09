@@ -1,0 +1,619 @@
+
+
+# Потоки некого сервиса IPTV iTV из Узбекистана
+# Потоки немного нестабильные.
+# Сортировка - от самого 1 найденного до последнего.
+# Всё что я нашёл. 
+
+
+# Примечания:
+# ОЭ - Орион Экспресс - потоки от Телекарты
+# МЛ - МедиаЛогистика - потоки от организации МедиаЛогистика
+# RSCC - РТРС
+
+ 
+# Для Woobl IPTV
+# Автор: @acidraineasy0272mc (tg), ориг автор: @snapsinc (tg)
+# Обновлено 9.02.2024
+
+
+
+#EXTM3U
+
+
+#EXTINF:0,Телеканал O'zbekiston SHD [Uzbekistan] (UZ)
+https://stream8.itv.uz/1001/index.m3u8
+
+#EXTINF:0,Yoshlar HD SHD (UZ)
+https://stream8.itv.uz/1002/index.m3u8
+
+#EXTINF:0,Телеканал Toshkent SHD (UZ)
+https://stream8.itv.uz/1003/index.m3u8
+
+#EXTINF:0,Sport SHD (UZ)
+https://stream8.itv.uz/1004/index.m3u8
+
+#EXTINF:0,Телеканал Madaniyat va Ma'rifat SHD
+https://stream8.itv.uz/1005/index.m3u8
+
+#EXTINF:0,Туризм 365 SHD (РУ)
+https://stream8.itv.uz/1006/index.m3u8
+
+#EXTINF:0,Belajon SHD (UZ)
+https://stream8.itv.uz/1007/index.m3u8
+
+#EXTINF:0,Navo Music (UZ)
+https://stream8.itv.uz/1008/index.m3u8
+
+#EXTINF:0,Kinoteatr SHD (РУ и УЗ)
+https://stream8.itv.uz/1009/index.m3u8
+
+#EXTINF:0,Foreigh Languages (РУ и УЗ) [Test]
+https://stream8.itv.uz/1010/index.m3u8
+
+#EXTINF:0,O'zbekiston 24 HD (УЗ) [Uzbekistan 24]
+https://stream8.itv.uz/1011/index.m3u8
+
+#EXTINF:0,My5 SHD (УЗ)
+https://stream8.itv.uz/1012/index.m3u8
+
+#EXTINF:0,Телеканал Mahalla (УЗ)
+https://stream8.itv.uz/1013/index.m3u8
+
+#EXTINF:0,Milliy TV (UZ)
+http://stream8.itv.uz/1014/index.m3u8
+
+#EXTINF:0,Uzreport TV HD (РУ и УЗ)
+http://stream8.itv.uz/1015/index.m3u8
+
+#EXTINF:0,Zor TV HD (РУ и УЗ)
+https://stream8.itv.uz/1016/index.m3u8
+
+#EXTINF:0,Sevimli TV FHD (UZ)
+https://stream8.itv.uz/1017/index.m3u8
+
+#EXTINF:0,FTV HD (РУ и УЗ) [Футбол TV UZ]
+http://stream8.itv.uz/1018/index.m3u8
+
+#EXTINF:0,Первый канал СНГ SHD
+https://stream8.itv.uz/1019/index.m3u8
+
+#EXTINF:0,Россия РТР СНГ SHD [Россия 1 SHD]
+https://stream8.itv.uz/1020/index.m3u8
+
+#EXTINF:0,Россия 24 Int. SHD
+https://stream8.itv.uz/1021/index.m3u8
+
+#EXTINF:0,НТВ-Мир СНГ SHD [НТВ]
+https://stream8.itv.uz/1023/index.m3u8
+
+#EXTINF:0,Евроновости (Euronews Россия SHD СНГ)
+https://stream8.itv.uz/1024/index.m3u8
+
+#EXTINF:0,ТВЦ Int. SHD 1
+https://stream8.itv.uz/1025/index.m3u8
+
+#EXTINF:0,M1-Global (Матч! Игра Int. SHD)
+https://stream8.itv.uz/1027/index.m3u8
+
+#EXTINF:0,KHL Live (Матч! Арена Int. SHD)
+https://stream8.itv.uz/1028/index.m3u8
+
+#EXTINF:0,Точка отрыва Int. SHD
+https://stream8.itv.uz/1031/index.m3u8
+
+#EXTINF:0,Детский мир Int. SHD
+https://stream8.itv.uz/1032/index.m3u8
+
+#EXTINF:0,Уникум Int. sHD
+https://stream8.itv.uz/1033/index.m3u8
+
+#EXTINF:0,Карусель Int. SHD
+https://stream8.itv.uz/1034/index.m3u8
+
+#EXTINF:0,Телекафе Int. SHD
+https://stream8.itv.uz/1035/index.m3u8
+
+#EXTINF:0,Авто плюс Int. SHD
+https://stream8.itv.uz/1036/index.m3u8
+
+#EXTINF:0,Техно 24 Int. SHD
+https://stream8.itv.uz/1037/index.m3u8
+
+#EXTINF:0,Охота и Рыбалка Int. SHD 
+https://stream8.itv.uz/1038/index.m3u8
+
+#EXTINF:0,Discovery Channel СНГ SHD
+http://stream8.itv.uz/1039/index.m3u8
+
+#EXTINF:0,Discovery Science SHD (Англ.)(Европа, неизвестно откуда ретрансляция)
+https://stream8.itv.uz/1040/index.m3u8
+
+#EXTINF:0,Nat Geo SHD СНГ
+https://stream8.itv.uz/1041/index.m3u8
+
+#EXTINF:0,Nat Geo Wild SHD СНГ
+https://stream8.itv.uz/1042/index.m3u8
+
+#EXTINF:0,Animal Planet SHD СНГ
+https://stream8.itv.uz/1043/index.m3u8
+
+#EXTINF:0,Загородный Int. SHD
+https://stream8.itv.uz/1044/index.m3u8
+
+#EXTINF:0,viju (Viasat) Explore CНГ SHD
+https://stream8.itv.uz/1045/index.m3u8
+
+#EXTINF:0,viju (Viasat) History СНГ SHD
+https://stream8.itv.uz/1046/index.m3u8
+
+#EXTINF:0,Ретро Int. SHD
+https://stream8.itv.uz/1047/index.m3u8
+
+#EXTINF:0,Россия Культура Int. SHD
+https://stream8.itv.uz/1048/index.m3u8
+
+#EXTINF:0,Матч! Планета Int. SHD
+https://stream8.itv.uz/1049/index.m3u8
+
+#EXTINF:0,Звезда Int. SHD
+https://stream8.itv.uz/1050/index.m3u8
+
+#EXTINF:0,Наше Новое Кино FHD Int. (+субтитры на РУ)
+https://stream8.itv.uz/1051/index.m3u8
+
+#EXTINF:0,Родное Кино Int. HD (+субтитры на РУ)
+https://stream8.itv.uz/1052/index.m3u8
+
+#EXTINF:0,Fashion TV FHD [ОЭ]
+https://stream8.itv.uz/1053/index.m3u8
+
+#EXTINF:0,Дом Кино Int. SHD
+https://stream8.itv.uz/1054/index.m3u8
+
+#EXTINF:0,Кинохит Int. SHD (+субтитры на РУ)
+https://stream8.itv.uz/1055/index.m3u8
+
+#EXTINF:0,Sevimli TV SD (UZ)
+https://stream8.itv.uz/1056/index.m3u8
+
+#EXTINF:0,Кинопоказ Int. SHD
+https://stream8.itv.uz/1057/index.m3u8
+
+#EXTINF:0,viju (Viasat) TV1000 СНГ SHD
+https://stream8.itv.uz/1058/index.m3u8
+
+#EXTINF:0,viju (Viasat) TV1000 Русское СНГ SHD
+https://stream8.itv.uz/1059/index.m3u8
+
+#EXTINF:0,Индийское кино Int. SHD
+https://stream8.itv.uz/1060/index.m3u8
+
+#EXTINF:0,ТНВ-Планета Int. SHD
+https://stream8.itv.uz/1062/index.m3u8
+
+#EXTINF:0,Муз ТВ Узбекистан FHD
+https://stream8.itv.uz/1063/index.m3u8
+
+#EXTINF:0,Муз ТВ Int. SHD
+https://stream8.itv.uz/1200/index.m3u8
+
+#EXTINF:0,Музыка Первого Int. (?D)
+https://stream8.itv.uz/1201/index.m3u8
+
+#EXTINF:0,RU TV Int. SHD
+https://stream8.itv.uz/1202/index.m3u8
+
+#EXTINF:0,Киносвидание Int. FHD (субтитры на РУ)
+https://stream8.itv.uz/1203/index.m3u8
+
+#EXTINF:0,Taraqqiyot TV SHD (UZ)
+https://stream8.itv.uz/1204/index.m3u8
+
+#EXTINF:0,Aqlvoy TV SHD (РУ и УЗ)
+https://stream8.itv.uz/1205/index.m3u8
+
+#EXTINF:0,Дастурхон TV SHD (РУ)
+https://stream8.itv.uz/1206/index.m3u8
+
+#EXTINF:0,Кинопремьера Int. FHD (+субтитры на РУ)
+https://stream8.itv.uz/1207/index.m3u8
+
+#EXTINF:0,TRT Muzik SHD (ТУРЕЦКИЙ)
+https://stream8.itv.uz/1208/index.m3u8
+
+#EXTINF:0,O'zbekiston Tarixi FHD (UZ)
+https://stream8.itv.uz/1209/index.m3u8
+
+#EXTINF:0,Lux.tv FHD (РУ и УЗ)
+https://stream8.itv.uz/1210/index.m3u8
+
+#EXTINF:0,Biz TV SHD (UZ)
+https://stream8.itv.uz/1211/index.m3u8
+
+#EXTINF:0,Biz Music SHD (UZ)
+https://stream8.itv.uz/1212/index.m3u8
+
+#EXTINF:0,Biz Cinema SHD (UZ)
+http://stream8.itv.uz/1213/index.m3u8
+
+#EXTINF:0,Первый канал FHD
+https://stream8.itv.uz/1214/index.m3u8
+
+#EXTINF:0,Milliy TV SD (UZ)
+https://stream8.itv.uz/1216/index.m3u8
+
+#EXTINF:0,My5 TV SD (UZ)
+https://stream8.itv.uz/1217/index.m3u8
+
+#EXTINF:0,Мир SHD
+https://stream8.itv.uz/1218/index.m3u8
+
+#EXTINF:0,Мир 24 SHD
+https://stream8.itv.uz/1219/index.m3u8
+
+#EXTINF:0,Nurafshon TV SHD (РУ и УЗ?) [Test]
+https://stream8.itv.uz/1220/index.m3u8
+
+#EXTINF:0,Ренессанс TV SHD (UZ)
+https://stream8.itv.uz/1221/index.m3u8
+
+#EXTINF:0,HD Life (HDL) Int. SHD
+https://stream8.itv.uz/1222/index.m3u8
+
+#EXTINF:0,Удар Int. FHD
+https://stream8.itv.uz/1223/index.m3u8
+
+#EXTINF:0,viju (Viasat) TV1000 Action СНГ SHD (+субтитры на РУ)
+https://stream8.itv.uz/1225/index.m3u8
+
+#EXTINF:0,MMA TV (Матч Арена Int. SHD) 
+https://stream8.itv.uz/1226/index.m3u8
+
+#EXTINF:0,Cinema Int. SHD
+https://stream8.itv.uz/1227/index.m3u8
+
+#EXTINF:0,viju (Viasat) Nature СНГ SHD (+субтитры на РУ)
+https://stream8.itv.uz/1228/index.m3u8
+
+#EXTINF:0,viju+ (Viasat) Sport СНГ SHD (+субтитры на РУ)
+https://stream8.itv.uz/1229/index.m3u8
+
+#EXTINF:0,Da Vinci SHD
+https://stream8.itv.uz/1231/index.m3u8
+
+#EXTINF:0,Кинокомедия Int. FHD [ОЭ] (+субтитры на РУ)
+https://stream8.itv.uz/1232/index.m3u8
+
+#EXTINF:0,Киномикс Int. FHD [ОЭ] (+субтитры на РУ)
+https://stream8.itv.uz/1233/index.m3u8
+
+#EXTINF:0,Киносемья Int. FHD (+субтитры на РУ)
+https://stream8.itv.uz/1234/index.m3u8
+
+#EXTINF:0,Киносерия Int. FHD [МЛ] (+субтитры на РУ)
+https://stream8.itv.uz/1235/index.m3u8
+
+#EXTINF:0,Кухня ТВ Int. SHD
+https://stream8.itv.uz/1236/index.m3u8
+
+#EXTINF:0,Мужское Кино Int. FHD (+субтитры на РУ)
+https://stream8.itv.uz/1237/index.m3u8
+
+#EXTINF:0,Ля Минор Int. FHD
+https://stream8.itv.uz/1238/index.m3u8
+
+#EXTINF:0,France 24 FHD [ФР] (International) 
+https://stream8.itv.uz/1241/index.m3u8
+
+#EXTINF:0,Телеканал 365 дней Int. SHD
+https://stream8.itv.uz/1242/index.m3u8
+# -- Канал ретранслируется от провайдера ТуронТелеком (TuronTelecom)
+
+
+#EXTINF:0,Матч! Планета Int. SHD
+https://stream8.itv.uz/1243/index.m3u8
+
+#EXTINF:0,Телеканал Мама Int. SHD
+https://stream8.itv.uz/1244/index.m3u8
+
+#EXTINF:0,S Music (UZ) (Unidentified)
+https://stream8.itv.uz/1245/index.m3u8
+
+#EXTINF:0,Мульт Int. SHD
+https://stream8.itv.uz/1246/index.m3u8
+
+#EXTINF:0,Моя Планета Int. SHD 
+https://stream8.itv.uz/1247/index.m3u8
+
+#EXTINF:0,Наука Int. SHD 
+https://stream8.itv.uz/1248/index.m3u8
+
+#EXTINF:0,Сарафан Int. SHD
+https://stream8.itv.uz/1249/index.m3u8
+
+#EXTINF:0,Живая Планета Int. SHD 
+https://stream8.itv.uz/1250/index.m3u8
+
+#EXTINF:0,BBC World News SHD (Англ.,International)(+субтитры на Англ.)
+https://stream8.itv.uz/1251/index.m3u8
+
+#EXTINF:0,Fox News SFHD (Англ.,International)(+скрыт.субтитры)
+https://stream8.itv.uz/1252/index.m3u8
+
+#EXTINF:0,CGTN АНгл. SHD 
+https://stream8.itv.uz/1253/index.m3u8
+
+#EXTINF:0,Bloomberg SHD (Англ.,International)
+https://stream8.itv.uz/1255/index.m3u8
+
+#EXTINF:0,CNBC News FHD (Англ.,International)(+скрыт.субтитры)
+https://stream8.itv.uz/1256/index.m3u8
+
+#EXTINF:0,TRT Haber SHD (ТУРЕЦКИЙ)
+https://stream8.itv.uz/1257/index.m3u8
+
+#EXTINF:0,TRT Avaz SFHD (ТУРЕЦКИЙ)
+https://stream8.itv.uz/1258/index.m3u8
+
+#EXTINF:0,CNN International Англ. SHD
+https://stream8.itv.uz/1259/index.m3u8
+
+#EXTINF:0,Ruxsor TV (UZ) SHD
+https://stream8.itv.uz/1260/index.m3u8
+
+#EXTINF:0,Туран Int. SHD (Рекламный поток?)
+https://stream8.itv.uz/1261/index.m3u8
+
+#EXTINF:0,8 канал Int. СНГ SHD
+https://stream8.itv.uz/1262/index.m3u8
+
+#EXTINF:0,Setanta Sports 1 СНГ (РУ) FHD
+http://stream8.itv.uz/1263/index.m3u8
+
+#EXTINF:0,Setanta Sports 2 СНГ (РУ) FHD
+http://stream8.itv.uz/1264/index.m3u8
+
+#EXTINF:0,MyDay TV FHD (?)
+https://stream8.itv.uz/1265/index.m3u8
+
+#EXTINF:0,Телеканал История Int. SHD
+https://stream8.itv.uz/1266/index.m3u8
+
+#EXTINF:0,1HD MTV СНГ FHD
+https://stream8.itv.uz/1267/index.m3u8
+
+#EXTINF:0,Aiva TV SFHD
+https://stream8.itv.uz/1268/index.m3u8
+# -- Канал ретранслируется от провайдера otcnet (Останкино Телеком)
+
+
+#EXTINF:0,Bridge TV Int. SHD 
+https://stream8.itv.uz/1269/index.m3u8
+
+#EXTINF:0,Duck TV СНГ FHD
+https://stream8.itv.uz/1271/index.m3u8
+
+#EXTINF:0,ТНТ Music Int. СНГ SHD 
+https://stream8.itv.uz/1272/index.m3u8
+
+#EXTINF:0,Дорама СНГ SHD 
+http://stream8.itv.uz/1273/index.m3u8
+
+#EXTINF:0,Trace Sport Hits СНГ FHD (РУ)
+https://stream8.itv.uz/1274/index.m3u8
+
+#EXTINF:0,Trace Urban СНГ FHD (РУ)
+https://stream8.itv.uz/1275/index.m3u8
+
+#EXTINF:0,Семейное Кино Int. FHD (РУ+КЗ)
+https://stream8.itv.uz/1276/index.m3u8
+
+#EXTINF:0,Кино Боевик Int. FHD (РУ+КЗ)
+https://stream8.itv.uz/1277/index.m3u8
+
+#EXTINF:0,Премиум Кино Int. FHD (РУ+КЗ)
+https://stream8.itv.uz/1278/index.m3u8
+
+#EXTINF:0,Мировое Кино Int. FHD (РУ+КЗ)
+http://stream8.itv.uz/1279/index.m3u8
+
+#EXTINF:0,Fuel TV International (Португ.) FHD
+https://stream8.itv.uz/1280/index.m3u8
+
+#EXTINF:0,ТВЦ Int. SHD 2
+https://stream8.itv.uz/1281/index.m3u8
+
+#EXTINF:0,Ikbol TV (?) SHD
+https://stream8.itv.uz/1282/index.m3u8
+
+#EXTINF:0,Istiqlol TV (UZ) SHD 
+https://stream8.itv.uz/1283/index.m3u8
+
+#EXTINF:0,NTV TV (UZ) SHD
+https://stream8.itv.uz/1284/index.m3u8
+
+#EXTINF:0,В мире животных Int. SFHD
+https://stream8.itv.uz/1404/index.m3u8
+
+#EXTINF:0,Живи Активно Int. SHD 
+http://stream8.itv.uz/1405/index.m3u8
+
+#EXTINF:0,Капитан Фантатсика Int. FHD
+https://stream8.itv.uz/1406/index.m3u8
+
+#EXTINF:0,Рыжий Int. SFHD
+http://stream8.itv.uz/1407/index.m3u8
+
+#EXTINF:0,KZ 24 (Казахстан) SFHD (РУ+КЗ)
+https://stream8.itv.uz/1408/index.m3u8
+
+#EXTINF:0,Доктор Int. SFHD 
+https://stream8.itv.uz/1409/index.m3u8
+
+#EXTINF:0,Загородный Int. SHD
+https://stream8.itv.uz/1410/index.m3u8
+
+#EXTINF:0,Живая природа Int. FHD
+https://stream8.itv.uz/1411/index.m3u8
+
+#EXTINF:0,Охотник и рыболов Int. SHD
+https://stream8.itv.uz/1413/index.m3u8
+
+#EXTINF:0,Арсенал Int. FHD
+https://stream8.itv.uz/1414/index.m3u8
+
+#EXTINF:0,Первый космический Int. FHD
+https://stream8.itv.uz/1415/index.m3u8
+
+#EXTINF:0,Инсайд ТВ FHD Int. (Insight TV)
+https://stream8.itv.uz/1416/index.m3u8
+
+#EXTINF:0,ZooПарк ТВ Int. 
+https://stream8.itv.uz/1417/index.m3u8
+
+#EXTINF:0,Живи Int. SHD
+https://stream8.itv.uz/1419/index.m3u8
+
+#EXTINF:0,Приключения Int. SHD
+https://stream8.itv.uz/1420/index.m3u8
+
+#EXTINF:0,Драйв Int. SHD
+https://stream8.itv.uz/1421/index.m3u8
+
+#EXTINF:0,KHL TV Int. SHD 
+https://stream8.itv.uz/1422/index.m3u8
+
+#EXTINF:0,Глазами туриста Int. FHD
+https://stream8.itv.uz/1423/index.m3u8
+
+#EXTINF:0,Наша Сибирь Int. FHD
+https://stream8.itv.uz/1424/index.m3u8
+
+#EXTINF:0,Смайлик ТВ Int. SFHD
+https://stream8.itv.uz/1425/index.m3u8
+
+#EXTINF:0,Домашние животные Int. SHD
+https://stream8.itv.uz/1426/index.m3u8
+
+#EXTINF:0,Усадьба Int. SHD
+https://stream8.itv.uz/1427/index.m3u8
+
+#EXTINF:0,Здоровое ТВ Int. SHD
+https://stream8.itv.uz/1428/index.m3u8
+
+#EXTINF:0,Вопросы и Ответы Int. SHD
+https://stream8.itv.uz/1429/index.m3u8
+
+#EXTINF:0,Авто 24 Int. SHD
+https://stream8.itv.uz/1430/index.m3u8
+
+#EXTINF:0,Qazaqstan (КЗ) [Казахстан] SHD
+https://stream8.itv.uz/1431/index.m3u8
+# -- Канал ретранслируется оператором KazTeleRadio (КазТелеРадио)
+
+#EXTINF:0,AzJazeera International FHD
+https://stream8.itv.uz/1432/index.m3u8
+
+#EXTINF:0,AzJazeera International (EN) FHD (+субтитры на Англ.)
+https://stream8.itv.uz/1433/index.m3u8
+
+#EXTINF:0,НТВ-Мир СНГ SHD [RSCC]
+https://stream8.itv.uz/1434/index.m3u8
+
+#EXTINF:0,ТВ3 Int. SHD [CRRT]
+https://stream8.itv.uz/1435/index.m3u8
+
+#EXTINF:0,Домашний Int. SHD [RSCC]
+https://stream8.itv.uz/1436/index.m3u8
+
+#EXTINF:0,СТС Kids Int. SHD [ОЭ]
+https://stream8.itv.uz/1437/index.m3u8
+
+#EXTINF:0,РБК Int. FHD
+https://stream8.itv.uz/1438/index.m3u8
+# -- Канал ретранслируется поставщиком TightVideo
+
+#EXTINF:0,Мультиландия СНГ SHD [ОЭ]
+https://stream8.itv.uz/1440/index.m3u8
+
+#EXTINF:0,TiJi СНГ (КЗ+РУ)
+https://stream8.itv.uz/1441/index.m3u8
+
+#EXTINF:0,English Club TV СНГ
+https://stream8.itv.uz/1442/index.m3u8
+
+#EXTINF:0,Hollywood SHD
+https://stream8.itv.uz/1443/index.m3u8
+
+#EXTINF:0,Bollywood SHD 
+https://stream8.itv.uz/1444/index.m3u8
+
+#EXTINF:0,Gulli Girl СНГ SHD
+https://stream8.itv.uz/1445/index.m3u8
+
+#EXTINF:0,CGTN Русский СНГ FHD
+https://stream8.itv.uz/1446/index.m3u8
+
+#EXTINF:0,AzJazeera International (EN) FHD
+https://stream8.itv.uz/1447/index.m3u8
+
+#EXTINF:0,KBS World СНГ (EN) SFHD
+https://stream8.itv.uz/1448/index.m3u8
+
+#EXTINF:0,NHK World Japan СНГ (EN) SHD 
+https://stream8.itv.uz/1449/index.m3u8
+
+#EXTINF:0,Mezzo СНГ (ФР) FHD (+субтитры на Рус.и Англ.)
+https://stream8.itv.uz/1450/index.m3u8
+
+#EXTINF:0,Museum TV (РУ+EN+ФР) FHD
+https://stream8.itv.uz/1451/index.m3u8
+
+#EXTINF:0,MyZen 4K TV FHD СНГ (5 языков+субтитры на Испан.)
+https://stream8.itv.uz/1452/index.m3u8
+
+#EXTINF:0,Телепутешествия Int. SHD [МЛ] (+субтитры)
+https://stream8.itv.uz/1453/index.m3u8
+
+#EXTINF:0,Радиостанция - Идентифицировать не удалось, язык: Узбекский
+https://stream8.itv.uz/2002/index.m3u8
+
+#EXTINF:0 Радиостанция - Идентифицировать не удалось, музыкальная, язык: Не идентифицирован
+https://stream8.itv.uz/2003/index.m3u8
+
+#EXTINF:0,Радиостанция - Идентифицировать не удалось, язык: Русский
+https://stream8.itv.uz/2006/index.m3u8
+
+#EXTINF:0,Радиостанция - Идентифицировать не удалось, музыкальная, язык: Не идентифицирован
+https://stream8.itv.uz/2010/index.m3u8
+
+#EXTINF:0,Радио Mahalla [CRRT] (музыкальная)
+https://stream8.itv.uz/2011/index.m3u8
+
+#EXTINF:0,Радио Yoshlar [CRRT]
+https://stream8.itv.uz/2013/index.m3u8
+
+#EXTINF:0,Радио TRK Ruxsor + видеопоток (язык: возможно,Турецкий)
+https://stream8.itv.uz/2014/index.m3u8
+
+#EXTINF:0,Радиостанция + видеопоток - Идентифицировать не удалось, музыкальная, язык: возможно, Узбекский
+https://stream8.itv.uz/2015/index.m3u8
+
+#EXTINF:0,Cinema iTV FHD (УЗ+РУ)
+http://stream8.itv.uz/4000/index.m3u8
+
+#EXTINF:0,Music iTV FHD (УЗ)
+https://stream8.itv.uz/4001/index.m3u8
+
+#EXTINF:0,Gold TV (UZ) SFHD
+https://stream8.itv.uz/4007/index.m3u8
+
+#EXTINF:0,Islom.uz TV (UZ) FHD
+http://stream8.itv.uz/4009/index.m3u8
+
+
+
+
+
+
