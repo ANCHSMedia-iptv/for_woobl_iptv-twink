@@ -1,0 +1,223 @@
+Файл с ссылками на логотипами каналов, у которых нету соотвествующих логотипов либо нету.
+
+Некоторые сделаны мною самодельно.
+
+Логотипы хостированы мною в спец репозитории на гитхабе.
+
+- Для основного и прем плейлиста
+
+Для Woobl IPTV
+Обновлено 9.02.2024
+@acidraineasy0272mc (tg)
+
+---
+
+Еда Премиум Int. HD
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Eda_Prem_Int._HD.png
+
+Не то лого.
+-
+
+RT Doc (Ru)
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/RT_Doc_(RU)_Logo.png
+ 
+Нету лого.
+-
+
+Рен ТВ +6
+Самодельный 
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/RenTV_+6_Logo.png
+
+Нету лого
+-
+
+Настоящее время (СМИ-иноагент,канал иноагента)
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Current_Time_Logo.png
+
+Нету лого.
+-
+
+Eurodance 90 HD
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Eurodance_90_Logo.png
+
+Нету лого.
+-
+
+MTV Europe
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/MTV_Europe_Logo.png
+
+Неверное лого.
+-
+
+Матч! Футбол 2 
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Match_Futbol_2.png
+
+Неверное лого.
+-
+
+Матч! Футбол 3
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Match_Futbol_3.png
+
+Неверное лого.
+-
+
+Первый канал -1 
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Perviy_kanal_-1_Logo.png
+
+Замена лого/добавление лого если есть в плейлисте.
+-
+
+Первый канал Евразия
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Perviy_kanal_Eurasia_KZ_Logo.png
+
+Нету лого.
+-
+
+Пятница! Int. (КЗ)
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Piatnica_Int._KZ_Logo.png
+
+Неверное лого.
+-
+
+РТР Планета Америка
+Самодельный
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/PlanetaRTR_America_Logo.png
+
+Замена лого.
+-
+
+РТР Планета Европа
+Самодельный
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/PlanetaRTR_Europe_Logo.png
+
+Замена лого.
+-
+
+Россия РТР Азия
+Самодельный
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/RussiaRTR_Asia_Logo.png
+
+Замена лого/добавление лого если есть в плейлисте.
+-
+
+Россия РТР СНГ
+Самодельный
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/РоссияРТР_СНГ_Logo.png
+
+Замена лого/добавление лого если есть в плейлисте.
+-
+
+ТНТ4 Int. СНГ
+Самодельный
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/TNT4_Int._CIS_Logo.png
+
+Заменить лого на потоке ТНТ4 из СНГ страны (Казахстан,Азербайджан,Армения)
+-
+
+ТНТ4 Int. Европа
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/TNT4_Int._EU_Logo.png
+
+Заменить лого на потоке ТНТ4 из Европейской какой-нибудь страны (если есть в плейлисте).
+-
+
+Таврия ТВ (Херсон)
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Tavria_TV_(Herson)_Logo.png
+
+Нету лого.
+-
+
+Царьград ТВ
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Tsargrad_TV_Logo.png
+
+Неверное лого.
+-
+
+Animal Planet HD
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Animal_Planet_HD_logo_v1.png
+
+Замена лого.
+-
+
+ТНТ +6 
+Самодельный
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/TNT_+6_Logo.png
+
+Нету лого.
+-
+
+ТНТ Int. СНГ
+Самодельный
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/TNT_Int._CIS_Logo.png
+
+Заменить лого на потоке ТНТ из СНГ страны (Казахстан,Азербайджан,Армения)
+-
+
+ТНТ Int. Европа
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/TNT_Int._EU_Logo.png
+
+Заменить лого на потоке ТНТ из Европейской какой-нибудь страны (если есть в плейлисте).
+-
+
+Россия 1
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Russia1_Logo.png
+
+Неверное лого.
+_
+
+Fightbox HD
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Fightbox_HD_(RU)_Logo.png
+
+Нету лого и которое есть неверное.
+-
+
+Наше Новое Кино
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Nashe_Novoe_Kino_Logo.png
+
+Нету лого.
+-
+9 Волна HD
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Telekanal_9_Volna_Logo.jpg
+
+Нету лого.
+-
+Tennis Channel
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Tennis_Channel_Logo.png
+
+Нету лого.
+-
+
+
+Пока это всё!
+
+
+
+
+
