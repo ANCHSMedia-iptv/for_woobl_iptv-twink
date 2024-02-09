@@ -20,7 +20,7 @@
 #EXTINF:0,Анекдот ТВ Int.
 https://bkm.beetv.kz/btv/live/hls/000001921.m3u8
 
-#EXTINF:0,Bollywood Int.
+#EXTINF:0,Bollywood
 http://bkm.beetv.kz/btv/live/hls/000001419.m3u8
 
 #EXTINF:0,Домашние Животные Int.
@@ -266,7 +266,7 @@ https://bkm.beetv.kz/btv/live/hls/000004472.m3u8
 #EXTINF:0,FX Life HD СНГ
 https://bkm.beetv.kz/btv/live/hls/000004471.m3u8
 
-#EXTINF:0,Hollywood СНГ
+#EXTINF:0,Hollywood 
 https://bkm.beetv.kz/btv/live/hls/000000031.m3u8
 
 #EXTINF:0,MTV Live HD [EN] (Global)
@@ -338,7 +338,7 @@ https://bkm.beetv.kz/btv/live/hls/000002478.m3u8
 #EXTINF:0,Eurosport 2 HD СНГ
 https://bkm.beetv.kz/btv/live/hls/000002479.m3u8
 
-#EXTINF:0,Mz Muzzone (?)
+#EXTINF:0,Muzzone СНГ
 https://bkm.beetv.kz/btv/live/hls/000000783.m3u8
 
 #EXTINF:0,Viasat Sport HD СНГ
