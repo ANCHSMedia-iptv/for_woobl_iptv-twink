@@ -10,6 +10,8 @@
 Обновлено 9.02.2024
 @acidraineasy0272mc (tg)
 
+Лучше сделать чтобы всё было нормально и не было возмущений в будущем от пользователей!
+
 ---
 
 Еда Премиум Int. HD
@@ -45,7 +47,7 @@ Eurodance 90 HD
 
 https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Eurodance_90_Logo.png
 
-Нету лого.
+Нету лого и замена с лого Кинопоиска
 -
 
 MTV Europe
@@ -131,6 +133,7 @@ https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_l
 -
 
 ТНТ4 Int. Европа
+Самодельный
 
 https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/TNT4_Int._EU_Logo.png
 
@@ -175,6 +178,7 @@ https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_l
 -
 
 ТНТ Int. Европа
+Самодельный
 
 https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/TNT_Int._EU_Logo.png
 
@@ -199,14 +203,16 @@ https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_l
 
 https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Nashe_Novoe_Kino_Logo.png
 
-Нету лого.
+Нету лого в бесплатном плейлисте.
 -
+
 9 Волна HD
 
-https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Telekanal_9_Volna_Logo.jpg
+URL лого тоже продублировать с прем в бесплатный.
 
-Нету лого.
+Нету лого в бесплатном плейлисте.
 -
+
 Tennis Channel
 
 https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Tennis_Channel_Logo.png
@@ -214,6 +220,94 @@ https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_l
 Нету лого.
 -
 
+Домашний Int.
+Самодельный
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Domashiny_Int._Logo.png
+
+Неверное лого.
+-
+
+V2Beat TV
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/V2Beat_TV_MTV_Logo.png
+
+Нету лого.
+-
+Страх HD
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Strah_HD_Logo.png
+
+Нету лого.
+-
+Magic TV BG HD
+
+URL лого продублировать с обычного Magic TV
+
+Нет лого.
+-
+Retro Plus TV (BR)
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Retro_Plus_TV_(BR)_Logo.jpg
+
+Нету лого.
+-
+Каналы Now
+
+Now 80s
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Now_80s_(UK)_Logo.png
+
+Старое лого, замена.
+
+Now 90s
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Now_Rock_(Now_90s)_(UK)_Logo.png
+
+Замена лого связи с ребрендингом и переформированием, сменить название на Now Rock (Now 90s)
+-
+Сменить название с MMA-TV.com на Матч! Арена
+-
+Animal Planet HD
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Animal_Planet_HD_logo_v1.png
+
+Замена лого.
+-
+Discovery Science HD
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Discovery_Science_HD_Logo.png
+
+Замена лого.
+-
+Setanta Sports Eurasia
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Setanta_Sports_Eurasia_Logo.png
+
+Нету лого.
+-
+Радио России
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Radio_Russia_Logo.png
+
+Нету лого.
+-
+Милицейская волна
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Radio_Miliceyskaya_volna_Logo.png
+
+Нету лого.
+-
+Маруся ФМ
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Radio_Marusya_FM_Logo.png
+
+Нету лого.
+-
+Melodia FM Ukraine
+
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Melodia_FM_(UA).png
+
+Нету лого.
+-
 
 Пока это всё!
 
