@@ -61,10 +61,10 @@ https://stream10.itv.uz/1012/index.m3u8
 https://stream10.itv.uz/1013/index.m3u8
 
 #EXTINF:0,Milliy TV (UZ)
-http://stream8.itv.uz/1014/index.m3u8
+http://stream10.itv.uz/1014/index.m3u8
 
 #EXTINF:0,Uzreport TV HD (РУ и УЗ)
-http://stream8.itv.uz/1015/index.m3u8
+http://stream10.itv.uz/1015/index.m3u8
 
 #EXTINF:0,Zor TV HD (РУ и УЗ)
 https://stream10.itv.uz/1016/index.m3u8
@@ -73,7 +73,7 @@ https://stream10.itv.uz/1016/index.m3u8
 https://stream10.itv.uz/1017/index.m3u8
 
 #EXTINF:0,FTV HD (РУ и УЗ) [Футбол TV UZ]
-http://stream8.itv.uz/1018/index.m3u8
+http://stream10.itv.uz/1018/index.m3u8
 
 #EXTINF:0,Первый канал СНГ SHD
 https://stream10.itv.uz/1019/index.m3u8
@@ -124,7 +124,7 @@ https://stream10.itv.uz/1037/index.m3u8
 https://stream10.itv.uz/1038/index.m3u8
 
 #EXTINF:0,Discovery Channel СНГ SHD
-http://stream8.itv.uz/1039/index.m3u8
+http://stream10.itv.uz/1039/index.m3u8
 
 #EXTINF:0,Discovery Science SHD (Англ.)(Европа, неизвестно откуда ретрансляция)
 https://stream10.itv.uz/1040/index.m3u8
@@ -235,7 +235,7 @@ https://stream10.itv.uz/1211/index.m3u8
 https://stream10.itv.uz/1212/index.m3u8
 
 #EXTINF:0,Biz Cinema SHD (UZ)
-http://stream8.itv.uz/1213/index.m3u8
+http://stream10.itv.uz/1213/index.m3u8
 
 #EXTINF:0,Первый канал FHD
 https://stream10.itv.uz/1214/index.m3u8
@@ -369,10 +369,10 @@ https://stream10.itv.uz/1261/index.m3u8
 https://stream10.itv.uz/1262/index.m3u8
 
 #EXTINF:0,Setanta Sports 1 СНГ (РУ) FHD
-http://stream8.itv.uz/1263/index.m3u8
+http://stream10.itv.uz/1263/index.m3u8
 
 #EXTINF:0,Setanta Sports 2 СНГ (РУ) FHD
-http://stream8.itv.uz/1264/index.m3u8
+http://stream10.itv.uz/1264/index.m3u8
 
 #EXTINF:0,MyDay TV FHD (?)
 https://stream10.itv.uz/1265/index.m3u8
@@ -398,7 +398,7 @@ https://stream10.itv.uz/1271/index.m3u8
 https://stream10.itv.uz/1272/index.m3u8
 
 #EXTINF:0,Дорама СНГ SHD 
-http://stream8.itv.uz/1273/index.m3u8
+http://stream10.itv.uz/1273/index.m3u8
 
 #EXTINF:0,Trace Sport Hits СНГ FHD (РУ)
 https://stream10.itv.uz/1274/index.m3u8
@@ -416,7 +416,7 @@ https://stream10.itv.uz/1277/index.m3u8
 https://stream10.itv.uz/1278/index.m3u8
 
 #EXTINF:0,Мировое Кино Int. FHD (РУ+КЗ)
-http://stream8.itv.uz/1279/index.m3u8
+http://stream10.itv.uz/1279/index.m3u8
 
 #EXTINF:0,Fuel TV International (Португ.) FHD
 https://stream10.itv.uz/1280/index.m3u8
@@ -437,13 +437,13 @@ https://stream10.itv.uz/1284/index.m3u8
 https://stream10.itv.uz/1404/index.m3u8
 
 #EXTINF:0,Живи Активно Int. SHD 
-http://stream8.itv.uz/1405/index.m3u8
+http://stream10.itv.uz/1405/index.m3u8
 
 #EXTINF:0,Капитан Фантатсика Int. FHD
 https://stream10.itv.uz/1406/index.m3u8
 
 #EXTINF:0,Рыжий Int. SFHD
-http://stream8.itv.uz/1407/index.m3u8
+http://stream10.itv.uz/1407/index.m3u8
 
 #EXTINF:0,KZ 24 (Казахстан) SFHD (РУ+КЗ)
 https://stream10.itv.uz/1408/index.m3u8
@@ -601,7 +601,7 @@ https://stream10.itv.uz/2014/index.m3u8
 https://stream10.itv.uz/2015/index.m3u8
 
 #EXTINF:0,Cinema iTV FHD (УЗ+РУ)
-http://stream8.itv.uz/4000/index.m3u8
+http://stream10.itv.uz/4000/index.m3u8
 
 #EXTINF:0,Music iTV FHD (УЗ)
 https://stream10.itv.uz/4001/index.m3u8
@@ -610,7 +610,7 @@ https://stream10.itv.uz/4001/index.m3u8
 https://stream10.itv.uz/4007/index.m3u8
 
 #EXTINF:0,Islom.uz TV (UZ) FHD
-http://stream8.itv.uz/4009/index.m3u8
+http://stream10.itv.uz/4009/index.m3u8
 
 
 
