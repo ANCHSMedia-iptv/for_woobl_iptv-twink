@@ -487,7 +487,7 @@ https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
 
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Майдан 
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_OTT_VLG_KZN_MAIDAN/variant.m3u8?version2
+http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_OTT_VLG_KZN_MAIDAN/variant.m3u8?version=2
 #EXTINF:-1 group-title="Региональные" tvg-id="12-omsk" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",12 канал
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
@@ -684,6 +684,7 @@ http://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 #EXTINF:-1 tvg-id="pervy-gorodskoy-kirov" group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый городской (Киров)
+#EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый областной (Орёл)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
