@@ -494,130 +494,127 @@ http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_OTT_VLG_KZN_MAIDAN/variant.m3
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",31 канал (Челябинск)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
-#EXTINF:-1 group-title="Прочие" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",8 канал 
+#EXTINF:-1 group-title="Региональные" tvg-id="8vladik" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/8_kanal_VLD_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",8 канал (Владивосток)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="atv-stavropol" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",АТВ (Ставрополь)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",АТВ-медиа (Ставрополь)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_ATV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="atv-media" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",АТВ-медиа (Улан-Удэ)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Аист HD (Иркутск)
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="aist" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Аист HD (Иркутск)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ариг Ус 24 (Улан-Удэ)
+#EXTINF:-1 group-title="Региональные" tvg-id="arig-us-24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ариг Ус 24 (Улан-Удэ)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Арктика 24 (Архангельск)
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="vremia-arktiki" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Арктика 24 (ЯН-АО)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Арктик-ТВ HD (Мурманск)
+#EXTINF:-1 group-title="Региональные" tvg-id="arktik-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Арктик-ТВ HD (Мурманск)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",МЭТР (Йошкар-ола)
+#EXTINF:-1 group-title="Региональные" tvg-id="metr" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",МЭТР (Йошкар-ола)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Наш дом (Пенза)
+#EXTINF:-1 group-title="Региональные" tvg-id="nash-dom" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Наш дом (Пенза)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Архыз 24 
+#EXTINF:-1 group-title="Региональные" tvg-id="arxyz24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Архыз 24 
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Астрахань 24
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",БСТ (Уфа)
+#EXTINF:-1 group-title="Региональные" tvg-id="bst" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",БСТ (Уфа)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Барс (Иваново)
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="bars" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Барс (Иваново)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
+https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Белгород 24
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Брянская губерния
+https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_BELG_BELGOROD24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="brianskaya-gubernia" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Брянская губерния
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Вот ТВ (Липецк)
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="vot-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Вот ТВ (Липецк)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_LIPETSK_VOTTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ветта-24 (Пермь)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Волга ТВ (Нижний Нвогород)
+#EXTINF:-1 group-title="Региональные" tvg-id="volga" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Волга ТВ (Нижний Нвогород)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Волгоград 1
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="volgograd-1" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Волгоград 1
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Восток 24
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ГТ-Ярославль
+#EXTINF:-1 group-title="Региональные" tvg-id="gorodskoy-yaroslavl" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ГТ-Ярославль
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GTREG/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Городской (Брянск)
-#EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-http://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_GORODSKOY/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Губерния (Самара)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Губерния 33 HD (Владивосток)
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_GUBERNIA/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="gubernia-33" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Губерния 33 HD (Владивосток)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ Губерния (Воронеж)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Девятка ТВ (Киров)
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="deviatka" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Девятка ТВ (Киров)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
+https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Дзержинск ТВ
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Дон 24
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Енисей (Красноярск)
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="enisey-region" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Енисей (Красноярск)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Зима ТВ (Иркутск)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_CHR_ZIMA/variant.m3u8
+
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",КТВ-Город (Воронеж)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VRZH_CTVGOROD/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Каскад ТВ (Калининград)
+
+#EXTINF:-1 group-title="Региональные" tvg-id="kaskad24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Каскад ТВ (Калининград)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Катунь 24 (Барнаул)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Кубань 24 (Краснодар)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Липецкое время
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Миг ТВ (Ноябрьск)
+#EXTINF:-1 group-title="Региональные" tvg-id="mig-tv-noyabrsk" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Миг ТВ (Ноябрьск)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Мир Белогорья
+#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Мир Белогорья (Краснодар)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Москва 24
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8
+
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ННТВ (Нижний Новгород)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Наши города (ХМАО-Югра)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ника ТВ (Калуга)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Новый век (Тамбов)
+https://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="novy-vek-tambov" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Новый век (Тамбов)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТВ-Сахалин
@@ -625,11 +622,11 @@ http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant
 https://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТВ (ЕКТ)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ-ИН-Магнитогорск
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Толк ТВ (Барнаул)
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/Tolk_TV_BRL_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Толк ТВ (Барнаул)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТКР Рязань
@@ -637,17 +634,17 @@ https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u
 https://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТВ (Челябинск)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНР24 (Нижневартовск)
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/TNR24_(NV)_Logo.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНР24 (Нижневартовск)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="teotv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Тео-ТВ (МСК)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Тольятти-24
+#EXTINF:-1 group-title="Региональные" tvg-id="tolyatti24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Тольятти-24
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ул.Правда (Ульяновск)
+#EXTINF:-1 group-title="Региональные" tvg-id="ulianovskaya-pravda" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ул.Правда (Ульяновск)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Удмуртия (Ижевск)
@@ -656,69 +653,69 @@ https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТС (Новосибирск)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Русский Север (Вологода)
+#EXTINF:-1 group-title="Региональные" tvg-id="russky-sever" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Русский Север (Вологода)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Югорск ТВ (Югорск)
+#EXTINF:-1 group-title="Региональные" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Югорск ТВ (Югорск)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_YUGORSKTV/variant.m3u8
+
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Якутия 24
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Экспресс HD (Пенза)
+#EXTINF:-1 group-title="Региональные" tvg-id="express" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Экспресс HD (Пенза)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Толпар ТВ (Уфа)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-https://s45177.cdn.ngenix.net/hls/CH_R02_TOLPAR/variant.m3u8
+
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Объектив 59 (Пермь)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBJECTIVE59/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Осетия Ирыстон HD (Сев.Осетия)
+
+#EXTINF:-1 group-title="Региональные" tvg-id="osetia-iryston" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Осетия Ирыстон HD (Сев.Осетия)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый Тульский (Тула)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
+https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_PERV_TUL/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый Ярославский (Ярославль)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 #EXTINF:-1 tvg-id="pervy-gorodskoy-kirov" group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый городской (Киров)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый областной (Орёл)
+https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="pervy-oblastnoy-orel" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый областной (Орёл)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Продвижение (Омск)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-http://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_PRODVIZHENIE/variant.m3u8
+
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Продвижение СЭТ (Хабаровск)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-http://s97982.cdn.ngenix.net/hls/CH_R02_OTTS3TTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",РТС (Абакан)
+
+#EXTINF:-1 group-title="Региональные" tvg-id="rts-abakan" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",РТС (Абакан)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Репортер 73 (Ульяновск)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",С1 (Сургут)
+#EXTINF:-1 group-title="Региональные" tvg-id="s1-surgut" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",С1 (Сургут)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТВ-Байкал (Улан-Удэ)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_STVBAYKAL/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Самара-ГИС
-#EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
+#EXTINF:-1 group-title="Региональные" tvg-id="gis-samara" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Самара-ГИС
+#EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_SAMARAGIS/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Саратов 24
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Саха ТВ (Якутия)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Своё ТВ (Ставрополь)
+#EXTINF:-1 group-title="Региональные" tvg-id="svoyo-tv-stavropol" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Своё ТВ (Ставрополь)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_STAVR_STV-PLUS/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Сургут 24
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
@@ -727,41 +724,53 @@ http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
 
 #EXTINF:-1 group-title="Прочие" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНВ-Планета
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_TNV/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНВ-Татарстан
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Татарстан 24
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Тивиком (Улан-Удэ)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TIVICOM/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Томское время
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
+https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Тюменское время
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Хамдан (Элиста)
+https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="xamdan-kalm24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Хамдан-НТК (Элиста)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Югра (Сургут)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Юрган (Респ. Коми)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ямал Регион (ЯН-АО)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рифей-ТВ (Пермь)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Югра Travel (Сургут)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
-#EXTINF:-1, group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Афонтово (Красноярск)
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="afontovo-kr" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Афонтово (Красноярск)
+#EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_AFONTOVO/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="izvestia" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Известия ТВ (Воронеж)
+#EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="lot-47" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Лен ТВ 24 (СПб)
+#EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="sankt-peterburg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Телеканал Санкт-Петербург
+#EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://a787201987-rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/playlist.m3u8
+#EXTINF:-1 tvg-id="yo" group-title="Региональные" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/%23yo_SM_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",#ё HD (Самара)
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
 
@@ -780,19 +789,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 tvg-id="russian-extreme-uhd" group-title="Прочие" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/Russian_Extreme_Ultra_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Русский Экстрим UHD 4K
 #EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
-#EXTINF:-1 tvg-id="yo" group-title="Прочие" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",#ё HD (Самара)
-#EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
-
-#EXTINF:-1 group-title="Региональные" tvg-id="izvestia" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Известия ТВ (Воронеж)
-#EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="lot-47" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Лен ТВ 24 (СПб)
-#EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="sankt-peterburg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Санкт-Петербург
-#EXTVCOPT:http-user-agent:Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-https://a787201987-rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="curiosity-stream" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Curiosity Stream
