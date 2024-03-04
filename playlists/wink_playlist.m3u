@@ -481,10 +481,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 http://a3569455302-s14553.cdn.ngenix.net/hls/CH_R01_KARUSEL_SLIN/playlist.m3u8?utcstart=1701406800&version=2
 
 
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Москва.Доверие 
+#EXTINF:-1 group-title="Региональные" tvg-id="doverie" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Москва.Доверие 
 #EXTVCOPT:http-user-agent=Mozilla/5.0 WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВТК 41 "Аргус" (Воронеж)
+#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВТК 41 "Аргус" (Воронеж)
 #EXTVCOPT:http-user-agent=Mozilla/5.0 WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="tmtv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",TMTV (Казань)
@@ -547,7 +547,7 @@ https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/v
 #EXTINF:-1 group-title="Региональные" tvg-id="vot-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Вот ТВ (Липецк)
 #EXTVCOPT:http-user-agent=Mozilla/5.0 WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_LIPETSK_VOTTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ветта-24 (Пермь)
+#EXTINF:-1 group-title="Региональные" tvg-id="vetta24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ветта-24 (Пермь)
 #EXTVCOPT:http-user-agent=Mozilla/5.0 WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="volga" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Волга ТВ (Нижний Нвогород)
@@ -733,7 +733,7 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_TNV/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНВ-Татарстан
 #EXTVCOPT:http-user-agent=Mozilla/5.0 WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="tatarstan24" gcatchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Татарстан 24
+#EXTINF:-1 group-title="Региональные" tvg-id="tatarstan24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Татарстан 24
 #EXTVCOPT:http-user-agent=Mozilla/5.0 WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="tivikom" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Тивиком (Улан-Удэ)
@@ -754,7 +754,7 @@ https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m
 #EXTINF:-1 group-title="Региональные" tvg-id="yurgan" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Юрган (Респ. Коми)
 #EXTVCOPT:http-user-agent=Mozilla/5.0 WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ямал Регион (ЯН-АО)
+#EXTINF:-1 group-title="Региональные" tvg-id="yamal-region" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ямал Регион (ЯН-АО)
 #EXTVCOPT:http-user-agent=Mozilla/5.0 WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="rifey-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рифей-ТВ (Пермь)
