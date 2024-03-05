@@ -911,8 +911,8 @@ https://s25617.cdn.ngenix.net/mdrm/CH_KINOUZHASHD/manifest.mpd?token=B6NTljNzVlN
 https://s25617.cdn.ngenix.net/mdrm/CH_C06_NASHFOOTBALLHD/manifest.mpd?token=IoMDcwYmEwNThjN2M2YzBmM2Q0ZWJhYTE0NTBiOWViM2Q=
 Хэштег ГПМНЕБАНЬ!
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="the-explorers" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",The Explorers HD
-https://wink.ru/assets/animation-a05bfde8.mp4
-# Нету пока что на платформе Wink. Вставлена временно заглушка.
+
+# Нету пока что на платформе Wink. 
 
 
 
