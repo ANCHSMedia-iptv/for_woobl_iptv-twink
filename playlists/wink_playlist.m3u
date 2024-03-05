@@ -799,6 +799,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 
 
+#EXTINF:-1 group-title="Новые (тест)" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/warn.png",Потоки могут долго грузить!
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="curiosity-stream" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Curiosity Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_CURIOSITYSTREAMHD/manifest.mpd?token=TdYTkxNTljYTk0N2Q0YTgxYzc1ZGM4NDM4YjcyOTgzNzA
@@ -912,7 +915,8 @@ https://s25617.cdn.ngenix.net/mdrm/CH_KINOUZHASHD/manifest.mpd?token=B6NTljNzVlN
 https://s25617.cdn.ngenix.net/mdrm/CH_C06_NASHFOOTBALLHD/manifest.mpd?token=IoMDcwYmEwNThjN2M2YzBmM2Q0ZWJhYTE0NTBiOWViM2Q=
 Хэштег ГПМНЕБАНЬ!
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="the-explorers" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",The Explorers HD
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/animation-a05bfde8-404.mp4
 # Нету пока что на платформе Wink.
 
 
