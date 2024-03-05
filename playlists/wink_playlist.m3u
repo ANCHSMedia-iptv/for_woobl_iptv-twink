@@ -104,7 +104,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+6)
+#EXTINF:-1 group-title="Плюсовые" tvg-id="pervy-pl6" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+7)
@@ -862,7 +862,7 @@ https://s25617.cdn.ngenix.net/mdrm/CH_HDLHD/manifest.mpd?token=DoMjhlMjcxMmUyZmI
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="myzen-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",My Zen TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_C05_MYZENTVHD/manifest.mpd?token=dQZjVlODkxYWU0OTJjYzM5NmRmMGVjN2E0ZmM4NjQ5OGY
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="xabar24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",24KZ HD
+#EXTINF:-1 group-title="Новые (тест)" tvg-id="xabar24" tvg-language="ru" tvg-country="RU" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",24KZ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_HABARHD/manifest.mpd?token=XvYWIzMTc1YWY1Y2I2MGFmNzM5NGJmMDhjNWQ1NmNiNWU
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="suspense" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Suspense HD
