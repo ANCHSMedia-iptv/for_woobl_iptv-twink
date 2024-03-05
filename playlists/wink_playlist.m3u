@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG" user-agent=Mozilla/5.0 WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-
+#EXTM3U url-tvg="https://iptvx.one/EPG" 
 #EXTINF:-1 group-title="Инфо",ОБНОВЛЕНО 04.03.2024
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Инфо",https://clck.ru/37MrWa
