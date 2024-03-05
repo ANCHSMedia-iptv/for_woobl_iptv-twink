@@ -1,915 +1,915 @@
-#EXTM3U url-tvg="http://iptvx.one/EPG"
+#EXTM3U url-tvg="https://iptvx.one/EPG"
 
-#EXTINF:-1 group-title="Инфо", tvg-logo="http://woobl.ru/hls987/img/logo.png"ОБНОВЛЕНО 05.03.2024
+#EXTINF:-1 group-title="Инфо" tvg-logo="https://woobl.ru/hls987/img/logo.png",ОБНОВЛЕНО 05.03.2024
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Инфо" tvg-logo="http://woobl.ru/hls987/img/tg.png",http://clck.ru/37MrWa
+#EXTINF:-1 group-title="Инфо" tvg-logo="https://woobl.ru/hls987/img/tg.png",https://clck.ru/37MrWa
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/Russia1_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",РЕН ТВ
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
-#EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Основные" tvg-id="rossia-24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Суббота
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Основные" tvg-id="super" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Суббота
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a3569458686-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/playlist.m3u8
 #EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч! ТВ
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Основные" tvg-id="sts" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС Love
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Основные" tvg-id="sts-love" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС Love
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ4
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
-#EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Основные" tvg-id="2na2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ3
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Основные" tvg-id="tv3-ru" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Звезда
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Мир
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Основные" tvg-id="mir" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Мир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 #EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТР
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятый канал
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ Центр
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a787200742-zabava-htlive.cdn.ngenix.net/hls/CH_U/video_800x450_avc1/playlist.m3u8
 #EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Муз ТВ
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Спас
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 #EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Солнце
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
-#EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Карусель
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Основные" tvg-id="karusel" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Карусель
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (-1)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a3569458674-zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+1)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+2)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+4)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+5)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+6)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+7)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" tvg-id="pervy-pl8" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+8)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+9)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
 
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (-1)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg"  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (-1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a787200762-zabava-htlive.cdn.ngenix.net/hls/CH_NTV/video_800x450_avc1/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (+2)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-id="ntv-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (+4)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (+6)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (+6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a1311338269-zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="ntv-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (+7)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ (-1)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ (-1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a787201483-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/video_800x450_avc1/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ (+2)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rentv-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ (+4)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rentv-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" catchup="append" tvg-logo="http://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/RenTV_+6_Logo.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ (+6)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/RenTV_+6_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ (+6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a1311338245-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" tvg-id="rentv-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ (+7)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия-1 (-1)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия-1 (-1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a787201483-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия-1 (+1)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия-1 (+2)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl1" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия-1 (+3)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия-1 (+4)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl3" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4//variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия-1 (+5)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия-1 (+6)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl5" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl6" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия-1 (+7)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия-1 (+8)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8?version=2
-#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl9" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия-1 (+9)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl8" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8?version=2
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl9" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a3569455302-s14131.cdn.ngenix.net/hls/CH_R41_ROSSIA1/playlist.m3u8?utcstart=1701406800&version=2
 
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К (-1)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К (-1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a3569458677-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К (+2)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К (+4)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К (+6)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К (+6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a787201484-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" tvg-id="kultura-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К (+7)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
 
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница! (-1)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница! (-1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a787200757-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница! (+2)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-id="piatnica-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница! (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_2/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница! (+4)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-id="piatnica-pl3" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница! (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="piatnica-pl5" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница! (+5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница! (+5)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница! (+6)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница! (+6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a787200742-zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" tvg-id="piatnica-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница! (+7)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_7/variant.m3u8
 
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Суббота (-1)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Суббота (-1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a1311338255-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Суббота (+2)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Суббота (+4)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Суббота (+6)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Суббота (+6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a787200748-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" tvg-id="super-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Суббота (+7)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
 
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС (-1)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС (-1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a3569458678-zabava-htlive.cdn.ngenix.net/hls/CH_STS/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС (+2)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС (+4)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС (+6)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС (+6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a1311338257-zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" tvg-id="sts-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС (+7)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС Love (-1)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС Love (-1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a1311338263-zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС Love (+2)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-id="sts-love-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС Love (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС Love (+4)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" tvg-id="sts-love-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС Love (+7)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8
 
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ (-1)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ (-1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a3569458674-zabava-htlive.cdn.ngenix.net/hls/CH_TNT/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ (+2)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-id="tnt-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ (+4)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="http://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/TNT_+6_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ (+6)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/TNT_+6_Logo.png" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ (+6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a787201483-zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" tvg-id="tnt-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ (+7)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ4 (-1)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ4 (-1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a3569458168-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ4 (+2)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ4 (+4)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" tvg-id="tnt4-pl6" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ4 (+6)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a3569458168-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" tvg-id="tnt4-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ4 (+7)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
 
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че! (-1)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че! (-1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a3569458168-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че! (+2)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_2/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че! (+4)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_4/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че! (+6)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че! (+6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a1311338245-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" tvg-id="che-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че! (+7)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
 
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2 (-1)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2 (-1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a787201485-zabava-htlive.cdn.ngenix.net/hls/CH_2X2/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2 (+2)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-id="2na2-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2 (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2 (+4)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-id="2na2-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2 (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2 (+6)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2 (+6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a787200756-zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" tvg-id="2na2-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2 (+7)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
 
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ3 (-1)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ3 (-1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a3569458679-zabava-htlive.cdn.ngenix.net/hls/CH_TV3/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ3 (+2)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ3 (+4)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ3 (+6)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ3 (+6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a3569458172-zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" tvg-id="tv3-ru-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ3 (+7)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
 
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний (-1)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний (-1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a3285275085-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний (+2)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-id="domashny-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_2/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний (+4)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-id="domashny-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний (+6)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний (+6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a787200755-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" tvg-id="domashny-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний (+7)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_7/variant.m3u8
 
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Звезда (-1)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Звезда (-1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a1311338245-zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Звезда (+2)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-id="zvezda-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Звезда (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Звезда (+4)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Звезда (+6)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Звезда (+6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a3569458686-zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" tvg-id="zvezda-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Звезда (+7)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
 
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Мир (-1)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Мир (-1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a787200748-zabava-htlive.cdn.ngenix.net/hls/CH_MIR/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Мир (+2)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Мир (+4)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Мир (+6)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Мир (+6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a3569458172-zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" tvg-id="mir-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Мир (+7)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятый канал (-1)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятый канал (-1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a787201477-zabava-htlive.cdn.ngenix.net/hls/CH_5TV/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятый канал (+2)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-id="5kanal-ru-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятый канал (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" tvg-id="5kanal-ru-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятый канал (+4)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятый канал (+6)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятый канал (+6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a1311338255-zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" tvg-id="5kanal-ru-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятый канал (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
 
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВЦ (-1)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВЦ (-1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a1311338257-zabava-htlive.cdn.ngenix.net/hls/CH_TVC/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" tvg-id="tvcentr-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВЦ (+2)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" tvg-id="tvcentr-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВЦ (+4)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВЦ (+6)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВЦ (+6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a787201475-zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" tvg-id="tvcentr-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВЦ (+7)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
 
 #EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю (-1)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a787200742-zabava-htlive.cdn.ngenix.net/hls/CH_U/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю (+2)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-id="yu-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю (+4)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю (+6)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю (+6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a787201475-zabava-htlive.cdn.ngenix.net/hls/CH_U_7/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" tvg-id="yu-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю (+7)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Муз ТВ (+2)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Муз ТВ (+4)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Муз ТВ (+7)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 
 #EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Солнце (-1)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a1311338263-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Солнце (+2)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-id="solnce-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Солнце (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Солнце (+4)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-id="solnce-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Солнце (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Солнце (+6)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Солнце (+6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a1311338255-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" tvg-id="solnce-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Солнце (+7)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 
 #EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Карусель (-1)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a3285275085-zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Карусель (+2)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Карусель (+4)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-id="karusel-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Карусель (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Карусель (+6)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Карусель (+6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a1311338261-zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
 #EXTINF:-1 group-title="Плюсовые" tvg-id="karusel-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Карусель (+7)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" tvg-id="karusel-pl8" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Карусель (+8)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a3569455302-s14553.cdn.ngenix.net/hls/CH_R01_KARUSEL_SLIN/playlist.m3u8?utcstart=1701406800&version=2
 
 
 #EXTINF:-1 group-title="Региональные" tvg-id="doverie" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Москва.Доверие 
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ВТК 41 "Аргус" (Воронеж)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="tmtv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",TMTV (Казань)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="maydan" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Майдан (Казань)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_OTT_VLG_KZN_MAIDAN/variant.m3u8?version=2
 #EXTINF:-1 group-title="Региональные" tvg-id="12-omsk" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",12 канал (Омск)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",31 канал (Челябинск)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="8vladik" tvg-logo="http://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/8_kanal_VLD_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",8 канал (Владивосток)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="31-kanal-chelyabinsk" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",31 канал (Челябинск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="8vladik" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/8_kanal_VLD_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",8 канал (Владивосток)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="atv-stavropol" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",АТВ (Ставрополь)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_ATV/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_ATV/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="atv-media" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",АТВ-медиа (Улан-Удэ)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="aist" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Аист HD (Иркутск)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="arig-us-24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ариг Ус 24 (Улан-Удэ)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="vremia-arktiki" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Арктика 24 (ЯН-АО)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="arktik-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Арктик-ТВ HD (Мурманск)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Региональные" tvg-id="arktik-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] Арктик-ТВ HD (Мурманск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
 #EXTINF:-1 group-title="Региональные" tvg-id="metr" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",МЭТР (Йошкар-ола)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="nash-dom" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Наш дом (Пенза)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="arxyz24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Архыз 24 
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="arxyz24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] Архыз 24 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Астрахань 24
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="bst" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",БСТ (Уфа)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="bars" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Барс (Иваново)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Белгород 24
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_BELG_BELGOROD24/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="belgorod24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Белгород 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_BELG_BELGOROD24/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="brianskaya-gubernia" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Брянская губерния
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="vot-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Вот ТВ (Липецк)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_LIPETSK_VOTTV/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_LIPETSK_VOTTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="vetta24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ветта-24 (Пермь)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="volga" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Волга ТВ (Нижний Нвогород)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="volgograd-1" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Волгоград 1
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Восток 24
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="gorodskoy-yaroslavl" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ГТ-Ярославль
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GTREG/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="gubernia-samara" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Губерния (Самара)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_GUBERNIA/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_GUBERNIA/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="gubernia-33" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Губерния 33 HD (Владивосток)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="tv-guberniya" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ Губерния (Воронеж)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="deviatka" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Девятка ТВ (Киров)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="dzenzhinsk-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Дзержинск ТВ
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Дон 24
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="enisey-region" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Енисей (Красноярск)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Зима ТВ (Иркутск)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] Зима ТВ (Иркутск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",КТВ-Город (Воронеж)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] КТВ-Город (Воронеж)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
 #EXTINF:-1 group-title="Региональные" tvg-id="kaskad24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Каскад ТВ (Калининград)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Катунь 24 (Барнаул)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Кубань 24 (Краснодар)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Липецкое время
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Региональные" tvg-id="katun-24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Катунь 24 (Барнаул)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="kuban-24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Кубань 24 (Краснодар)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="lipeckoe-vremia" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Липецкое время
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="mig-tv-noyabrsk" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Миг ТВ (Ноябрьск)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="mir-belogoria" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Мир Белогорья (Краснодар)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Москва 24
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="nntv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ННТВ (Нижний Новгород)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Наши города (ХМАО-Югра)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="nika-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ника ТВ (Калуга)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="novy-vek-tambov" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Новый век (Тамбов)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="otv-saxalin" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТВ-Сахалин
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="otv-eburg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТВ (ЕКТ)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="tv-in" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ-ИН-Магнитогорск
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
-#EXTINF:-1 group-title="Региональные" vg-id="no_epg" tvg-logo="http://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/Tolk_TV_BRL_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Толк ТВ (Барнаул)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
+#EXTINF:-1 group-title="Региональные" vg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/Tolk_TV_BRL_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Толк ТВ (Барнаул)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="trk-ryazan" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТКР Рязань
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="otv-chelyabinsk" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТВ (Челябинск)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" tvg-logo="http://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/TNR24_(NV)_Logo.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНР24 (Нижневартовск)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/TNR24_(NV)_Logo.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНР24 (Нижневартовск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u
 #EXTINF:-1 group-title="Региональные" tvg-id="teotv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Тео-ТВ (МСК)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="tolyatti24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Тольятти-24
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="ulianovskaya-pravda" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ул.Правда (Ульяновск)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="udmurtia" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Удмуртия (Ижевск)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="ots" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТС (Новосибирск)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="russky-sever" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Русский Север (Вологода)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Югорск ТВ (Югорск)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" tvg-logo="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] Югорск ТВ (Югорск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Якутия 24
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="express" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Экспресс HD (Пенза)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Толпар ТВ (Уфа)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tolpartv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] Толпар ТВ (Уфа)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Объектив 59 (Пермь)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Региональные" tvg-id="objektiv-59" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] Объектив 59 (Пермь)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
 #EXTINF:-1 group-title="Региональные" tvg-id="osetia-iryston" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Осетия Ирыстон HD (Сев.Осетия)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="pervy-tulsky" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый Тульский (Тула)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_PERV_TUL/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_PERV_TUL/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="pervy-yaroslavsky" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый Ярославский (Ярославль)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="pervy-gorodskoy-kirov" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый городской (Киров)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="pervy-oblastnoy-orel" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый областной (Орёл)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="prodvizhenie-pl3" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Продвижение (Омск)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="prodvizhenie-pl3" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] Продвижение (Омск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
-#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Продвижение СЭТ (Хабаровск)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] Продвижение СЭТ (Хабаровск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
 #EXTINF:-1 group-title="Региональные" tvg-id="rts-abakan" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",РТС (Абакан)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="reportior-73" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Репортер 73 (Ульяновск)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="s1-surgut" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",С1 (Сургут)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТВ-Байкал (Улан-Удэ)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] СТВ-Байкал (Улан-Удэ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
 #EXTINF:-1 group-title="Региональные" tvg-id="gis-samara" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Самара-ГИС
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_SAMARAGIS/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="saratov-24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Саратов 24
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_SAMARAGIS/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="saratov-24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] Саратов 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
 #EXTINF:-1 group-title="Региональные" tvg-id="saxa" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Саха ТВ (Якутия)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="svoyo-tv-stavropol" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Своё ТВ (Ставрополь)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_STAVR_STV-PLUS/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_STAVR_STV-PLUS/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="surgut-24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Сургут 24
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТК Центр Красноярск
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] ТК Центр Красноярск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
 #EXTINF:-1 group-title="Прочие" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНВ-Планета
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_TNV/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_TNV/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНВ-Татарстан
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="tatarstan24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Татарстан 24
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="tivikom" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Тивиком (Улан-Удэ)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TIVICOM/variant.m3u8
-#EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Томское время
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TIVICOM/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tomskoe-vremia" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Томское время
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8
 #EXTINF:-1 group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Тюменское время
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="xamdan-kalm24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Хамдан-НТК (Элиста)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="yugra" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Югра (Сургут)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="yurgan" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Юрган (Респ. Коми)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="yurgan" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] Юрган (Респ. Коми)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
 #EXTINF:-1 group-title="Региональные" tvg-id="yamal-region" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ямал Регион (ЯН-АО)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="rifey-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рифей-ТВ (Пермь)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="ugra-travel" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Югра Travel (Сургут)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="afontovo-kr" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Афонтово (Красноярск)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_AFONTOVO/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="izvestia" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Известия ТВ (Воронеж)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="lot-47" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Лен ТВ 24 (СПб)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="sankt-peterburg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Телеканал Санкт-Петербург
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://a787201987-rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/playlist.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Эфир (Казань)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="yo" tvg-logo="http://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/%23yo_SM_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",#ё HD (Самара)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="sankt-peterburg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Телеканал Санкт-Петербург
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://a787201987-rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="efir24-relax" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Эфир (Казань)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="yo" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/%23yo_SM_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] #ё HD (Самара)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
 
 #EXTINF:-1 group-title="Прочие" tvg-id="nasha-sibir-4k" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Наша Сибирь 4k
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
 #EXTINF:-1 group-title="Прочие" tvg-id="shayantv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Шаян ТВ
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
-#EXTINF:-1 group-title="Винк" tvg-id="no_epg" tvg-logo="http://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/Vse_TV_Wink_(RTK)_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Всё ТВ HD 
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
-#EXTINF:-1 group-title="Прочие" tvg-id="ultra-hd-cinema" tvg-logo="http://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/Cinema_Ultra_HD_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Cinema Ultra HD
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
+#EXTINF:-1 group-title="Винк" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/Vse_TV_Wink_(RTK)_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Всё ТВ HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
+#EXTINF:-1 group-title="Прочие" tvg-id="ultra-hd-cinema" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/Cinema_Ultra_HD_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Cinema Ultra HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
-#EXTINF:-1 group-title="Прочие" tvg-id="russian-extreme-uhd" tvg-logo="http://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/Russian_Extreme_Ultra_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Русский Экстрим UHD 4K
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
+#EXTINF:-1 group-title="Прочие" tvg-id="russian-extreme-uhd" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/Russian_Extreme_Ultra_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Русский Экстрим UHD 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 
 
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="curiosity-stream" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Curiosity Stream
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_CURIOSITYSTREAMHD/manifest.mpd?token=TdYTkxNTljYTk0N2Q0YTgxYzc1ZGM4NDM4YjcyOTgzNzA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_CURIOSITYSTREAMHD/manifest.mpd?token=TdYTkxNTljYTk0N2Q0YTgxYzc1ZGM4NDM4YjcyOTgzNzA
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="cartoon-classics" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Cartoon Classics
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_CARTOONCLASSICS/manifest.mpd?token=sdM2Y3ODc3MjMxNzY4Yjk4OTMzYjA2NjkyNmQ2ZGU4M2Q
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_CARTOONCLASSICS/manifest.mpd?token=sdM2Y3ODc3MjMxNzY4Yjk4OTMzYjA2NjkyNmQ2ZGU4M2Q
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="gags-network" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Gagsnetwork HD
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_GAGSNETWORKHD/manifest.mpd?token=XnMTcxZTdkNzFkYTZmNmM3OWIyMDRmMTMyYzVmZjRmYjc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_GAGSNETWORKHD/manifest.mpd?token=XnMTcxZTdkNzFkYTZmNmM3OWIyMDRmMTMyYzVmZjRmYjc
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="kinoliving" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",KinoLiving HD
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_KINOLIVINGHD/manifest.mpd?token=k9ODJhNzRhZDAzOGU4OWUyYzljNmUzMTFiOTM2YTViOTg=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_KINOLIVINGHD/manifest.mpd?token=k9ODJhNzRhZDAzOGU4OWUyYzljNmUzMTFiOTM2YTViOTg=
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="romance" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Romance Channel
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_ROMANCEHD/manifest.mpd?token=tuMTU5ZDVlM2FhYmNjY2ExMTljMjZkMjJkNDZjMzhmZTI
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="silkway" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Silk Way
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_KAZAHHD/manifest.mpd?token=L3MTZlNjc5MzFhYzFkOWZhOThjNWU5MjFhMzEwN2Q1NGE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_ROMANCEHD/manifest.mpd?token=tuMTU5ZDVlM2FhYmNjY2ExMTljMjZkMjJkNDZjMzhmZTI
+#EXTINF:-1 group-title="Новые (тест)" tvg-id="silkway" tvg-language="ru" tvg-country="RU" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Silk Way
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_KAZAHHD/manifest.mpd?token=L3MTZlNjc5MzFhYzFkOWZhOThjNWU5MjFhMzEwN2Q1NGE
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="travel-adventure" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Travel+Adventure HD
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_TRAVELANDADVENTUREHD/manifest.mpd?token=f0ZjEzYTI1M2VkNDQ4MzM0N2QwNjlmMjJiYzA0NjEwYjY
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="travel-xp-4k" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Travelxp 4K
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_TRAVELXP4K/manifest.mpd?token=28YmYwMzY1MWViOGJlNjU2NDkwMDQ4OTQxNGI0NzBjOTQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_TRAVELANDADVENTUREHD/manifest.mpd?token=f0ZjEzYTI1M2VkNDQ4MzM0N2QwNjlmMjJiYzA0NjEwYjY
+#EXTINF:-1 group-title="Новые (тест)" tvg-id="travel-xp-4k" tvg-language="ru" tvg-country="RU" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Travelxp 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_TRAVELXP4K/manifest.mpd?token=28YmYwMzY1MWViOGJlNjU2NDkwMDQ4OTQxNGI0NzBjOTQ
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="travel-xp-hd" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Travelxp HD
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_TRAVELXPHD/manifest.mpd?token=r7N2RkZjc0YmM4ODYxZWMxYzc3MTBmMjM3NDRjNjgzZDA=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_TRAVELXPHD/manifest.mpd?token=r7N2RkZjc0YmM4ODYxZWMxYzc3MTBmMjM3NDRjNjgzZDA=
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="viasat-nature-history-hd" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",viju+ Planet HD
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_C03_VIASATNATUREHISTORYHD/manifest.mpd?token=E7MDk0NjJkMTk2MzA5YzAwMzhhMGI4YTc1YzM4NTViYzg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_C03_VIASATNATUREHISTORYHD/manifest.mpd?token=E7MDk0NjJkMTk2MzA5YzAwMzhhMGI4YTc1YzM4NTViYzg
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="narod-vsio-vidit" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Народ Всё Видит (НВВ)
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_NVV/manifest.mpd?token=85MjBhOWE5OGJkZTJkOGUxOTMxMTg2MjIzOTFmYmFkOTg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_NVV/manifest.mpd?token=85MjBhOWE5OGJkZTJkOGUxOTMxMTg2MjIzOTFmYmFkOTg
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="neizvestnaya-rosia" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Неизвестная Россия HD
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_UNKRUSSIAHD/manifest.mpd?token=TeOGFjYjA2MzQyODA2NWVjZGI2ZjkxZWRmZDBjZGY1NDA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_UNKRUSSIAHD/manifest.mpd?token=TeOGFjYjA2MzQyODA2NWVjZGI2ZjkxZWRmZDBjZGY1NDA
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="nowy-igrowoj" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НИК
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_NIK/manifest.mpd?token=7rMDk1NjI1ZjZmNDJjOWNlZjVhZWZjNTAzMmUyNjBlMWE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_NIK/manifest.mpd?token=7rMDk1NjI1ZjZmNDJjOWNlZjVhZWZjNTAzMmUyNjBlMWE
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="anekdottv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Анекдот ТВ
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_ANEKDOTTV/manifest.mpd?token=BaNzYzYWNhZmIwNTcyZjNmYThlMDI3Yzg0ZDgyYTMwNmM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_ANEKDOTTV/manifest.mpd?token=BaNzYzYWNhZmIwNTcyZjNmYThlMDI3Yzg0ZDgyYTMwNmM
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="big-planet" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Big Planet
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_BIGPLANETHD/manifest.mpd?token=kLNTgyZWVjMzFhOTllOTFkYmFiNDllMTU3MDEzYjk2ZDA=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_BIGPLANETHD/manifest.mpd?token=kLNTgyZWVjMzFhOTllOTFkYmFiNDllMTU3MDEzYjk2ZDA=
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="viasat-explore" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",viju Explore HD
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_VIASATEXPLOREHD/manifest.mpd?token=YnMmU0MjUyODVlY2EyZGJjZmJjNTY4ZGMwM2VkM2Q3NzM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_VIASATEXPLOREHD/manifest.mpd?token=YnMmU0MjUyODVlY2EyZGJjZmJjNTY4ZGMwM2VkM2Q3NzM
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="viasat-history" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",viju History HD
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_VIASATHISTORYHD/manifest.mpd?token=DTYWI5ODU0MWM1Y2NiZTFlN2QzN2M4ZTdlYTEyMjdjYWQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_VIASATHISTORYHD/manifest.mpd?token=DTYWI5ODU0MWM1Y2NiZTFlN2QzN2M4ZTdlYTEyMjdjYWQ
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="viasat-nature" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",viju Nature HD
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_VIASATNATUREHD/manifest.mpd?token=YxZWEyOTNlMDY1NTE2NGU4Y2ZjYmU2OWVjMDUwZGRhZjU
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="viju-tv1000-novella" tvg-logo="http://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/viju_tv1000_Novella_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",viju TV1000 Новелла HD 
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_VIJUTV1000NOVELLAHD/manifest.mpd?token=OkNTkwYzNmYjk2YTExN2JmZDMzNzU0MTlkODljNzE0ODU
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="hd-life" tvg-logo="http://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/HDL_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",HDL HD
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_HDLHD/manifest.mpd?token=DoMjhlMjcxMmUyZmIzNTBjZWNmODA0MzkwYmM4ZWQ4ZTQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_VIASATNATUREHD/manifest.mpd?token=YxZWEyOTNlMDY1NTE2NGU4Y2ZjYmU2OWVjMDUwZGRhZjU
+#EXTINF:-1 group-title="Новые (тест)" tvg-id="viju-tv1000-novella" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/viju_tv1000_Novella_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",viju TV1000 Новелла HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_VIJUTV1000NOVELLAHD/manifest.mpd?token=OkNTkwYzNmYjk2YTExN2JmZDMzNzU0MTlkODljNzE0ODU
+#EXTINF:-1 group-title="Новые (тест)" tvg-id="hd-life" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/HDL_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",HDL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_HDLHD/manifest.mpd?token=DoMjhlMjcxMmUyZmIzNTBjZWNmODA0MzkwYmM4ZWQ4ZTQ
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="myzen-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",My Zen TV HD
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_C05_MYZENTVHD/manifest.mpd?token=dQZjVlODkxYWU0OTJjYzM5NmRmMGVjN2E0ZmM4NjQ5OGY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_C05_MYZENTVHD/manifest.mpd?token=dQZjVlODkxYWU0OTJjYzM5NmRmMGVjN2E0ZmM4NjQ5OGY
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="xabar24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",24KZ HD
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_HABARHD/manifest.mpd?token=XvYWIzMTc1YWY1Y2I2MGFmNzM5NGJmMDhjNWQ1NmNiNWU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_HABARHD/manifest.mpd?token=XvYWIzMTc1YWY1Y2I2MGFmNzM5NGJmMDhjNWQ1NmNiNWU
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="suspense" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Suspense HD
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_SUSPENSEHD/manifest.mpd?token=25MzkxODU3NTMyY2UzYzE5N2IzMzk4Y2NkMjI4ZTNhM2M
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_SUSPENSEHD/manifest.mpd?token=25MzkxODU3NTMyY2UzYzE5N2IzMzk4Y2NkMjI4ZTNhM2M
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="cctv4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",CCTV-4
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_CCTV4/manifest.mpd?token=W8ZTJiNDNmM2UzMjE1ZDcwYTIwYTAwZTQzMGY2NDVjNTU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_CCTV4/manifest.mpd?token=W8ZTJiNDNmM2UzMjE1ZDcwYTIwYTAwZTQzMGY2NDVjNTU
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="start-world" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",START World
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_STARTWORLDHD/manifest.mpd?token=5pMTViMjIzYzkxOTZiYTU4YTRlNzJkMGM1MWU3ZWFmZjI=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_STARTWORLDHD/manifest.mpd?token=5pMTViMjIzYzkxOTZiYTU4YTRlNzJkMGM1MWU3ZWFmZjI=
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="start-air" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",START Air
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_STARTAIRHD/manifest.mpd?token=84MTY5YTc1NzYwODE4NmRiYWNjOTMxY2YwZGI0YzA5YjI=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_STARTAIRHD/manifest.mpd?token=84MTY5YTc1NzYwODE4NmRiYWNjOTMxY2YwZGI0YzA5YjI=
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="viasat-sport" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",viju+ Sport
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_VIASATSPORT/manifest.mpd?token=FDZDgyMWMyMGM4ZTI5MTFhYmFjYTFjZWViN2YzZmIxMDU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_VIASATSPORT/manifest.mpd?token=FDZDgyMWMyMGM4ZTI5MTFhYmFjYTFjZWViN2YzZmIxMDU
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="kinomult" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",КиноМульт
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_KINOMULT/manifest.mpd?token=52YmY5MmFhNjZmMmU0OTBkZDY4NWMzMDRkODExNGJmOTc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_KINOMULT/manifest.mpd?token=52YmY5MmFhNjZmMmU0OTBkZDY4NWMzMDRkODExNGJmOTc
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="multimuzyka" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Мульт и Музыка
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_STRANA/manifest.mpd?token=IQNThlZDNmMzk1YzY5NTRiODdlOTdlNWNjZTJjYzEzMWQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_STRANA/manifest.mpd?token=IQNThlZDNmMzk1YzY5NTRiODdlOTdlNWNjZTJjYzEzMWQ
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="telekanal-naronoj-muzyki" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Телеканал народной музыки HD
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_NARODNAYAMUZIKAHD/manifest.mpd?token=sdZGRkMjNhNTE1Mzg3MjhkOTBlZDc0Zjg3YmYxN2RiZjI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_NARODNAYAMUZIKAHD/manifest.mpd?token=sdZGRkMjNhNTE1Mzg3MjhkOTBlZDc0Zjg3YmYxN2RiZjI
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="echotv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Эхо-ТВ
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_ECHOTV/manifest.mpd?token=fdNGQ0NWNmNDhlYTVmMTY3ZWMyZDc0MDEzZWJlNzFkMjI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_ECHOTV/manifest.mpd?token=fdNGQ0NWNmNDhlYTVmMTY3ZWMyZDc0MDEzZWJlNzFkMjI
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="drive" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Драйв HD
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_DRIVE/manifest.mpd?token=TdOTJiNDRlYWMzNDlmYzhiYjEzYmQ2ZGIxN2U2YzQ0ZmM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_DRIVE/manifest.mpd?token=TdOTJiNDRlYWMzNDlmYzhiYjEzYmQ2ZGIxN2U2YzQ0ZmM
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="tv1000-action" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",viju TV1000 Action HD
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_TV1000ACTIONHD/manifest.mpd?token=MxMGZhMDE4Mzc4MmVlMDY1MGM4ZDIzODM4ZDgwMmRmZjI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_TV1000ACTIONHD/manifest.mpd?token=MxMGZhMDE4Mzc4MmVlMDY1MGM4ZDIzODM4ZDgwMmRmZjI
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="kinosvidanie" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Киносвидание HD
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_KINODATEHD/manifest.mpd?token=XAOTM0MzVlYTIyNTZiYzVkOWJiOGNkY2JmMTEwM2ExNTE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_KINODATEHD/manifest.mpd?token=XAOTM0MzVlYTIyNTZiYzVkOWJiOGNkY2JmMTEwM2ExNTE
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="kinosemiya" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Киносемья HD
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_KINOFAMILYHD/manifest.mpd?token=VeYTMwYzc0ZjM2NGJiMTE3NDdlMjMzN2I3ZDI5NzBiZTc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_KINOFAMILYHD/manifest.mpd?token=VeYTMwYzc0ZjM2NGJiMTE3NDdlMjMzN2I3ZDI5NzBiZTc
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="kinouzhas" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Киноужас HD
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_KINOUZHASHD/manifest.mpd?token=B6NTljNzVlNmE5MjUwZWEyNDViMjQ0OWFkODI5YWQwZDM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_KINOUZHASHD/manifest.mpd?token=B6NTljNzVlNmE5MjUwZWEyNDViMjQ0OWFkODI5YWQwZDM
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="match-premier" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч! Премьер HD
-#EXTVCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0.0.2) AppleWebkit/605.1.15 (KHTML, like Gecko) SamsungBrowser/9.2 TV Safari/605.1.15
-http://s25617.cdn.ngenix.net/mdrm/CH_C06_NASHFOOTBALLHD/manifest.mpd?token=IoMDcwYmEwNThjN2M2YzBmM2Q0ZWJhYTE0NTBiOWViM2Q=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_C06_NASHFOOTBALLHD/manifest.mpd?token=IoMDcwYmEwNThjN2M2YzBmM2Q0ZWJhYTE0NTBiOWViM2Q=
 Хэштег ГПМНЕБАНЬ!
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="the-explorers" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",The Explorers HD
 
@@ -918,7 +918,9 @@ http://s25617.cdn.ngenix.net/mdrm/CH_C06_NASHFOOTBALLHD/manifest.mpd?token=IoMDc
 
 
 
-# Обновлено 5.03.2024
+
+# Обновлено 4.03.2024
 # Woobl IPTV Wink Playlist
 # Лучше не убирай)
 # У некоторых каналов есть пустое tvg logo - там будут скоро URL на логотипы.
+# Очень странно насчёт юзер агентов..
