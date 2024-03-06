@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 
-#EXTINF:-1 group-title="Инфо" tvg-logo="https://woobl.ru/hls987/img/logo.png",Обновлено 06.03.2024
+#EXTINF:-1 group-title="Инфо" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/icon_wink_temp.png",Обновлено 06.03.2024
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Инфо" tvg-logo="https://woobl.ru/hls987/img/tg.png",https://clck.ru/37MrWa
+#EXTINF:-1 group-title="Инфо" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/tg.png",https://clck.ru/37MrWa
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
@@ -196,22 +196,22 @@ http://a787201484-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/video_800x450_av
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
 
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница! (-1)
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница (-1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a787200757-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
-#EXTINF:-1 group-title="Плюсовые" tvg-id="piatnica-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница! (+2)
+#EXTINF:-1 group-title="Плюсовые" tvg-id="piatnica-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_2/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-id="piatnica-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница! (+4)
+#EXTINF:-1 group-title="Плюсовые" tvg-id="piatnica-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница!(+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница! (+5)
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница (+5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница! (+6)
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница (+6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a787200742-zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t&version=2
-#EXTINF:-1 group-title="Плюсовые" tvg-id="piatnica-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница! (+7)
+#EXTINF:-1 group-title="Плюсовые" tvg-id="piatnica-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_7/variant.m3u8
 
@@ -914,13 +914,20 @@ https://s25617.cdn.ngenix.net/mdrm/CH_KINOUZHASHD/manifest.mpd?token=B6NTljNzVlN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_C06_NASHFOOTBALLHD/manifest.mpd?token=IoMDcwYmEwNThjN2M2YzBmM2Q0ZWJhYTE0NTBiOWViM2Q=
 Хэштег ГПМНЕБАНЬ!
-#EXTINF:-1 group-title="Новые (тест)",Test
+#EXTINF:-1 group-title="Новые (тест)" tvg-id="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] Epic HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-https://s25617.cdn.ngenix.net/mdrm/CH_EPICHD/manifest.mpd
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="the-explorers" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] The Explorers HD
-https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/animation-a05bfde8-404.mp4
-# Нету пока что на платформе Wink.
 
+#EXTINF:-1 group-title="Новые (тест)" tvg-id="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] Телеканал Мы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+
+
+# Epic и Мы добавлю потом, нужны токены.
+
+#EXTINF:-1 group-title="Новые (тест)" tvg-id="the-explorers" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] The Explorers HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+
+
+# Нету пока что на платформе Wink.
 
 
 
