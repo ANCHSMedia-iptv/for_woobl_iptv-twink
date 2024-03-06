@@ -4,50 +4,50 @@
 # Потоки HLS
 # Сортировка - от самого 1 найденного до последнего.
 # Всё что я нашёл. Плейлист будет обновляться!
-# https:// raw.githubusercontent.com/teleeasyiptv/for_woobl_iptv/main/beetv_hls_iptv_playlist.m3u
-# Альт. ссылка: https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/playlists/beetv_hls_iptv_playlist.m3u
-# P.s. Нету геоблока! 
-
+# https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/playlists/beetv_hls_iptv_playlist.m3u
+# P.s. Нету геоблока! (не гарантировано что включится потом)
+# Потоки запускаются 4-5 раза!
 
 
 # Для Woobl IPTV
 # Автор: @acidraineasy0272mc (telegram)
-# Обновлено 3.02.2024
+# Обновлено 06.03.2024
 
+# User agent чтобы открыть: Dalvik/2.1.0
 
 #EXTM3U
 
-#EXTINF:0,Анекдот ТВ Int.
+#EXTINF:0,Анекдот ТВ Int. 
 https://bkm.beetv.kz/btv/live/hls/000001921.m3u8
 
-#EXTINF:0,Bollywood
+#EXTINF:0,Bollywood Int.
 http://bkm.beetv.kz/btv/live/hls/000001419.m3u8
 
-#EXTINF:0,Домашние Животные Int.
+#EXTINF:0,Домашние Животные Int. 
 https://bkm.beetv.kz/btv/live/hls/000000146.m3u8
 
 #EXTINF:0,Еда Премиум Int. 
-https://bkm.beetv.kz/btv/live/hls/000000588.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000588.m3u8 
 
-#EXTINF:0,FlixSnip (?)
+#EXTINF:0,FlixSnip HD
 https://bkm.beetv.kz/btv/live/hls/000004466.m3u8
 
-#EXTINF:0,Глазами Туриста HD
+#EXTINF:0,Глазами Туриста HD Int. 
 https://bkm.beetv.kz/btv/live/hls/000001414.m3u8
 
-#EXTINF:0,Капитан Фантастика Int.
+#EXTINF:0,Капитан Фантастика Int. 
 https://bkm.beetv.kz/btv/live/hls/000001474.m3u8
 
-#EXTINF:0,Мужской Int.
+#EXTINF:0,Мужской Int. 
 https://bkm.beetv.kz/btv/live/hls/000000286.m3u8
 
-#EXTINF:0,Наше Любимое Кино Int.
+#EXTINF:0,Наше Любимое Кино Int. 
 https://bkm.beetv.kz/btv/live/hls/000000283.m3u8
 
-#EXTINF:0,Nickelodeon Global СНГ
+#EXTINF:0,Nickelodeon Global СНГ 
 https://bkm.beetv.kz/btv/live/hls/000000499.m3u8
 
-#EXTINF:0,Nick Jr Global СНГ
+#EXTINF:0,Nick Jr Global СНГ 
 https://bkm.beetv.kz/btv/live/hls/000000449.m3u8
 
 #EXTINF:0,НСТ Int.
@@ -140,7 +140,7 @@ https://bkm.beetv.kz/btv/live/hls/000001248.m3u8
 #EXTINF:0,Мульт Int.
 https://bkm.beetv.kz/btv/live/hls/000001207.m3u8
 
-#EXTINF:0,Zoopark HD Int.
+#EXTINF:0,ZooПaрк HD Int.
 https://bkm.beetv.kz/btv/live/hls/000000260.m3u8
 
 #EXTINF:0,Big Planet Int.
@@ -176,7 +176,7 @@ https://bkm.beetv.kz/btv/live/hls/000002510.m3u8
 #EXTINF:0,Еда Премиум Int. HD
 https://bkm.beetv.kz/btv/live/hls/000000588.m3u8
 
-#EXTINF:0,Setanta Sports Qazaqstan (Казахстан)
+#EXTINF:0,Setanta Sports Qazaqstan FHD (Казахстан) [RU]
 https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
 
 #EXTINF:0,Авто 24 Int.
@@ -236,6 +236,9 @@ https://bkm.beetv.kz/btv/live/hls/000002472.m3u8
 #EXTINF:0,РБК Int.
 https://bkm.beetv.kz/btv/live/hls/000000091.m3u8
 
+#EXTINF:0,НТВ Мир СНГ
+https://bkm.beetv.kz/btv/live/hls/000000079.m3u8
+
 #EXTINF:0,НТВ Сериал Int.
 https://bkm.beetv.kz/btv/live/hls/000002760.m3u8
 
@@ -254,19 +257,22 @@ https://bkm.beetv.kz/btv/live/hls/000002926.m3u8
 #EXTINF:0,THT Music Int. #ГПМНЕБАНЬ!
 https://bkm.beetv.kz/btv/live/hls/000000013.m3u8
 
+#EXTINF:0,Карусель Int.
+https://bkm.beetv.kz/btv/live/hls/000000781.m3u8
+
 #EXTINF:0,Cartoon Network СНГ
 https://bkm.beetv.kz/btv/live/hls/000000015.m3u8
 
 #EXTINF:0,Cartoonito СНГ
 https://bkm.beetv.kz/btv/live/hls/000000160.m3u8
 
-#EXTINF:0,FX СНГ
+#EXTINF:0,FX HD СНГ
 https://bkm.beetv.kz/btv/live/hls/000004472.m3u8
 
 #EXTINF:0,FX Life HD СНГ
 https://bkm.beetv.kz/btv/live/hls/000004471.m3u8
 
-#EXTINF:0,Hollywood 
+#EXTINF:0,Hollywood HD СНГ
 https://bkm.beetv.kz/btv/live/hls/000000031.m3u8
 
 #EXTINF:0,MTV Live HD [EN] (Global)
@@ -276,7 +282,7 @@ https://bkm.beetv.kz/btv/live/hls/000000447.m3u8
 https://bkm.beetv.kz/btv/live/hls/000000264.m3u8
 
 #EXTINF:0,Россия РТР СНГ HD
-http://bkm.beetv.kz/btv/live/hls/000000812.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000812.m3u8
 
 #EXTINF:0,Terra HD Int.
 https://bkm.beetv.kz/btv/live/hls/000008142.m3u8
@@ -290,7 +296,7 @@ https://bkm.beetv.kz/btv/live/hls/000000418.m3u8
 #EXTINF:0,Первый Вегетарианский Int.
 https://bkm.beetv.kz/btv/live/hls/000002927.m3u8
 
-#EXTINF:0,31 канал Казахстан
+#EXTINF:0,31 канал [23/7] (Алматы,КЗ) [RU/KZ]
 https://bkm.beetv.kz/btv/live/hls/000000663.m3u8
 
 #EXTINF:0,8 канал Int.
@@ -299,10 +305,10 @@ https://bkm.beetv.kz/btv/live/hls/000001564.m3u8
 #EXTINF:0,E TV Int.
 https://bkm.beetv.kz/btv/live/hls/000002721.m3u8
 
-#EXTINF:0,5 канал (Караганда,КЗ)
+#EXTINF:0,5 канал (Караганда,КЗ) [RU/KZ]
 https://bkm.beetv.kz/btv/live/hls/000000950.m3u8
 
-#EXTINF:0,TBK 6 (Семей,КЗ)
+#EXTINF:0,TBK 6 (Семей,КЗ) [RU/KZ]
 https://bkm.beetv.kz/btv/live/hls/000001516.m3u8
 
 #EXTINF:0,viju+ (ViP) Comedy СНГ
@@ -314,10 +320,10 @@ https://bkm.beetv.kz/btv/live/hls/000000869.m3u8
 #EXTINF:0,viju+ (ViP) Premiere СНГ
 https://bkm.beetv.kz/btv/live/hls/000000868.m3u8
 
-#EXTINF:0,Кино Боевик Int.
+#EXTINF:0,Кинобоевик Int. HD
 https://bkm.beetv.kz/btv/live/hls/000008490.m3u8
 
-#EXTINF:0,Мировое Кино Int.
+#EXTINF:0,Мировое Кино Int. HD
 https://bkm.beetv.kz/btv/live/hls/000008488.m3u8
 
 #EXTINF:0,Шансон ТВ Int.
@@ -326,10 +332,10 @@ https://bkm.beetv.kz/btv/live/hls/000000210.m3u8
 #EXTINF:0,MCM Top Int.
 https://bkm.beetv.kz/btv/live/hls/000000327.m3u8
 
-#EXTINF:0,Первый канал Евразия
+#EXTINF:0,Первый канал Евразия (Казахстан)
 https://bkm.beetv.kz/btv/live/hls/000001020.m3u8
 
-#EXTINF:0,Mezzo
+#EXTINF:0,Mezzo International [FR]
 https://bkm.beetv.kz/btv/live/hls/000000030.m3u8
 
 #EXTINF:0,Eurosport 1 HD СНГ
@@ -338,25 +344,175 @@ https://bkm.beetv.kz/btv/live/hls/000002478.m3u8
 #EXTINF:0,Eurosport 2 HD СНГ
 https://bkm.beetv.kz/btv/live/hls/000002479.m3u8
 
-#EXTINF:0,Muzzone СНГ
+#EXTINF:0,MuzzOne Казахстан [RU/KZ]
 https://bkm.beetv.kz/btv/live/hls/000000783.m3u8
 
-#EXTINF:0,Viasat Sport HD СНГ
+#EXTINF:0,viju+ (Viasat) Sport HD СНГ
 https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
 
+#EXTINF:0,Премиум Кино Int. HD
+https://bkm.beetv.kz/btv/live/hls/000008491.m3u8
 
+#EXTINF:0,Семейное кино Int. HD
+https://bkm.beetv.kz/btv/live/hls/000008489.m3u8
 
+#EXTINF:0,Киноман Int.
+https://bkm.beetv.kz/btv/live/hls/000003871.m3u8
 
-#EXTINF:0,Карусель Int.
-https://bkm.beetv.kz/btv/live/hls/000000781.m3u8
+#EXTINF:0,НТК Int.
+https://bkm.beetv.kz/btv/live/hls/000000673.m3u8
 
-#EXTINF:0,TV1 (?)
+#EXTINF:0,START Air HD Int.
+https://bkm.beetv.kz/btv/live/hls/000007815.m3u8
+
+#EXTINF:0,START World Int.
+https://bkm.beetv.kz/btv/live/hls/000007818.m3u8
+
+#EXTINF:0,Дорама Int. HD
+https://bkm.beetv.kz/btv/live/hls/000003392.m3u8
+
+#EXTINF:0,Кинеко HD Int.
+https://bkm.beetv.kz/btv/live/hls/000008136.m3u8
+
+#EXTINF:0,Сапфир HD Int.
+https://bkm.beetv.kz/btv/live/hls/000008135.m3u8
+
+#EXTINF:0,Trash HD Int.
+https://bkm.beetv.kz/btv/live/hls/000005621.m3u8
+
+#EXTINF:0,Plan B Int.
+https://bkm.beetv.kz/btv/live/hls/000007625.m3u8
+
+#EXTINF:0,ТВ3 Int. #ГПМНЕБАНЬ!
+https://bkm.beetv.kz/btv/live/hls/000004712.m3u8
+
+#EXTINF:0,Новое ТВ FHD (Караганда,Казахстан) [RU/KZ]
+https://bkm.beetv.kz/btv/live/hls/000001380.m3u8
+
+#EXTINF:0,Atameken Business FHD (Казахстан) [RU]
+https://bkm.beetv.kz/btv/live/hls/000005322.m3u8
+
+#EXTINF:0,QAlem 1 FHD (Казахстан) [KZ]
+https://bkm.beetv.kz/btv/live/hls/000005449.m3u8
+
+#EXTINF:0,QAlem 2 FHD (Казахстан) [KZ]
+https://bkm.beetv.kz/btv/live/hls/000005450.m3u8
+
+#EXTINF:0,Алау ТВ SHD (Костанай,Казахстан) [KZ/RU]
+https://bkm.beetv.kz/btv/live/hls/000001511.m3u8
+
+#EXTINF:0,Ирбис ТВ SHD (Павлодар,Казахстан) [RU/KZ]
+https://bkm.beetv.kz/btv/live/hls/000001513.m3u8
+
+#EXTINF:0,Алтай ТВ SHD [18/7] (Усть-Каменогорск,КЗ) [KZ/RU]
+https://bkm.beetv.kz/btv/live/hls/000001572.m3u8
+
+#EXTINF:0,Aqjaiyq ТВ SHD [14/7] (Уральск,КЗ) [KZ/RU]
+https://bkm.beetv.kz/btv/live/hls/000001689.m3u8
+
+#EXTINF:0,Отырар ТВ (Шымкент,КЗ) [RU/KZ]
+https://bkm.beetv.kz/btv/live/hls/000001052.m3u8
+
+#EXTINF:0,Qostanai ТВ [14/7] (Костанай,Казахстан) [KZ/RU]
+https://bkm.beetv.kz/btv/live/hls/000001521.m3u8
+
+#EXTINF:0,Talim TV SHD (Алма-Ата,КЗ) [KZ/RU]
+https://bkm.beetv.kz/btv/live/hls/000000940.m3u8
+
+#EXTINF:0,ТДК-42 FHD (Уральск,КЗ) [RU/KZ]
+https://bkm.beetv.kz/btv/live/hls/000001507.m3u8
+
+#EXTINF:0,TV1 (Казахстан)
 https://bkm.beetv.kz/btv/live/hls/000000939.m3u8
+
+#EXTINF:0,Qazaqstan HD (Казахстан) [KZ]
+https://bkm.beetv.kz/btv/live/hls/000004208.m3u8
+
+#EXTINF:0,Хабар FHD [20/7] (Казахстан) [KZ/RU]
+https://bkm.beetv.kz/btv/live/hls/000004211.m3u8
+
+#EXTINF:0,Хабар 24 FHD (Казахстан) [KZ/RU]
+https://bkm.beetv.kz/btv/live/hls/000005177.m3u8
+
+#EXTINF:0,Balapan SHD [19/7] (Казахстан) [KZ/RU]
+https://bkm.beetv.kz/btv/live/hls/000005178.m3u8
+
+#EXTINF:0,Qazsport FHD (Казахстан) [KZ/RU]
+https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
+
+#EXTINF:0,Седьмой канал SHD (Казахстан) [KZ/RU?]
+https://bkm.beetv.kz/btv/live/hls/000000659.m3u8
+
+#EXTINF:0,Mańǵystaý ТВ SHD [14/7] (Актау,Казахстан) KZ/RU]
+https://bkm.beetv.kz/btv/live/hls/000003247.m3u8
+
+#EXTINF:0,Ońtústik ТВ SHD [14/7] (Шымкент,Казахстан) [KZ/UZ/RU]
+https://bkm.beetv.kz/btv/live/hls/000003251.m3u8
+
+#EXTINF:0,Qyzyljar ТВ SHD [17/7] (Петропавлоск,КЗ) [KZ/RU]
+https://bkm.beetv.kz/btv/live/hls/000003249.m3u8
+
+#EXTINF:0,Saryarqa ТВ SHD [14/7] (Караганда,Казахстан) [KZ/RU]
+https://bkm.beetv.kz/btv/live/hls/000003146.m3u8
+
+#EXTINF:0,Ertis ТВ SHD [14/7] (Павлодар,Казахстан) [KZ/RU]
+https://bkm.beetv.kz/btv/live/hls/000003248.m3u8
+
+#EXTINF:0,Jambyl ТВ SHD [14/7] (Тараз,Казахстан) [KZ/RU]
+https://bkm.beetv.kz/btv/live/hls/000003244.m3u8
+
+#EXTINF:0,Kókshe ТВ SHD [14/7] (Кокшетау,КЗ) [KZ/RU]
+https://bkm.beetv.kz/btv/live/hls/000003021.m3u8
+
+#EXTINF:0,Qyzylorda ТВ SHD [14/7] (Кызылорда,КЗ) [KZ/RU]
+https://bkm.beetv.kz/btv/live/hls/000003246.m3u8
+
+#EXTINF:0,Туран-Туркестан ТВ SHD (Туркестан,КЗ) [KZ/RU?]
+https://bkm.beetv.kz/btv/live/hls/000007248.m3u8
+
+#EXTINF:0,TRT AVAZ SHD (International) (ТУРЕЦКИЙ)
+https://bkm.beetv.kz/btv/live/hls/000003240.m3u8
+
+#EXTINF:0,El Arna ТВ SHD (Казахстан) [KZ/RU]
+https://bkm.beetv.kz/btv/live/hls/000000670.m3u8
+
+#EXTINF:0,Jetisy SHD (Казахстан) [KZ/RU]
+https://bkm.beetv.kz/btv/live/hls/000001458.m3u8
+
+#EXTINF:0,Jibek Joly HD [KZ/RU] (КЗ)
+https://bkm.beetv.kz/btv/live/hls/000000941.m3u8 
+
+#EXTINF:0,77 SHD (Тараз,КЗ) [KZ]
+https://bkm.beetv.kz/btv/live/hls/000002851.m3u8
+
+#EXTINF:0,Туран SHD [RU] (КЗ)
+https://bkm.beetv.kz/btv/live/hls/000001404.m3u8
+
+#EXTINF:0,Almaty TV SHD [RU/KZ]
+https://bkm.beetv.kz/btv/live/hls/000000667.m3u8
+
+
+# Потом будет добавлено ещё!
+
+
+
+
+#EXTINF:0,Q Live 1
+https://bkm.beetv.kz/btv/live/hls/000008725.m3u8
+
+#EXTINF:0,Q Live 2
+https://bkm.beetv.kz/btv/live/hls/000008726.m3u8
+
+#EXTINF:0,Q Live 3
+https://bkm.beetv.kz/btv/live/hls/000008445.m3u8
+
+#EXTINF:0,Q Live 4
+https://bkm.beetv.kz/btv/live/hls/000008727.m3u8
 
 
 #EXTINF:0,FilmUA Drama (Int.)
 https://bkm.beetv.kz/btv/live/hls/000003028.m3u8
 
 
-# Всё что нашёл :( 
+
 
