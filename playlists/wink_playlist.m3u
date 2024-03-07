@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 
-#EXTINF:-1 group-title="Инфо" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/icon_wink_temp.png",Обновлено 06.03.2024
+#EXTINF:-1 group-title="Инфо" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/icon_wink_temp.png",Обновлено 07.03.2024
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Инфо" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/tg.png",https://clck.ru/37MrWa
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
@@ -179,6 +179,16 @@ https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8?versio
 #EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl9" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a3569455302-s14131.cdn.ngenix.net/hls/CH_R41_ROSSIA1/playlist.m3u8?utcstart=1701406800&version=2
+
+#EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"Россия 24 (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_RTRS_TUM/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="no_wpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24 (+3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_OMSKOBL/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24 (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s84942.cdn.ngenix.net/hls/CH_R01_OTT_DV_BLAG_ROSSIA24_BLG_OTT/variant.m3u8
 
 #EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К (-1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
@@ -646,7 +656,7 @@ https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u
 #EXTINF:-1 group-title="Региональные" tvg-id="teotv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Тео-ТВ (МСК)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="tolyatti24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Тольятти-24
+#EXTINF:-1 group-title="Региональные" tvg-id="tolyatti24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Тольятти 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="ulianovskaya-pravda" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ул.Правда (Ульяновск)
@@ -914,10 +924,10 @@ https://s25617.cdn.ngenix.net/mdrm/CH_KINOUZHASHD/manifest.mpd?token=B6NTljNzVlN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_C06_NASHFOOTBALLHD/manifest.mpd?token=IoMDcwYmEwNThjN2M2YzBmM2Q0ZWJhYTE0NTBiOWViM2Q=
 Хэштег ГПМНЕБАНЬ!
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] Epic HD
+#EXTINF:-1 group-title="Новые (тест)" tvg-id="epic" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] Epic HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] Телеканал Мы
+#EXTINF:-1 group-title="Новые (тест)" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] Телеканал Мы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
 
@@ -932,7 +942,7 @@ https://s25617.cdn.ngenix.net/mdrm/CH_C06_NASHFOOTBALLHD/manifest.mpd?token=IoMD
 
 
 
-# Обновлено 6.03.2024
+# Обновлено 7.03.2024
 # Woobl IPTV Wink Playlist
 # Лучше не убирай)
 # У некоторых каналов есть пустое tvg logo - там будут скоро URL на логотипы.
