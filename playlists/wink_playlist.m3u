@@ -186,8 +186,6 @@ https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_RTRS_TUM/variant.m
 #EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24 (+3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_OMSKOBL/variant.m3u8
-EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] Россия 24 (+7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
 
 #EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К (-1)
