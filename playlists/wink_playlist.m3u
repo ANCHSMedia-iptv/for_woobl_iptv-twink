@@ -117,7 +117,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
 
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg"  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (-1)
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (-1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a787200762-zabava-htlive.cdn.ngenix.net/hls/CH_NTV/video_800x450_avc1/playlist.m3u8
 #EXTINF:-1 group-title="Плюсовые" tvg-id="ntv-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (+2)
@@ -180,13 +180,13 @@ https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8?versio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a3569455302-s14131.cdn.ngenix.net/hls/CH_R41_ROSSIA1/playlist.m3u8?utcstart=1701406800&version=2
 
-#EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"Россия 24 (+2)
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"Россия 24 (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_RTRS_TUM/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-id="no_wpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24 (+3)
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24 (+3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24 (+7)
+#EXTINF:-1 group-title="Плюсовые" tvg-logo="" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24 (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s84942.cdn.ngenix.net/hls/CH_R01_OTT_DV_BLAG_ROSSIA24_BLG_OTT/variant.m3u8
 
