@@ -3,7 +3,7 @@
 # Потоки beeTV из Казахстана
 # Потоки HLS
 # Сортировка - от самого 1 найденного до последнего.
-# Всё что я нашёл. Плейлист будет обновляться!
+# Плейлист будет обновляться!
 # https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/playlists/beetv_hls_iptv_playlist.m3u
 # P.s. Нету геоблока! (не гарантировано что включится потом)
 
@@ -25,7 +25,7 @@ https://bkm.beetv.kz/btv/live/hls/000001419.m3u8
 #EXTINF:0,Домашние Животные Int. 
 https://bkm.beetv.kz/btv/live/hls/000000146.m3u8
 
-#EXTINF:0,Еда Премиум Int. 
+#EXTINF:0,Еда Премиум Int. HD
 https://bkm.beetv.kz/btv/live/hls/000000588.m3u8 
 
 #EXTINF:0,FlixSnip HD СНГ
@@ -180,9 +180,6 @@ https://bkm.beetv.kz/btv/live/hls/000001498.m3u8
 
 #EXTINF:0,Рыбалка и Охота Int.
 https://bkm.beetv.kz/btv/live/hls/000002510.m3u8
-
-#EXTINF:0,Еда Премиум Int. HD
-https://bkm.beetv.kz/btv/live/hls/000000588.m3u8
 
 #EXTINF:0,Setanta Sports Qazaqstan FHD (КЗ) [RU]
 https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
@@ -589,6 +586,22 @@ https://bkm.beetv.kz/btv/live/hls/000000709.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция Int.
 https://bkm.beetv.kz/btv/live/hls/000006365.m3u8
 
+#EXTINF:0,viju (Viasat) TV1000 Русское Кино СНГ
+https://bkm.beetv.kz/btv/live/hls/000003748.m3u8
+
+#EXTINF:0,Amedia Hit Int.
+https://bkm.beetv.kz/btv/live/hls/000001662.m3u8
+
+#EXTINF:0,viju (Viasat) Explore HD CНГ
+https://bkm.beetv.kz/btv/live/hls/000004157.m3u8
+
+#EXTINF:0,viju (Viasat) History HD СНГ
+https://bkm.beetv.kz/btv/live/hls/000005528.m3u8
+
+#EXTINF:0,viju (Viasat) Nature HD СНГ
+https://bkm.beetv.kz/btv/live/hls/000006482.m3u8
+
+
 
 #EXTINF:0,Q Arena
 https://bkm.beetv.kz/btv/live/hls/000007615.m3u8
@@ -611,7 +624,6 @@ https://bkm.beetv.kz/btv/live/hls/000008445.m3u8
 #EXTINF:0,Q Live 4
 https://bkm.beetv.kz/btv/live/hls/000008727.m3u8
 
-
 #EXTINF:0,Insport TEST
 https://bkm.beetv.kz/btv/live/hls/000006983.m3u8
 
@@ -627,7 +639,9 @@ https://bkm.beetv.kz/btv/live/hls/000007832.m3u8
 
 
 
-#EXTINF:0,FilmUA Drama (Int.)
+#EXTINF:0,FilmUA Drama (Int.) [Укр.]
 https://bkm.beetv.kz/btv/live/hls/000003028.m3u8
 
+#EXTINF:0,Дача HD (Int.) [Укр.]
+https://bkm.beetv.kz/btv/live/hls/000006646.m3u8
 
