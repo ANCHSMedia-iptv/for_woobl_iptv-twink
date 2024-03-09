@@ -598,7 +598,7 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="volgograd-1" tvg-shift="+0" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Волгоград 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="vostok-24" tvg-shift="+7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Восток 24 (Владивосток)
+#EXTINF:-1 group-title="Региональные" tvg-id="vostok-24" tvg-name="Восток 24" tvg-shift="+7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Восток 24 (Владивосток)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="gorodskoy-yaroslavl" tvg-shift="+0" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ГТ-Ярославль
@@ -655,7 +655,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="nntv" tvg-shift="+0" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ННТВ (Нижний Новгород)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Наши города (ХМАО-Югра)
+#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Наши города (ХМАО-Югра)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="nika-tv" tvg-shift="+0 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ника ТВ (Калуга)
@@ -715,7 +715,7 @@ https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="tolpartv" tvg-shift="+2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Толпар ТВ (Уфа)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://s45177.cdn.ngenix.net/hls/CH_R02_TOLPAR/variant.m3u8
-#EXTINF:-1 tvg-id="objektiv-59" tvg-shift="+2" tvg-name="Объектив 59" group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] Объектив 59 (Пермь)
+#EXTINF:-1 tvg-id="objektiv-59" tvg-name="Объектив 59" tvg-shift="+2" group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] Объектив 59 (Пермь)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
 #EXTINF:-1 group-title="Региональные" tvg-id="osetia-iryston" tvg-shift="+0" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Осетия Ирыстон HD (Сев.Осетия)
@@ -754,7 +754,7 @@ http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="s1-surgut" tvg-shift="+2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",С1 (Сургут)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] СТВ-Байкал (Улан-Удэ)
+#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] СТВ-Байкал (Улан-Удэ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
 #EXTINF:-1 group-title="Региональные" tvg-id="gis-samara" tvg-shift="+1" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Самара-ГИС
