@@ -980,10 +980,11 @@ https://s25617.cdn.ngenix.net/mdrm/CH_C06_NASHFOOTBALLHD/manifest.mpd?token=IoMD
 Хэштег ГПМНЕБАНЬ!
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/Telekanal_Epic_Logo.png" group-title="Новые (тест)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Epic [Пустышка]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
+https://drive.usercontent.google.com/uc?id=1Dd2jVHEdDLFvHGq39CuGy4bxpj3-K1Zd&export=download
 #EXTINF:-1 group-title="Новые (тест)" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/Telekanal_My_(temp).png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Телеканал Мы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-https://s25617.cdn.ngenix.net/mdrm/CH_MYHD/manifest.mpd?token=TTNzZmMTZmNWZmOTQ3NzRiNzQ2ZmMxMDdjYjcwMWVlZWY
+https://drive.usercontent.google.com/uc?id=1Dd2jVHEdDLFvHGq39CuGy4bxpj3-K1Zd&export=download
+# Поток удалён из-за проблем с ним же.
 
 # Для Epic нужен токен, добавлю потом.
 
@@ -999,6 +1000,5 @@ https://drive.usercontent.google.com/uc?id=1Dd2jVHEdDLFvHGq39CuGy4bxpj3-K1Zd&exp
 
 # Обновлено 10.03.2024
 # Woobl IPTV Wink Playlist
-# Лучше не убирай)
-
+# Лучше не убирай)
 # Очень странно насчёт юзер агентов..
