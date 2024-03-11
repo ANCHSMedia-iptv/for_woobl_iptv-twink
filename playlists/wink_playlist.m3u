@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 
-#EXTINF:-1 group-title="Инфо" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/icon_wink_temp.png",Обновлено 10.03.2024
+#EXTINF:-1 group-title="Инфо" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/icon_wink_temp.png",Обновлено 11.03.2024
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Инфо" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/tg.png",https://clck.ru/37MrWa
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
@@ -526,7 +526,7 @@ http://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="tmtv" tvg-shift="+1" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",TMTV (Казань)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="maydan" tvg-shift="+1" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Майдан (Казань)
+#EXTINF:-1 group-title="Региональные" tvg-id="maydan" tvg-shift="+1" tvg-language="ru" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Майдан (Казань)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_OTT_VLG_KZN_MAIDAN/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="12-omsk" tvg-shift="+3" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",12 канал (Омск)
