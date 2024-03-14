@@ -30,7 +30,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 
 #EXTINF:-1 group-title="Основные" tvg-id="super" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Суббота
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-http://a3569458686-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/playlist.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/playlist.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="match-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
@@ -55,7 +55,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 
 #   Хэштег ГПМНЕБАНЬ!
 
-#EXTINF:-1 group-title="Основные" tvg-id="super" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че
+#EXTINF:-1 group-title="Основные" tvg-id="che" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="yu" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю
@@ -110,7 +110,7 @@ http://a3569458674-zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/video_800x450_avc1/
 #EXTINF:-1 group-title="Плюсовые" tvg-id="pervy-pl1" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-id="pervy-pl2 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+2)
+#EXTINF:-1 group-title="Плюсовые" tvg-id="pervy-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" tvg-id="pervy-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+2) [2]
@@ -235,7 +235,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
 http://a787200757-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t
 #EXTINF:-1 group-title="Плюсовые" tvg-id="piatnica-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_2/variant.m3u8
+
 #EXTINF:-1 group-title="Плюсовые" tvg-id="piatnica-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
