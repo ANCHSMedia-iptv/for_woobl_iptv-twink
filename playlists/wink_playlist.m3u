@@ -718,7 +718,7 @@ https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="tolpartv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Толпар ТВ (Уфа)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://s45177.cdn.ngenix.net/hls/CH_R02_TOLPAR/variant.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="Региональные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Объектив 59 (Пермь) [Пустышка]
+#EXTINF:-1 tvg-id="no_epg" group-title="Региональные" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Объектив 59 (Пермь) [Пустышка]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
 #EXTINF:-1 group-title="Региональные" tvg-id="osetia-iryston" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Осетия Ирыстон HD (Сев.Осетия)
