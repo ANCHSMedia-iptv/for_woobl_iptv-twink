@@ -631,7 +631,7 @@ https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant
 #EXTINF:-1 group-title="Региональные" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] Зима ТВ (Иркутск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
-#EXTINF:-1 group-title="Региональные" tvg-id="no_epg tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] КТВ-Город (Воронеж)
+#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] КТВ-Город (Воронеж)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
 #EXTINF:-1 group-title="Региональные" tvg-id="kaskad24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Каскад ТВ (Калининград)
