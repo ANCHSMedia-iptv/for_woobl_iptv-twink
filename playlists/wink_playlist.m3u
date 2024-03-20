@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 
-#EXTINF:-1 group-title="Инфо" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/icon_wink_temp.png",Обновлено 18.03.2024
+#EXTINF:-1 group-title="Инфо" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/icon_wink_temp.png",Обновлено 20.03.2024
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Инфо" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/tg.png",https://clck.ru/37MrWa
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
@@ -113,7 +113,7 @@ https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/vari
 #EXTINF:-1 group-title="Плюсовые" tvg-id="pervy-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-id="pervy-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+2) [2]
+#EXTINF:-1 group-title="Плюсовые" tvg-id="pervy-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал [2] (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_RTRS_TUM/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" tvg-id="pervy-pl3" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+3)
@@ -124,7 +124,7 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/va
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" tvg-id="pervy-pl5" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" tvg-id="pervy-pl6" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
@@ -138,15 +138,114 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
 
+#EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/Russia1_-1_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (-1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+http://a787201483-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl1" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl1" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 [2] (+1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 [2] (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_RTRS_TUM/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl3" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4//variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl5" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_IRKUTSK/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl6" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl8" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl9" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+http://a3569455302-s14131.cdn.ngenix.net/hls/CH_R41_ROSSIA1/playlist.m3u8?utcstart=1701406800
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl9" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 [2] (+9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
+
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24 (+1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24 [2] (+1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/Russia24_+2_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24 (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA24_EKT/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/Russia24_+2_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24 [2] (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_RTRS_TUM/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/Russia24_+3_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24 (+3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_OMSKOBL/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24 (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_KRASN_KRAI/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24 (+5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_IRKUTSK/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24 (+6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_ROSSIA24/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24 (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VLAD_ROSSIA24/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24 (+8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_ROSSIA24/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24 (+9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA24/variant.m3u8
+
+#EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К (-1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+http://a3569458677-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t
+#EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К (+1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="kultura-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="kultura-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К (+6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+http://a787201484-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t
+#EXTINF:-1 group-title="Плюсовые" tvg-id="kultura-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
+
 #EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (-1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-http://a787200762-zabava-htlive.cdn.ngenix.net/hls/CH_NTV/video_800x450_avc1/playlist.m3u8
+http://a787200762-zabava-htlive.cdn.ngenix.net/hls/CH_NTV/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t
 #EXTINF:-1 group-title="Плюсовые" tvg-id="ntv-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (+3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R03_NTV_TOMSK_OBL/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" tvg-id="ntv-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (+5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_NTV_IRKUTSK/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (+6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a1311338269-zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t
@@ -170,72 +269,12 @@ http://a1311338245-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/video_800x450_avc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 
-#EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/Russia1_-1_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (-1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-http://a787201483-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t
-#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl1" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 [2] (+2) [Пустышка]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-
-#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl3" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4//variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl5" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl6" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl8" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia1-pl9" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-http://a3569455302-s14131.cdn.ngenix.net/hls/CH_R41_ROSSIA1/playlist.m3u8?utcstart=1701406800
-
-#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/Russia24_+2_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24 (+2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA24_EKT/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/Russia24_+2_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24 [2] (+2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_RTRS_TUM/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/Russia24_+3_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24 (+3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_OMSKOBL/variant.m3u8
-
-#EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К (-1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-http://a3569458677-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t
-#EXTINF:-1 group-title="Плюсовые" tvg-id="kultura-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К (+2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-id="kultura-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К (+4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К (+6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-http://a787201484-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t
-#EXTINF:-1 group-title="Плюсовые" tvg-id="kultura-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К (+7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
-
 #EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница (-1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a787200757-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t
 #EXTINF:-1 group-title="Плюсовые" tvg-id="piatnica-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-https://drive.usercontent.google.com/uc?id=1aQAascoCK7w-BCL10eysNWngmVBUaIuS&export=download
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" tvg-id="piatnica-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
@@ -291,9 +330,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" tvg-id="sts-love-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС Love (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-id="sts-love-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС Love (+7) [Недоступен]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-https://drive.usercontent.google.com/uc?id=1aQAascoCK7w-BCL10eysNWngmVBUaIuS&export=download
+
+
+# У СТС Love (+7) поток в 404, канал удалён.
 
 
 #EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ (-1)
@@ -342,15 +381,15 @@ http://a3569458168-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/video_800x450_avc1
 #EXTINF:-1 group-title="Плюсовые" tvg-id="che-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че! (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s91412.cdn.ngenix.net/mdrm/CH_CHE_2/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-id="che-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че! (+2) [2]
+#EXTINF:-1 group-title="Плюсовые" tvg-id="che-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че! [2] (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" tvg-id="che-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че! (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s91412.cdn.ngenix.net/mdrm/CH_CHE_4/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-id="che-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че! (+4) [2]
+#EXTINF:-1 group-title="Плюсовые" tvg-id="che-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че! [2] (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че! (+6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://a1311338245-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/video_800x450_avc1/playlist.m3u8?offset=-3600&useseq=t
@@ -404,7 +443,7 @@ http://a3285275085-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/video_800x450_a
 #EXTINF:-1 group-title="Плюсовые" tvg-id="domashny-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-id="domashny-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний (+2) [2]
+#EXTINF:-1 group-title="Плюсовые" tvg-id="domashny-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний [2] (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s91412.cdn.ngenix.net/mdrm/CH_DOMASHNY_2/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" tvg-id="domashny-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний (+4)
@@ -416,7 +455,7 @@ http://a787200755-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/video_800x450_a
 #EXTINF:-1 group-title="Плюсовые" tvg-id="domashny-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-id="domashny-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний (+7) [2]
+#EXTINF:-1 group-title="Плюсовые" tvg-id="domashny-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний [2] (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s91412.cdn.ngenix.net/mdrm/CH_DOMASHNY_7/variant.m3u8
 
@@ -451,6 +490,38 @@ http://a3569458172-zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/video_800x450_avc1/
 #EXTINF:-1 group-title="Плюсовые" tvg-id="mir-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Мир (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+
+#EXTINF:-1 group-title="Плюсовые" tvg-id="no-epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТР (-1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KLNG_FILIAL/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТР (+1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="otr-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТР (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_OTR_EKT/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТР (+3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R04_OTR_NSO/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="otr-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТР (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KEMOBL/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТР (+5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_OTR/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТР (+6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_OTR/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="otr-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТР (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_OTR/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="otr-pl8" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТР (+8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_OTR/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТР (+9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_OTR/variant.m3u8
+
 
 #EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятый канал (-1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
@@ -505,6 +576,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" tvg-id="muztv-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Муз ТВ (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
+#EXTINF:-1 group-title="Плюсовые" tvg-id="muztv-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Муз ТВ [2] (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s91412.cdn.ngenix.net/mdrm/CH_MUZTV_4/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" tvg-id="muztv-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Муз ТВ (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
@@ -787,8 +861,10 @@ http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_PRODVIZHENIE/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="prodvizhenie" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Продвижение (Астрахань) HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R03_PRO_ASTRAKHAN/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] Продвижение СЭТ (Хабаровск)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+
+
+# Продвижение СЭТ (Хабаровск) - потока не сущевствует, удалён.
+
 
 #EXTINF:-1 group-title="Региональные" tvg-id="rts-abakan" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",РТС (Абакан)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
@@ -817,7 +893,7 @@ https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_STAVR_STV-PLUS/var
 #EXTINF:-1 group-title="Региональные" tvg-id="surgut-24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Сургут 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] ТК Центр Красноярск
+#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] Центр Красноярск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
 #EXTINF:-1 group-title="Прочие" tvg-id="tnv-planeta" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНВ-Планета
@@ -874,28 +950,33 @@ https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/TVoya_Tyumen_(Regional)_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",TVоя Тюмень
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TVOYATUMEN/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="yo" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/%23yo_(SM)_(Regional)_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",#ё HD (Самара) [Недоступен]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+
+
+# Канал #ё (Самара) прекратил вещание на платформе Винк в феврале 2023 года, удалён.
+
 
 #EXTINF:-1 group-title="Региональные" tvg-id="49kanal" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НСК 49 канал HD (Новосибирск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТС/Известия HD (Бердск,Новосибирск)
+#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" tvg-logo="https://epgx.site/p/ots.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТС/Известия HD (Бердск,Новосибирск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTS_BERDSK_NSK/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",МГК/Известия HD (Магадан)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://s20441.cdn.ngenix.net/hls/CH_R49_MGTK/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Тобольское время
+#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/Tobolskoe_Vremya_(TLK)_(Regional)_Logo.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Тобольское время
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TOBOLSKOEVREMYA/variant.m3u8
+
+
+# Скоро добавлю ещё регион. каналы (:
 
 
 
 #EXTINF:-1 group-title="Прочие" tvg-id="nasha-sibir-4k" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Наша Сибирь 4k
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
-#EXTINF:-1 group-title="Прочие" tvg-id="shayantv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Шаян ТВ (Казань)
+#EXTINF:-1 group-title="Прочие" tvg-id="shayantv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Шаян ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
 #EXTINF:-1 group-title="Винк" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/Vse_TV_Wink_(RTK)_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Всё ТВ HD 
@@ -912,136 +993,139 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
 
-#EXTINF:-1 group-title="Новые (тест)" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/warn.png",Потоки могут долго грузить!
+#EXTINF:-1 group-title="Новые (DRM)" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/warn.png",Потоки могут долго грузить!
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="curiosity-stream" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Curiosity Stream
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="curiosity-stream" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Curiosity Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_CURIOSITYSTREAMHD/manifest.mpd?token=TdYTkxNTljYTk0N2Q0YTgxYzc1ZGM4NDM4YjcyOTgzNzA
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="curiosity-stream",Curiosity Stream (2)
+#EXTINF:-1 group-title="Прочие" tvg-id="curiosity-stream",Curiosity Stream [2]
 http://109.248.236.21:4433/udp/238.1.1.112:1234
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="cartoon-classics" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Cartoon Classics
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="cartoon-classics" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Cartoon Classics
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_CARTOONCLASSICS/manifest.mpd?token=sdM2Y3ODc3MjMxNzY4Yjk4OTMzYjA2NjkyNmQ2ZGU4M2Q
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="gags-network" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Gagsnetwork HD
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="gags-network" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Gagsnetwork HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_GAGSNETWORKHD/manifest.mpd?token=XnMTcxZTdkNzFkYTZmNmM3OWIyMDRmMTMyYzVmZjRmYjc
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="kinoliving" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",KinoLiving HD
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="kinoliving" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",KinoLiving HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_KINOLIVINGHD/manifest.mpd?token=k9ODJhNzRhZDAzOGU4OWUyYzljNmUzMTFiOTM2YTViOTg=
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="romance" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Romance Channel
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="romance" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Romance Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_ROMANCEHD/manifest.mpd?token=tuMTU5ZDVlM2FhYmNjY2ExMTljMjZkMjJkNDZjMzhmZTI
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="silkway" tvg-language="ru" tvg-country="RU" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Silk Way
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="silkway" tvg-language="ru" tvg-country="RU" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Silk Way
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_KAZAHHD/manifest.mpd?token=L3MTZlNjc5MzFhYzFkOWZhOThjNWU5MjFhMzEwN2Q1NGE
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="travel-adventure" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Travel+Adventure HD
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="travel-adventure" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Travel+Adventure HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_TRAVELANDADVENTUREHD/manifest.mpd?token=f0ZjEzYTI1M2VkNDQ4MzM0N2QwNjlmMjJiYzA0NjEwYjY
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="travel-xp-4k" tvg-language="ru" tvg-country="RU" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Travelxp 4K
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="travel-xp-4k" tvg-language="ru" tvg-country="RU" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Travelxp 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_TRAVELXP4K/manifest.mpd?token=28YmYwMzY1MWViOGJlNjU2NDkwMDQ4OTQxNGI0NzBjOTQ
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="travel-xp-hd" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Travelxp HD
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="travel-xp-hd" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Travelxp HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_TRAVELXPHD/manifest.mpd?token=r7N2RkZjc0YmM4ODYxZWMxYzc3MTBmMjM3NDRjNjgzZDA=
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="viasat-nature-history-hd" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",viju+ Planet HD
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="viasat-nature-history-hd" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",viju+ Planet HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_C03_VIASATNATUREHISTORYHD/manifest.mpd?token=E7MDk0NjJkMTk2MzA5YzAwMzhhMGI4YTc1YzM4NTViYzg
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="narod-vsio-vidit" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Народ Всё Видит (НВВ)
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="narod-vsio-vidit" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Народ Всё Видит (НВВ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_NVV/manifest.mpd?token=85MjBhOWE5OGJkZTJkOGUxOTMxMTg2MjIzOTFmYmFkOTg
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="neizvestnaya-rosia" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Неизвестная Россия HD
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="neizvestnaya-rosia" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Неизвестная Россия HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_UNKRUSSIAHD/manifest.mpd?token=TeOGFjYjA2MzQyODA2NWVjZGI2ZjkxZWRmZDBjZGY1NDA
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="nowy-igrowoj" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НИК
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="nowy-igrowoj" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НИК
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_NIK/manifest.mpd?token=7rMDk1NjI1ZjZmNDJjOWNlZjVhZWZjNTAzMmUyNjBlMWE
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="anekdottv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Анекдот ТВ
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="anekdottv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Анекдот ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_ANEKDOTTV/manifest.mpd?token=BaNzYzYWNhZmIwNTcyZjNmYThlMDI3Yzg0ZDgyYTMwNmM
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="big-planet" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Big Planet
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="big-planet" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Big Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_BIGPLANETHD/manifest.mpd?token=kLNTgyZWVjMzFhOTllOTFkYmFiNDllMTU3MDEzYjk2ZDA=
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="viasat-explore" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",viju Explore HD
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="viasat-explore" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",viju Explore HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_VIASATEXPLOREHD/manifest.mpd?token=YnMmU0MjUyODVlY2EyZGJjZmJjNTY4ZGMwM2VkM2Q3NzM
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="viasat-history" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",viju History HD
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="viasat-history" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",viju History HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_VIASATHISTORYHD/manifest.mpd?token=DTYWI5ODU0MWM1Y2NiZTFlN2QzN2M4ZTdlYTEyMjdjYWQ
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="viasat-nature" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",viju Nature HD
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="viasat-nature" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",viju Nature HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_VIASATNATUREHD/manifest.mpd?token=YxZWEyOTNlMDY1NTE2NGU4Y2ZjYmU2OWVjMDUwZGRhZjU
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="viju-tv1000-novella" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/viju_tv1000_Novella_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",viju TV1000 Новелла HD 
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="viju-tv1000-novella" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/viju_tv1000_Novella_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",viju TV1000 Новелла HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer 
 https://s25617.cdn.ngenix.net/mdrm/CH_VIJUTV1000NOVELLAHD/manifest.mpd?token=OkNTkwYzNmYjk2YTExN2JmZDMzNzU0MTlkODljNzE0ODU
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="hd-life" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/HDL_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",HDL HD
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="hd-life" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/HDL_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",HDL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_HDLHD/manifest.mpd?token=DoMjhlMjcxMmUyZmIzNTBjZWNmODA0MzkwYmM4ZWQ4ZTQ
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="myzen-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",My Zen TV HD
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="myzen-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",My Zen TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_C05_MYZENTVHD/manifest.mpd?token=dQZjVlODkxYWU0OTJjYzM5NmRmMGVjN2E0ZmM4NjQ5OGY
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="xabar24" tvg-language="ru" tvg-country="RU" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",24KZ HD
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="xabar24" tvg-language="ru" tvg-country="RU" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",24KZ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_HABARHD/manifest.mpd?token=XvYWIzMTc1YWY1Y2I2MGFmNzM5NGJmMDhjNWQ1NmNiNWU
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="suspense" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Suspense HD
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="suspense" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Suspense HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_SUSPENSEHD/manifest.mpd?token=25MzkxODU3NTMyY2UzYzE5N2IzMzk4Y2NkMjI4ZTNhM2M
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="cctv4" tvg-language="ru" tvg-country="RU" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",CCTV-4
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="cctv4" tvg-language="ru" tvg-country="RU" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",CCTV-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_CCTV4/manifest.mpd?token=W8ZTJiNDNmM2UzMjE1ZDcwYTIwYTAwZTQzMGY2NDVjNTU
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="start-world" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",START World
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="start-world" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Start World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_STARTWORLDHD/manifest.mpd?token=5pMTViMjIzYzkxOTZiYTU4YTRlNzJkMGM1MWU3ZWFmZjI=
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="start-air" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",START Air
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="start-air" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Start Air
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_STARTAIRHD/manifest.mpd?token=84MTY5YTc1NzYwODE4NmRiYWNjOTMxY2YwZGI0YzA5YjI=
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="viasat-sport" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",viju+ Sport
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="viasat-sport" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",viju+ Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_VIASATSPORT/manifest.mpd?token=FDZDgyMWMyMGM4ZTI5MTFhYmFjYTFjZWViN2YzZmIxMDU
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="kinomult" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",КиноМульт
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="kinomult" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",КиноМульт
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_KINOMULT/manifest.mpd?token=52YmY5MmFhNjZmMmU0OTBkZDY4NWMzMDRkODExNGJmOTc
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="multimuzyka" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Мульт и Музыка
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="multimuzyka" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Мульт и Музыка
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_STRANA/manifest.mpd?token=IQNThlZDNmMzk1YzY5NTRiODdlOTdlNWNjZTJjYzEzMWQ
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="telekanal-naronoj-muzyki" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Телеканал народной музыки HD
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="telekanal-naronoj-muzyki" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Телеканал народной музыки HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_NARODNAYAMUZIKAHD/manifest.mpd?token=sdZGRkMjNhNTE1Mzg3MjhkOTBlZDc0Zjg3YmYxN2RiZjI
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="echotv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Эхо-ТВ
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="echotv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Эхо ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_ECHOTV/manifest.mpd?token=fdNGQ0NWNmNDhlYTVmMTY3ZWMyZDc0MDEzZWJlNzFkMjI
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="drive" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Драйв HD
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="drive" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Драйв HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_DRIVE/manifest.mpd?token=TdOTJiNDRlYWMzNDlmYzhiYjEzYmQ2ZGIxN2U2YzQ0ZmM
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="tv1000-action" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",viju TV1000 Action HD
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="tv1000-action" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",viju TV1000 Action HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_TV1000ACTIONHD/manifest.mpd?token=MxMGZhMDE4Mzc4MmVlMDY1MGM4ZDIzODM4ZDgwMmRmZjI
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="kinosvidanie" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Киносвидание HD
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="kinosvidanie" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Киносвидание HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_KINODATEHD/manifest.mpd?token=XAOTM0MzVlYTIyNTZiYzVkOWJiOGNkY2JmMTEwM2ExNTE
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="kinosemiya" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Киносемья HD
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="kinosemiya" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Киносемья HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_KINOFAMILYHD/manifest.mpd?token=VeYTMwYzc0ZjM2NGJiMTE3NDdlMjMzN2I3ZDI5NzBiZTc
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="kinouzhas" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Киноужас HD
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="kinouzhas" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Киноужас HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_KINOUZHASHD/manifest.mpd?token=B6NTljNzVlNmE5MjUwZWEyNDViMjQ0OWFkODI5YWQwZDM
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="match-premier" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч Премьер HD
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="match-premier" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч Премьер HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s25617.cdn.ngenix.net/mdrm/CH_C06_NASHFOOTBALLHD/manifest.mpd?token=IoMDcwYmEwNThjN2M2YzBmM2Q0ZWJhYTE0NTBiOWViM2Q=
 
 #   Хэштег ГПМНЕБАНЬ!
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/Telekanal_Epic_Logo.png" group-title="Новые (тест)",Epic [Заглушка]
+#EXTINF:-1 group-title="Прочие" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/Telekanal_Epic_Logo.png",Epic [Заглушка]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://drive.usercontent.google.com/uc?id=1Dd2jVHEdDLFvHGq39CuGy4bxpj3-K1Zd&export=download
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/Telekanal_My_(temp).png",Телеканал Мы HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
-https://s25617.cdn.ngenix.net/mdrm/CH_MYHD/manifest.mpd?token=TTNzZmMTZmNWZmOTQ3NzRiNzQ2ZmMxMDdjYjcwMWVlZWY
-# Поток удалён из-за проблем с ним, скоро добавлю.
+
 
 # Для Epic нужен токен, добавлю потом.
 
-#EXTINF:-1 group-title="Новые (тест)" tvg-id="the-explorers",[Заглушка] The Explorers HD
+
+#EXTINF:-1 group-title="Новые (DRM)" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/wink_iptv_playlist/Telekanal_My_(temp).png",Телеканал Мы HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
+https://s25617.cdn.ngenix.net/mdrm/CH_MYHD/manifest.mpd?token=TTNzZmMTZmNWZmOTQ3NzRiNzQ2ZmMxMDdjYjcwMWVlZWY
+
+
+#EXTINF:-1 group-title="Прочие" tvg-id="the-explorers",[Заглушка] The Explorers HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://drive.usercontent.google.com/uc?id=1Dd2jVHEdDLFvHGq39CuGy4bxpj3-K1Zd&export=download
 
@@ -1051,7 +1135,7 @@ https://drive.usercontent.google.com/uc?id=1Dd2jVHEdDLFvHGq39CuGy4bxpj3-K1Zd&exp
 
 
 
-# Обновлено 15.03.2024
+# Обновлено 20.03.2024
 # Woobl IPTV Wink Playlist
 # Лучше не убирай)
 
