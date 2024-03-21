@@ -491,7 +491,7 @@ http://a3569458172-zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/video_800x450_avc1/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 
-#EXTINF:-1 group-title="Плюсовые" tvg-id="no-epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТР (-1)
+#EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТР (-1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KLNG_FILIAL/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТР (+1)
@@ -581,7 +581,6 @@ https://s91412.cdn.ngenix.net/mdrm/CH_MUZTV_4/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" tvg-id="muztv-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Муз ТВ (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
-
 
 #EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Спас (-1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
