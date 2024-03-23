@@ -289,7 +289,7 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_RENTV_OMSKOBL/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" tvg-id="rentv-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
-#EXTINF:-1 group-title="Скоро" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ (+5)
+#EXTINF:-1 group-title="Скоро" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] Рен ТВ (+5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 
 #EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/full_iptv_playlist/RenTV_+6_Logo.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ (+6)
@@ -629,7 +629,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" tvg-id="muztv-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Муз ТВ [2] (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 https://s91412.cdn.ngenix.net/mdrm/CH_MUZTV_4/variant.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Муз ТВ (+5)
+#EXTINF:-1 group-title="Плюсовые" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",[Пустышка] Муз ТВ (+5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.33.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_MUZTV/variant.m3u8
 #EXTINF:-1 group-title="Скоро" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/files/no_logo_wink.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Муз ТВ (+6)
