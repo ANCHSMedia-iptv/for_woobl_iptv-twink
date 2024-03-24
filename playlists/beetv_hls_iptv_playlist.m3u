@@ -10,7 +10,7 @@
 
 # Для Woobl IPTV
 # Автор: @acidraineasy0272mc (telegram)
-# Обновлено 22.03.2024
+# Обновлено 24.03.2024
 
 # User agent чтобы открыть: Dalvik/2.1.0
 
@@ -346,7 +346,7 @@ https://bkm.beetv.kz/btv/live/hls/000000210.m3u8
 #EXTINF:0,MCM Top СНГ
 https://bkm.beetv.kz/btv/live/hls/000000327.m3u8
 
-#EXTINF:0,Первый канал Евразия (Казахстан)
+#EXTINF:0,1HD MTV
 https://bkm.beetv.kz/btv/live/hls/000001020.m3u8
 
 #EXTINF:0,Mezzo International [FR]
@@ -618,6 +618,21 @@ https://bkm.beetv.kz/btv/live/hls/000000202.m3u8
 
 #EXTINF:0,Победа Int.
 https://bkm.beetv.kz/btv/live/hls/000004534.m3u8
+
+#EXTINF:0,Первый канал Евразия
+https://bkm.beetv.kz/btv/live/hls/000000669.m3u8
+
+#EXTINF:0,CNN International (ENG)
+https://bkm.beetv.kz/btv/live/hls/000000707.m3u8
+
+#EXTINF:0,BBC World News (ENG)
+https://bkm.beetv.kz/btv/live/hls/000000014.m3u8
+
+#EXTINF:0,France 24 (International)
+https://bkm.beetv.kz/btv/live/hls/000000290.m3u8
+
+#EXTINF:0,DW (ENG) [СМИ-иноагент]
+https://bkm.beetv.kz/btv/live/hls/000000291.m3u8
 
 
 
